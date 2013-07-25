@@ -1,0 +1,64 @@
+﻿<list>
+<m label="【 乐视直播 】" list_src="list/letvlive.xml" opened="0" color="#FFFFFF, #ff0000"/>
+<m label="港台地区">
+<m type="2" src="FHZW" rtmp="rtmp://livedl.ifeng.com/live/" label="凤凰卫视(官方)"/>
+<m type="2" src="FHZX" rtmp="rtmp://livedl.ifeng.com/live/" label="凤凰资讯(官方)"/>
+<m type="2" src="JLWS" rtmp="rtmp://livedl.ifeng.com/live/" label="凤凰香港(官方)"/>
+<m type="2" src="http://123.129.196.39:1863/2584831218.flv" label="香港卫视"/>
+<m type="2" src="hks" rtmp="rtmp://live.hkstv.hk.lxdns.com/live" label="(联通)香港卫视(FLV)"/>
+<m label="港-新城财经" type="2"  src="http://metroradio-f.akamaihd.net/mmc_h_300@63?v=2.1.20&fp=WIN11&r=OVYUW&g=VBQQIRDWCJDW&seek=NaN" />
+<m type="2" src="http://gslb.tv.sohu.com/live?cid=54" label="HTV-1"/>
+<m type="2" src="http://gslb.tv.sohu.com/live?cid=49" label="HTV-2"/>
+<m type="2" src="vod62_Live/live1" rtmp="rtmp://cfs4.ccdntech.com/live" label="宏观卫视(FLV)"/>
+<m type="2" src="vod116_Live/201108211.flv" rtmp="rtmp://flv.ccdntech.com/live/_definst_/" label="台湾生命电视"/>
+<m type="2" src="http://nextmedia-f.akamaihd.net/nexttvlive_1_600@49187" label="(联通)壹电视台(FLV)"/>
+<m type="2" src="http://nextmedia2-f.akamaihd.net/nexttvamerica_1_300@53250" label="(联通)壹电视(美洲)"/>
+<m src="ch1.live" rtmp="rtmp://media3.tdm.com.mo:1935/ch1/ch1.live" label="澳视澳门"/>
+<m src="ch3.live" rtmp="rtmp://media3.tdm.com.mo:1935/ch3/ch3.live" label="澳门-Macau"/>
+<m src="ch4.live" rtmp="rtmp://media3.tdm.com.mo:1935/ch4/ch4.live" label="澳视体育"/>
+<m type="2" src="mp4:Stream_1" rtmp="rtmp://live.kksmg.com:80/live"  label="看看网络频道-高清"/>
+<m type="2" src="http://223.27.170.210/channels/1111/800.flv/live" label="ladytv" />
+</m>
+<m label="日韩频道">
+<m type="2" src="http://223.27.170.210/channels/39/800.flv/live/400.flv/live" label="韩国电影台" />
+<m type="2" src="http://223.27.170.210/channels/39/800.flv/live"  label="I Movies"/>
+</m>
+<m label="欧州频道">
+<m type="2" src="RT_1.flv" rtmp="rtmp://fms5.visionip.tv/live" label="俄罗斯RT电视台英语频道(流畅)"/>
+<m type="2" src="RT_US_3.flv" rtmp="rtmp://rt.fms.visionip.tv/live" label="俄罗斯RT电视台美国频道(高清)"/>
+<m type="2" src="RT_US_2.flv" rtmp="rtmp://rt.fms.visionip.tv/live" label="俄罗斯RT电视台美国频道(标清)"/>
+<m type="2" src="f24_livefr" rtmp="rtmp://stream2.france24.yacast.net:80/france24_live/fr" label="法国24小时新闻法语台"/>
+<m type="2" src="f24_liveen.flv" rtmp="rtmp://stream2.france24.yacast.net:80/france24_live/en" label="法国24小时新闻英语台"/>
+<m type="2" src="f24_livefrda.flv" rtmp="rtmp://stream2.france24.yacast.net:80/france24_live/frda" label="法国24小时新闻阿语台"/>
+<m type="2" src="Familietv.flv" rtmp="rtmp://lvs.wowza.jay.net/kkrtv" label="丹麦基督教家庭电视台"/>
+<m type="2" src="livedr01bstream2" rtmp="rtmp://rtmplive.dr.dk/live/" label="丹麦国家电视1台"/>
+<m type="2" src="livedr02bstream2" rtmp="rtmp://rtmplive.dr.dk/live/" label="丹麦国家电视2台"/>
+<m type="2" src="livedr03bstream2" rtmp="rtmp://rtmplive.dr.dk/live/" label="丹麦国家电视台新闻频道"/>
+<m type="2" src="livedr04bstream2" rtmp="rtmp://rtmplive.dr.dk/live/" label="丹麦国家电视台文化频道"/>
+<m type="2" src="livedr05bstream2" rtmp="rtmp://rtmplive.dr.dk/live/" label="丹麦国家电视台儿童频道"/>
+<m type="2" src="naxoo" rtmp="rtmp://rtmp.infomaniak.ch/livecast/" label="瑞士日内瓦电视台"/>
+<m type="2" src="sz=ZentralschweizerFernsehenTele1AG=flash_1" rtmp="rtmp://fl1.sz.xlcdn.com:80/live/" label="瑞士卢塞恩电视台"/>
+<m type="2" src="enc_11_700_ww@34440" rtmp="rtmp://cp106240.live.edgefcs.net/live/" label="瑞士法语电视台信息频道"/>
+<m type="2" src="live_de_500.flv" rtmp="rtmp://xapp510394c1000199.f.l.f.lb.core-cdn.net/1000199copo/live/app510394368/w509050881/" label="巴塞尔电视台"/>
+<m type="2" src="ptv_live@3585" rtmp="rtmp://wsliveflash.bbc.co.uk:1935/live/" label="BBC波斯语新闻频道"/>
+<m type="2" src="atv_live@3584" rtmp="rtmp://wsliveflash.bbc.co.uk:1935/live/" label="BBC阿拉伯语新闻频道"/>
+</m>
+<m label="美洲频道">
+<m type="2" src="livestream" rtmp="rtmp://196.40.84.26/SinartCanal13" label="哥斯达黎加国家电视台"/>
+<m type="2" src="str.sdp" rtmp="rtmp://cdnc.unored.com/enlace" label="哥斯达黎加TBN电视台"/>
+<m type="2" src="str.sdp" rtmp="rtmp://cdnc.unored.com/enlacejuvenil" label="哥斯达黎加TBN青少年频道"/>
+<m type="2" src="f24_livefr" rtmp="rtmp://stream2.france24.yacast.net:80/france24_live/fr" label="France 24 French "/>
+<m type="" src="k017.sdp" rtmp="rtmp://kamera.task.gda.pl/rtplive" label="波兰索波特赛马场"/>
+<m type="" src="k016.sdp" rtmp="rtmp://kamera.task.gda.pl/rtplive" label="波兰格丁尼亚港"/>
+<m type="" src="camera2.sdp" rtmp="rtmp://biacams.lakelandenergy.com:1935/rtplive" label="加拿大马斯科卡市中心1"/>
+<m type="" src="camera_cinema.sdp" rtmp="rtmp://biacams.lakelandenergy.com:1935/rtplive" label="加拿大马斯科卡市中心2"/>
+<m type="" src="a2b735aa9b7f648389b70d12fd64c56c" rtmp="rtmp://vpiter.tv/live" label="俄罗斯圣彼得堡涅瓦大街"/>
+</m>
+<m label="中东频道">
+<m type="2" src="aljazeera_english_1" rtmp="rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live" label="半岛电视台英文台(高清版)"/>
+
+<m type="2" src="aljazeera_english_3" rtmp="rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live" label="半岛电视台英文台(流畅版)"/>
+<m type="2" src="aljazeera_arabic_1" rtmp="rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live" label="半岛电视台阿拉伯语(高清版)"/>
+<m type="2" src="aljazeera_arabic_3" rtmp="rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live" label="半岛电视台阿拉伯语(流畅版)"/>
+</m>
+</list>

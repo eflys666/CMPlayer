@@ -1,0 +1,193 @@
+﻿<list>
+  <!--
+CMP音乐列表文件
+
+注：编辑后推荐保存为UTF-8格式
+
+m标记节点，可以包含子节点，属性有
+type: 音乐类型，不填将根据文件后缀(扩展名)自动识别，支持三种：1,MP3音频  2,FLV/MP4视频  3,WMP类型
+src: 音乐地址，必填
+lrc: 歌词或字幕地址 
+duration: 总时间，仅针对部分非标准视频，一般不用
+rotation: 视频旋转角度
+label: 标记名称(目录名或音乐名)
+
+
+bak: 备用地址
+xywh: 定位
+scalemode: 缩放模式
+
+bg_video: 指定视频区的背景
+bg_lrc: 指定歌词区的背景
+
+opened: 是否打开子节点
+
+-->
+  
+<m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50637894&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="欢迎" color="#ff0000, #00ff00" />
+  
+<m type="2" src="proxy:sina,53779656" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*开场练习*" color="#00ff00, #8b00ff"/>
+  
+<m type="2" src="proxy:sina,53780008" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*我很不快乐*" color="#ffff00, #0000ff" />
+  
+<m type="2" src="proxy:sina,40294079" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="别哭了宝贝-龙眼儿" color="#8b00ff, #ffff00" />
+ 
+ <m type="2" src="proxy:sina,35580417" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="单身歌-龙眼儿" color="#ff8000, #00e0e0" />
+  
+<m type="2" src="proxy:youku,XMjYyNDA5ODY4" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*女人是老虎*" color="#8b00ff, #ffff00" />
+  
+<m type="2" src="proxy:youku,XMjE2MjQxNTUy" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*糖糖要抱抱*" color="#00ff00, #8b00ff" />
+  
+<m type="2" src="proxy:youku,XMjE1Njk1Njg0" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*糖糖土鸡蛋*" color="#ff8000, #00e0e0" />
+  
+<m type="2" src="proxy:youku,XMjI1Njk5NzUy" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*我叫糖小6*" color="#8b00ff, #ffff00" />
+  
+<m type="2" src="proxy:youku,XMTk3NzM4MjEy" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*百万个吻*" color="#00e0e0, #df0000" />
+  <m type="2" src="proxy:youku,XMjM1MjE1NzUy" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*小冤家*" color="#0000ff, #ff8000" />
+  <m type="2" src="proxy:youku,XMjM5OTcxOTYw" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*上算DT原创《2011作秀》*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50692336&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="欢喜就好-８ｏＭＭ團[苏 仨]" color="#0000ff, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653759&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="哥唱的是寂寞-mc九局2011" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653764&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="2010Mc女孩，Mc零度连麦现场录音" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50639555&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="心痛2011" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653777&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="荷塘月色-MC水公主" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653782&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="MC水观音-渴死的驴" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653790&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="2010沙宣理发店音乐" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50637851&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="别哭了宝贝-龙眼儿" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50637891&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="单身歌-龙眼儿" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50653769&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="我是否也在你心中-江智民vs周虹" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50637850&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="dj最幸福的人" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50475701&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="爱你发了疯" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50606243&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="幸福是什么" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50430467&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="give me love" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50598048&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="大笑江湖-小沈阳" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30093247&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="冰河时代" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30175568&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="la la love" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30097169&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="Floorfiller" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30127031&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="耶耶耶" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30151837&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="你是我一生最爱的人" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30143974&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="不顾一切爱你" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30098258&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="等一分钟" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30170949&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="做你的爱人" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50588878&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*小花（陈玉建）DJ版*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30000635&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*最亲爱亲爱的老婆*" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460109&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*俄罗斯经典舞曲*" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30293810&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*姑娘我爱你（易丹）*" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460116&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱在心里却说不出口*" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460118&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*非主流经典舞曲*" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460122&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*流行RNB音乐(DJ版)*" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460123&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*丁香花-独白版*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460127&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱上广东女孩*" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460128&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*今生有你就值得*" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460135&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*今天我成为你的新娘*" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460138&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*在我心里从此有个你*" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460140&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*心愿-四个女生*" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460142&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*轻音乐1*" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460148&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*轻音乐2*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460158&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*轻音乐3*" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460170&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*新蜀山剑侠传-情难全*" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30278189&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*DJ摇啊摇*" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460177&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*伤了你的心我的心*" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460181&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*蝶恋dj舞曲版*" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=30268451&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*hey oh*" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460183&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*歪歌搞笑*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460184&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*伤感舞曲*" color="#00ff00, #8b00ff" /> 
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460185&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*倩女幽魂纯音乐版*" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460189&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*来生不分手*" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460225&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*南村小妹妹*" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460231&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*地球人都知道我爱你*" color="#ff0000, #00ff00" />  
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460102&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*遇上你是我的缘*" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460118&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*非主流舞曲开场*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460199&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*黄金一笑*" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460201&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱大了受伤了 *" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460205&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱上你是一个错*" color="#0000ff, #ff8000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460236&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*自由飞翔*" color="#8b00ff, #ffff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460238&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱情的骗子我问你*" color="#ff0000, #00ff00" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460241&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*一千个轮回*" color="#ff8000, #00e0e0" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460243&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*死心塌地*" color="#ffff00, #0000ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460244&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*男人不坏女人不爱*" color="#00ff00, #8b00ff" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460245&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*爱上别人的人*" color="#00e0e0, #df0000" />
+  <m type="1" src="http://www.lb50.cn/LIveUrl/A8.Asp?ID=50460246&.mp3" lrc=""bg_video="{src:plugins/bigbg.swf,xywh: [0,0,100%,100%]}" duration="5"label="*天仙妹妹*" color="#0000ff, #ff8000" />
+  <m label="*舞曲嗨歌*" color="#ff0000, #00ff00" >
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201003/05/9e/VEfs0820100305014527519eb5bd.flv" lrc="" label="*非主流开场*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://www.lb50.cn/LIveUrl/youku.asp?XMjQwNDk1OTAw=.flv" lrc="" label="*李雨、石头《雨花石》*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://www.lb50.cn/LIveUrl/youku.asp?XNDA2Mzk5MjQ=.flv" lrc="" label="*李克勤-旧欢如梦*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://www.lb50.cn/LIveUrl/youku.asp?XMjI0NTQ3Mjg4=.flv" lrc="" label="*《新白娘子传奇》演员现状*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://hcflv.yinyuetai.com/uploads/videos/common/F9F4012B3EBF0A9835C733B4754C877C.flv" lrc="" label="*nobody故事字幕版*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/2d/VEfs0820091218223223522d1061.flv" lrc=""  label="*凤凰展翅DJ*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201002/06/ae/VEfs082010020623561852aefd32.flv" lrc="" label="*狼爱上羊*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201003/06/b4/VEfs082010030601202951b48b74.flv" lrc=""  label="*中文冠军舞曲*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://www.lb50.cn/LIveUrl/youku.asp?XMjUyNzA3MjU2=.flv" lrc="" label="*踩蘑菇的小姑娘*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201011/27/fa/VEfs082010112701164950faeb13.flv" lrc="" label="*爱情买卖DJ版*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201011/27/16/VEfs08201011270104025016f86f.flv" lrc="" label="*现场原音经典重现！《吻和泪》*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://hdflv.yinyuetai.com/uploads/videos/common/1567041_lizhenxian_alialiKBS1.flv" lrc="" label="*阿里阿里 第4届中韩歌会现场版*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/ce/VEfs082009111501482552ce3dc4.flv" lrc="" label="*火花*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/14/VEfs082009121800321551142799.flv" lrc=""  label="*书生-张振宇*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/1a/VEfs0820091218003946521a4b0e.flv" lrc=""  label="*怨苍天变了心*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/15/VEfs08200912180047045115ea88.flv" lrc=""  label="*情茧-蓝雨*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/d2/VEfs082009111502055152d23386.flv" lrc="" label="*爱上你是一个错*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/bb/VEfs082009111502011151bb0a7b.flv" lrc="" label="*一千个轮回*" color="#8b00ff, #ffff00" /> 
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/b6/VEfs082009111500465651b6a76d.flv" lrc="" label="*剑侠情缘ONLINE美女广告-铸剑*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/c7/VEfs082009111500510952c77217.flv" lrc="" label="*剑侠情缘ONLINE美女广告-功城*" color="#ff8000, #00e0e0" />
+  </m>
+  <m label="*经典推荐*" color="#ffff00, #0000ff" >
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/17/VEfs08200912180147015017f817.flv" lrc=""  label="*大学生原创武侠-小金泰熙 小林志颖*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201005/31/75/VEfs08201005311016325075b61c.flv" lrc="" label="*姑娘我爱你*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/c1/VEfs082009111502122450c1cacd.flv" lrc="" label="*遇上你是我的缘*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://content.12530.com/media/v/20080620/100519.flv" lrc="" label="*郑源 - 我不后悔*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://flv.yinyuetai.com/uploads/videos/common/71402_huge_baibing_meilideshenhua.flv" lrc="" label="*胡歌-美丽的神话*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/2d/VEfs0820091218223223522d1061.flv" lrc=""  label="*凤凰展翅DJ*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/14/VEfs082009121800321551142799.flv" lrc=""  label="*书生-张振宇*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/1a/VEfs0820091218003946521a4b0e.flv" lrc=""  label="*怨苍天变了心*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/15/VEfs08200912180047045115ea88.flv" lrc=""  label="*情茧-蓝雨*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/12/VEfs082009121800210451120796.flv" lrc=""  label="*大话西游-再续情缘*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/c9/VEfs082009111500575052c98374.flv" lrc="" label="*薛之谦-传说*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://flv.yinyuetai.com/uploads/videos/common/10049_4_3_likeqin_jiuhuanrumeng.flv" lrc="" label="*李克勤-旧欢如梦*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201005/31/7d/VEfs0820100531170421507d4f6a.flv" lrc="" label="*梦幻诛仙-敢不敢爱*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/16/VEfs082009121801412850160c77.flv" lrc="" label="*春光灿烂猪八戒_好春光*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd04/200811/27/04/VEfs042008112721313550049e98.flv" lrc="" label="*金剑雕翎主题曲*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/1b/VEfs0820091218011230521bd449.flv" lrc="" label="*神雕侠侣 [83版][潘迎紫、孟飞]片头曲*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/1c/VEfs0820091218011528521c00b4.flv" lrc="" label="*《 一代女皇 》片头曲（潘迎紫）*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/1d/VEfs0820091218012232521d8ee0.flv" lrc="" label="*康熙王朝主题曲*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/201009/14/89/VEfs08201009141443035089e903.flv" lrc="" label="*吴静- 女儿情*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/bd/VEfs082009111502163351bdc7b0.flv" lrc="" label="*最亲爱亲爱的老婆*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/bc/VEfs082009111500070150bc17b5.flv" lrc="" label="*甩葱歌-2008韩国春川女子轮滑第一名*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/d2/VEfs082009111502055152d23386.flv" lrc="" label="*爱上你是一个错*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/cc/VEfs082009111501091952cc6a60.flv" lrc="" label="*江湖笑*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/d0/VEfs082009111501555452d031d2.flv" lrc="" label="*丁香花-女生版*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd04/200907/22/c7/VEfs042009072210400352c70108.flv" lrc="" label="*飞天-白杨*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/16/VEfs08200912180054455116b66d.flv" lrc="" label="*捉泥鳅 -卓依婷*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/25/34/VEfs0820091125061717523443c7.flv" lrc="" label="*心愿-王泽*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/d3/VEfs082009111502121352d3d93d.flv" lrc="" label="*Aizee动感舞曲*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200912/18/14/VEfs08200912180104405014df99.flv" lrc="" label="*黄英-踏浪*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/c8/VEfs082009111500534352c8c9ca.flv" lrc="" label="*倩女幽魂*" color="#ff8000, #00e0e0" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/cb/VEfs082009111501053752cbacbb.flv" lrc="" label="*天仙子*" color="#ffff00, #0000ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/be/VEfs082009111501163050be1247.flv" lrc="" label="*杯水情歌*" color="#00ff00, #8b00ff" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/bd/VEfs082009111501132850bdb464.flv" lrc="" label="*哑巴新娘*" color="#00e0e0, #df0000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/ca/VEfs082009111501001452ca8de1.flv" lrc="" label="*一代佳人*" color="#0000ff, #ff8000" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/bb/VEfs082009111502011151bb0a7b.flv" lrc="" label="*一千个轮回*" color="#8b00ff, #ffff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/b6/VEfs082009111500465651b6a76d.flv" lrc="" label="*剑侠情缘ONLINE美女广告-铸剑*" color="#ff0000, #00ff00" />
+  <m type="2" src="http://vfile3.home.news.cn/video/public/vd08/200911/15/c7/VEfs082009111500510952c77217.flv" lrc="" label="*剑侠情缘ONLINE美女广告-功城*" color="#ff8000, #00e0e0" />
+  </m>
+  <m label="*校園囻謠*" color="#00ff00, #8b00ff" >
+  <m type="" src="http://www.coldstarx.com/mp3/jc/01.mp3" lrc="" label="*01 玻璃杯（朗诵）*" color="#ff0000, #00ff00" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/02.mp3" lrc="" label="*01 玻璃杯*" color="#ff8000, #00e0e0" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/03.mp3" lrc="" label="*02 踪迹（朗诵）*" color="#ffff00, #0000ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/04.mp3" lrc="" label="*02 踪迹*" color="#00ff00, #8b00ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/05.mp3" lrc="" label="*03 A GENTLEMAN OF FEW WORDS（朗诵）*" color="#00e0e0, #df0000" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/06.mp3" lrc="" label="*03 A GENTLEMAN OF FEW WORDS*" color="#0000ff, #ff8000" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/07.mp3" lrc="" label="*04 你我（朗诵）*" color="#8b00ff, #ffff00" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/08.mp3" lrc="" label="*04 你我*" color="#ff0000, #00ff00" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/09.mp3" lrc="" label="*05 约翰（朗诵）*" color="#ff8000, #00e0e0" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/10.mp3" lrc="" label="*05 约翰*" color="#ffff00, #0000ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/11.mp3" lrc="" label="*06 围城（朗诵）*" color="#00ff00, #8b00ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/12.mp3" lrc="" label="*06 围城*" color="#00e0e0, #df0000" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/13.mp3" lrc="" label="*07 纤纤手（朗诵）*" color="#0000ff, #ff8000" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/14.mp3" lrc="" label="*07 纤纤手*" color="#8b00ff, #ffff00" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/15.mp3" lrc="" label="*08 岁月碑文（朗诵）*" color="#ff0000, #00ff00" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/16.mp3" lrc="" label="*08 岁月碑文*" color="#ff8000, #00e0e0" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/17.mp3" lrc="" label="*09 蝴蝶姑娘（朗诵）*" color="#ffff00, #0000ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/18.mp3" lrc="" label="*09 蝴蝶姑娘*" color="#00ff00, #8b00ff" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/19.mp3" lrc="" label="*10 Happy birthday（朗诵）*" color="#00e0e0, #df0000" />
+  <m type="" src="http://www.coldstarx.com/mp3/jc/20.mp3" lrc="" label="*10 Happy birthday*" color="#0000ff, #ff8000" />
+  </m>
+</list>

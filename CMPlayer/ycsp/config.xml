@@ -1,0 +1,44 @@
+<cmp 
+	name = "逸晨视频 qq:376925325" 
+	link = "http://230mv.com" 
+	description = ""
+        logo = "{src:001.png,xywh:[2P,5P,23P,6P]}"
+	logo_alpha = "0.9"
+	
+        video_image="003.jpg"
+	skins = "skins/ycsp.zip"
+  plugins="plugins/youku.swf,plugins/buffernext.swf,plugins/proxy.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/announce.swf"
+
+        chat_xywh = "20,20,32,32"
+
+        chat_alone = "1"
+
+        chat_roomname = "逸晨视频"
+	backgrounds = ""
+	bgcolor = ""
+        ads="{src:003.jpg,link:http://www.230mv.com,link_target:_blank,width:500,height:350,onstate:paused,target:video}"
+	lists = "https://2300mv.googlecode.com/svn/trunk/list1.xml"
+        share_cmp ="0"
+        default_skin="0" 
+
+	src_handler = "" 
+	lrc_handler = ""
+	skin_id = "1"
+        
+        play_mode = "0"
+	play_id = ""
+	auto_play = "1"
+        click_play = "1"
+	list_delete = ""
+
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+
+	counter = ""
+announce_xywh = "0,25,100P,20"
+announce_speed = "2"
+
+announce_content = "%3CFONT%20size%3D'20'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎光临逸晨视频%3Cfont color='#FF00FF'>①%3Cfont color='#00FFFF'>≮逸晨视频播放器，最新电影、电视剧、下载地址：www.230mv.com≯%3Cfont color='#FF00FF'>②%3Cfont color='#7FFF00'>≮全频黄金滚动广告位招租...≯%3Cfont color='#FF00FF'>③%3Cfont color='#F0FFFF'>≮全频黄金滚动广告位招租...≯%3Cfont color='#FF00FF'>④%3Cfont color='#EEEE00'>≮全频黄金滚动广告位,更好的帮您推广您的网站和商品,适合淘宝卖家、传奇私服等等≯%3Cfont color='#FF00FF'>⑤%3Cfont color='#FFB90F'>≮全频黄金滚动广告位招租...≯"
+
+/>

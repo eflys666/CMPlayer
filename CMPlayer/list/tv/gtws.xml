@@ -1,0 +1,98 @@
+<list>
+<m type="2" src="http://www.cietv.com/iptv.asp?s=5B63686E5D445830303030303034327C313633327C317C313030307CE587A4E587B0E8B584E8AEAF2846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰资讯-高清"/>
+    <m type="2" src="http://snctc01cdn.smgbb.tv/channels/503/400.flv/live" label="凤凰卫视-高清"/>
+    <m type="2" src="vod62_Live/live350" rtmp="rtmpt://cfs1.ccdntech.com/live" label="台湾宏观-高清"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmp://cp93793.live.edgefcs.net/live" label="台湾壹台-高清"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000099" label="台湾CTV中视-高清"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/BC000097" label="台湾中视无线-高清"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/wmhkm3.s★" label="香港电影3台"/>
+    <m type="wmp" src="rtsp://wm5.tvbj2.com/wszw" label="卫视中文台"/>
+    <m type="3" src="rtsp://222.77.190.24/xkws" label="星空卫视"/>
+    <m type="3" src="rtsp://222.77.190.24/hyws" label="华娱卫视"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/vnd.kfh" label="台湾年代新闻台"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/vff." label="台湾非凡新闻台"/>
+    <m type="wmp" src="rtsp://wm5.tvbj2.com/wszw" label="卫视中文台"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/ijade" label="翡翠台"/>
+    <m type="wmp" src="rtsp://173.252.206.133/vatvus" label="ATV东岸本港台"/>
+    <m type="wmp" label="香港本港台ATV" src="rtsp://4.71.37.8/atv-200"/>
+    <m type="wmp" src="rtsp://8.3.230.132/atv-200rc" label="香港本港台直播-备"/>
+    <m type="3" src="rtsp://live2.file.megajoy.com/Joylive_908_90820" lrc="" label="澳門澳亚卫视☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/dfws" label="东风卫视☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/tvb8" label="TVB8娱乐☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/ygws" label="阳光卫视☆☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/xzt" label="莲花卫视-标清"/>
+    <m type="wmp" src="rtsp://222.77.190.24/nowtv" label="香港NOW☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/channelv" label="ChannelV☆☆"/>
+    <m type="wmp" src="mms://222.77.190.24/channelv" label="[V]音乐频道"/>
+    <m type="wmp" src="mms://203.83.65.199:8080/" label="香港旅游-标清"/>
+    <m type="wmp" src="http://s2.104mfonline.com.hk/Encoder6" label="香港新城财经☆☆"/>
+    <m type="3" src="rtsp://wm5.tvbj2.com/wm3ln" label="台湾三立新闻台☆"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000099" label="台湾CTV中视综艺台☆☆"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000099" label="台湾CTV中视综艺-备☆☆"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000097" label="台湾CTV中视高清-C☆☆"/>
+    <m type="3" src="mms://wmslive.media.hinet.net/BC000097 " label="台湾CTV中视-备☆☆"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000097" label="台湾CTV中视综合-备"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000098" label="台湾CTV中视新闻"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000035" label="GTV八大综艺台☆☆"/>
+    <m type="3" src="rtsp://218.1.74.230/dfchild" lrc="" label="台灣東森幼幼臺☆"/>
+    <m type="2" src="vod62_Live/live350" rtmp="rtmpt://cfs1.ccdntech.com/live" label="台湾宏观频道"/>
+    <m type="wmp" label="台湾东风卫视" src="rtsp://203.69.41.22/TA_AZIO_AZIOT_200_MO/DF"/>
+    <m type="wmp" src="mms://203.69.41.22/TA_AZIO_AZIOT_200_MO" label="台湾东风卫视-备"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmpt://cp93793.live.edgefcs.net/live" label="台湾壹电视台"/>
+    <m type="wmp" src="mms://live.avc.pu.edu.tw/Live" label="民视无线频道"/>
+    <m type="wmp" src="mms://203.69.41.22/NA_IMTV_ONLINETV-1_450K_PC" label="台湾IMTV-标清☆"/>
+    <m type="wmp" label="台湾全球财经LiveSBN" src="rtsp://live2.net-tv.tw/LiveSBN"/>
+    <m type="3" src="mms://61.14.131.122/BLive" label="台湾1goodtv-标清"/>
+    <m type="3" src="mms://61.31.197.141/Live2" label="台湾2goodtv-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/lovemusic" label="台湾lovemusic☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/travel" label="台湾travel中文☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Tao" label="台湾Tao中文-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Tao-1" label="台湾Tao-1☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/nayang" label="台湾闽南-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/0radio" label="台湾零周率电台-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Buddha-1" label="台湾佛教台-标清"/>
+    <m type="wmp" src="mms://203.69.41.83/TW_HWAZANTV_BS_350" label="台湾华藏频道"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/SouthWind" label="台湾闽南语佛教台-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Hualien" label="台湾Hualien-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/mall" label="台湾网络电台-标清"/>
+    <m type="2" src="http://biz.ik978.com/playlive.php?5B63686E5D445830303030303030387C313137327C317C313030307C474754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰资讯 高清"/>
+    <m type="2" src="http://203.91.120.236/channels/503/400.flv" label="凤凰卫视 高清(故障中)"/>
+    <m type="wmp" src="mms://222.77.190.24/fhzw" label="凤凰卫视 标清"/>
+    <m type="wmp" src="mms://222.77.190.24/fhzx" label="凤凰资讯 标清"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmp://cp93793.live.edgefcs.net/live" label="台湾壹电视"/>
+    <m type="wmp" src="mms://222.77.190.24/xkws" lrc="" label="星空卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/hyws" lrc="" label="华娱卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/dfws" lrc="" label="东风卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/nowtv" lrc="" label="香港NOW"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.atv" lrc="" label="本港台"/>
+    <m type="wmp" src="mms://4.71.37.8/atv-200" lrc="" label="亚视本港"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.jade" lrc="" label="翡翠台"/>
+    <m type="wmp" src="rtsp://wm.tvbj2.com/wmngw" lrc="" label="Natgeo Wild HK"/>
+    <m type="wmp" src="rtsp://222.77.190.24/tvb8" lrc="" label="TVB8娱乐"/>
+    <m type="wmp" src="mms://live.jdjys.net:559/tv4" lrc="" label="香港创世电视台"/>
+    <m type="wmp" src="rtsp://222.77.190.24/channelv" lrc="" label="Channel[V]"/>
+    <m type="wmp" src="mms://203.69.41.22/NA_IMTV_ONLINETV-1_450K_PC" lrc="" label="IMTV音乐频道"/>
+    <m type="wmp" src="mms://tv.ttvv.net.ru/ygws" lrc="" label="阳光卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/xzt" lrc="" label="莲花卫视"/>
+    <m type="wmp" src="mms://60.249.111.66/wxtv300k" lrc="" label="台灣唯心"/>
+    <m type="wmp" src="rtsp://fo.fodizi.com/fo" lrc="" label="台灣生命台"/>
+    <m type="wmp" src="rtsp://live2.net-tv.tw/LiveSBN" lrc="" label="台灣SBN财经"/>
+    <m type="wmp" src="mms://live5.3tv.cn/etyp.OOO" lrc="" label="台灣東森洋片"/>
+    <m type="wmp" src="rtsp://218.1.74.230/dfchild" lrc="" label="台灣東森幼幼臺"/>
+    <m type="wmp" src="rtsp://208.115.226.221/if3l" lrc="" label="三立台湾台"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/bc000097" lrc="" label="台灣中視"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000098" lrc="" label="台灣中視新聞"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000099" lrc="" label="台灣中視綜藝"/>
+    <m type="wmp" src="rtsp://219.90.61.6/mactv-tw" lrc="" label="台灣宏观卫视"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/WebLive_BLTV_600" lrc="" label="台灣人間衛視"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/BC000089" lrc="" label="台灣大愛電視臺"/>
+    <m type="wmp" src="mms://203.69.41.22/TA_AZIO_AZIOT_200_MO" lrc="" label="东风37"/>
+    <m type="wmp" src="mms://61.14.131.122/BLive" label="台湾 goodtv 1"/>
+    <m type="wmp" src="mms://61.31.197.141/Live2" label="台湾 goodtv 2"/>
+    <m type="wmp" src="rtsp://t.itvitv.com/wmtvbsa" label="TVBsa"/>
+    <m type="wmp" src="rtsp://mms.itvitv.com/iftvbd" label="TVB-剧情台"/>
+    <m type="wmp" src="rtsp://wm3.tvbj2.com/wmtvbsa" label="TVBS新闻台"/>
+    <m type="wmp" src="rtsp://wm.tvbj2.com/wmsonye" label="SONY-香港台"/>
+    <m type="wmp" src="rtsp://wm2.tvbj2.com/wmsexymusic" label="性感音乐台"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.wszw" label="卫视中文"/>
+</list>

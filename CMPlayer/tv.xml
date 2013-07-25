@@ -1,0 +1,976 @@
+﻿<list label="list" opened="true">
+  
+  <m label="高清直播">
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=18091377" label="湖南卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1975434150" label="浙江卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2220552576" label="深圳卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2674956498" label="江苏卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3900155972" label="东方卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1039787969" label="北京卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=857894899" label="广东卫视[高清]"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/216/400.flv/live" lrc="" label="东方卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3006271240" label="辽宁卫视[高清]"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1424066668" label="金鹰卡通"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1249794075" label="嘉佳卡通"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1000637964" label="东南卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2342060367" label="内蒙卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2453801339" label="四川卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=4035478592" label="广东公共"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2739752321" label="陕西卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3444760127" label="甘肃卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2309309351" label="深圳卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=623043810" label="安徽卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=4172356212" label="河南卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3734750453" label="湖南卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3660187036" label="山东卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1128831868" label="湖北卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=877636586" label="青海卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2905421066" label="重庆卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3661744838" label="东方卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1258215255" label="江苏卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=1926463423" label="珠江频道"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2414742998" label="北京卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2907109968" label="浙江卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=830075195" label="天津卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2084914015" label="广东卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=708402866" label="云南卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=974433428" label="广西卫视"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=2631736979" label="广东新闻"/>
+    <m type="2" src="http://125.39.202.105:1863/?progid=3051487004" label="贵州卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1410.flv" lrc="" label="江苏靓装"/>
+    <m type="" src="http://121.9.229.17:81/204/400/0/lntv.flv" lrc="" label="辽宁卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1497.flv" lrc="" label="东南卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1491.flv" lrc="" label="河南卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1513.flv" lrc="" label="陕西卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1412.flv" lrc="" label="重庆卫视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1531.flv" lrc="" label="云南卫视"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/215/400.flv/live" lrc="" label="东方纪实"/>
+  </m>
+  <m label="国内卫视">
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=18091377" label="湖南卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2674956498" label="江苏卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1975434150" label="浙江卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1039787969" label="北京卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3900155972" label="东方卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=857894899" label="广东卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2220552576" label="深圳卫视[高清]"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3734750453" label="湖南卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1258215255" label="江苏卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=623043810" label="安徽卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2907109968" label="浙江卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3661744838" label="东方卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2414742998" label="北京卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1128831868" label="湖北卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1926463423" label="珠江频道"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2084914015" label="广东卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2309309351" label="深圳卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3006271240" label="辽宁卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=877636586" label="青海卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2905421066" label="重庆卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3660187036" label="山东卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2739752321" label="陕西卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=708402866" label="云南卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3051487004" label="贵州卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4172356212" label="河南卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=830075195" label="天津卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=974433428" label="广西卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1000637964" label="东南卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2342060367" label="内蒙卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2136314174" label="英语辅导"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1580059834" label="湖北综合"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1424066668" label="金鹰卡通"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1249794075" label="嘉佳卡通"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4035478592" label="广东公共"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2631736979" label="广东新闻"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3727832148" label="长沙政法"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4122776769" label="长沙新闻"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2092781730" label="深圳财经"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1862798502" label="股市直通"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2678206373" label="第一财经"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3730988797" label="ICS 频道"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3136130169" label="艺术人文"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4004492900" label="上视戏剧"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2811142890" label="上视娱乐"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2248390444" label="炫动卡通"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1722505340" label="生活时尚"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1945578316" label="上视电视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3199745535" label="上视综合"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=543982592" label="外汇理财"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1926463423" label="珠江频道"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2084914015" label="广东卫视"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2136314174" label="英语辅导"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=1249794075" label="嘉佳卡通"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4035478592" label="广东公共"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2631736979" label="广东新闻"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2678206373" label="第一财经"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=4134567337" label="8 财网络"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=45714224" label="证券资讯"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2243590580" label="财富天下"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=2092781730" label="深圳财经"/>
+    <m type="2" src="http://zb.v.qq.com:1863/?progid=3222034140" label="股市在线"/>
+  </m>
+  <m label="CCTV超清">
+    <m type="2" src="http://116.213.146.71:554/5" label="CCTV-1综合频道"/>
+    <m type="2" src="http://116.213.146.71:554/6" label="CCTV-2财政频道"/>
+    <m type="2" src="http://116.213.146.71:554/2" label="CCTV-3综艺频道"/>
+    <m type="2" src="http://116.213.146.71:554/9" label="CCTV-4中文国际"/>
+    <m type="2" src="http://116.213.146.71:554/7" label="CCTV-5体育频道"/>
+    <m type="2" src="http://116.213.146.71:554/28" label="CCTV6-电影频道"/>
+    <m type="2" src="http://116.213.146.71:554/20" label="CCTV8-电视剧"/>
+    <m type="2" src="http://116.213.146.71:554/37" label="CCTV9-中央记录"/>
+    <m type="2" src="http://116.213.146.71:554/39" label="CCTV12社会与法"/>
+    <m type="2" src="http://116.213.146.71:554/10" label="CCTV-13新闻频道"/>
+    <m type="2" src="http://116.213.146.71:554/8" label="CCTV-15音乐频道"/>
+    <m type="2" src="http://116.213.146.71:554/42" label="CCTV-新科动漫"/>
+    <m type="2" src="http://116.213.146.71:554/17" label="CCTV-发现之旅"/>
+    <m type="2" src="http://116.213.146.71:554/24" label="CCTV-第一剧场"/>
+    <m type="2" src="http://116.213.146.71:554/25" label="CCTV-央视精品"/>
+    <m type="2" src="http://116.213.146.71:554/26" label="CCTV-怀旧剧场"/>
+    <m type="2" src="http://116.213.146.71:554/27" label="CCTV-风云足球"/>
+    <m type="2" src="http://116.213.146.71:554/29" label="CCTV-风云音乐"/>
+    <m type="2" src="http://116.213.146.71:554/30" label="CCTV-风云剧场"/>
+    <m type="2" src="http://116.213.146.71:554/31" label="CCTV-世界地理"/>
+    <m type="2" src="http://116.213.146.71:554/16" label="CCTV-女性时尚"/>
+    <m type="2" src="http://116.213.146.71:554/104" label="高清体育"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-katong-gdt-flv?fmt=x264_0K_flv" label="中国教育频道"/>
+    <m type="2" src="live1" rtmp="rtmp://live.cctvfinance.com/cctvcj/" label="CCTV证券资讯"/>
+    <m type="2" src="http://218.30.50.24/live/7d510b78a049452383cde1ef73e44824.ts?fmt=x264_800k_flv" label="CCTV-发现之旅"/>
+    <m type="2" src="http://218.30.50.24/live/c70311e69bb44250915d5335865ad907.ts?fmt=x264_800k_flv" label="财富天下"/>
+    <m type="2" src="http://218.30.50.24/live/31463bbac711456496a218be30807219.ts?fmt=x264_800k_flv" label="收藏天下"/>
+    <m type="2" src="http://218.30.50.24/live/97a6bbbbc5d841de950b8f915c107884.ts?fmt=x264_800k_flv" label="CCTV－NEWS"/>
+    <m type="2" src="cetv1" rtmp="rtmp://pub1.guoshi.com/live/" label="中国教育一台"/>
+    <m type="2" src="cetv3" rtmp="rtmp://pub1.guoshi.com/live/" label="中国教育三台"/>
+    <m type="2" src="kk" rtmp="rtmp://live.guoshi.com/live/" label="空中课堂"/>
+    <m type="2" src="cetv1" rtmp="rtmp://live.guoshi.com/live" label="中国教育一台(果实)"/>
+    <m type="2" src="cetv3" rtmp="rtmp://live.guoshi.com/live" label="中国教育三台(果实)"/>
+    <m type="2" src="kk" rtmp="rtmp://live.guoshi.com/live" label="空中课堂(果实)"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438377C317C323030307CECE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="发现之旅"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438347C317C323030307CECE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="央视精品"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="怀旧剧场"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313431317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="风云剧场"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="魅力音乐"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="摄影频道"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="发现之旅"/>
+  </m>
+  <m label="港台国际">
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303030387C313137327C317C313030307CE587A4E587B0E58DABE8A7863735304B7C687474705B2F63686E5D5B74735D317C687474703A2F2F3132312E31352E31322E37323A31383038302F445830303030303030385F313137325B2F74735DVSDNSOOONERCOM00|&amp;file=livestream" label="凤凰资讯-高清"/>
+    <m type="2" src="http://snctc01cdn.smgbb.tv/channels/503/400.flv/live" label="凤凰卫视-高清"/>
+    <m type="2" src="vod62_Live/live350" rtmp="rtmpt://cfs1.ccdntech.com/live" label="台湾宏观-高清"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmp://cp93793.live.edgefcs.net/live" label="台湾壹台-高清"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000099" label="台湾CTV中视-高清"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/BC000097" label="台湾中视无线-高清"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/wmhkm3.s★" label="香港电影3台"/>
+    <m type="wmp" src="rtsp://wm5.tvbj2.com/wszw" label="卫视中文台"/>
+    <m type="3" src="rtsp://222.77.190.24/xkws" label="星空卫视"/>
+    <m type="3" src="rtsp://222.77.190.24/hyws" label="华娱卫视"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/vnd.kfh" label="台湾年代新闻台"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/vff." label="台湾非凡新闻台"/>
+    <m type="wmp" src="rtsp://wm5.tvbj2.com/wszw" label="卫视中文台"/>
+    <m type="wmp" src="rtsp://1.itvitv.com/ijade" label="翡翠台"/>
+    <m type="wmp" src="rtsp://173.252.206.133/vatvus" label="ATV东岸本港台"/>
+    <m type="wmp" label="香港本港台ATV" src="rtsp://4.71.37.8/atv-200"/>
+    <m type="wmp" src="rtsp://8.3.230.132/atv-200rc" label="香港本港台直播-备"/>
+    <m type="3" src="rtsp://live2.file.megajoy.com/Joylive_908_90820" lrc="" label="澳門澳亚卫视☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/dfws" label="东风卫视☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/tvb8" label="TVB8娱乐☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/ygws" label="阳光卫视☆☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/xzt" label="莲花卫视-标清"/>
+    <m type="wmp" src="rtsp://222.77.190.24/nowtv" label="香港NOW☆"/>
+    <m type="wmp" src="rtsp://222.77.190.24/channelv" label="ChannelV☆☆"/>
+    <m type="wmp" src="mms://222.77.190.24/channelv" label="[V]音乐频道"/>
+    <m type="wmp" src="mms://203.83.65.199:8080/" label="香港旅游-标清"/>
+    <m type="wmp" src="http://s2.104mfonline.com.hk/Encoder6" label="香港新城财经☆☆"/>
+    <m type="3" src="rtsp://wm5.tvbj2.com/wm3ln" label="台湾三立新闻台☆"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000099" label="台湾CTV中视综艺台☆☆"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000099" label="台湾CTV中视综艺-备☆☆"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000097" label="台湾CTV中视高清-C☆☆"/>
+    <m type="3" src="mms://wmslive.media.hinet.net/BC000097 " label="台湾CTV中视-备☆☆"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000097" label="台湾CTV中视综合-备"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000098" label="台湾CTV中视新闻"/>
+    <m type="3" src="rtsp://wmslive.media.hinet.net/BC000035" label="GTV八大综艺台☆☆"/>
+    <m type="3" src="rtsp://218.1.74.230/dfchild" lrc="" label="台灣東森幼幼臺☆"/>
+    <m type="2" src="vod62_Live/live350" rtmp="rtmpt://cfs1.ccdntech.com/live" label="台湾宏观频道"/>
+    <m type="wmp" label="台湾东风卫视" src="rtsp://203.69.41.22/TA_AZIO_AZIOT_200_MO/DF"/>
+    <m type="wmp" src="mms://203.69.41.22/TA_AZIO_AZIOT_200_MO" label="台湾东风卫视-备"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmpt://cp93793.live.edgefcs.net/live" label="台湾壹电视台"/>
+    <m type="wmp" src="mms://live.avc.pu.edu.tw/Live" label="民视无线频道"/>
+    <m type="wmp" src="mms://203.69.41.22/NA_IMTV_ONLINETV-1_450K_PC" label="台湾IMTV-标清☆"/>
+    <m type="wmp" label="台湾全球财经LiveSBN" src="rtsp://live2.net-tv.tw/LiveSBN"/>
+    <m type="3" src="mms://61.14.131.122/BLive" label="台湾1goodtv-标清"/>
+    <m type="3" src="mms://61.31.197.141/Live2" label="台湾2goodtv-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/lovemusic" label="台湾lovemusic☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/travel" label="台湾travel中文☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Tao" label="台湾Tao中文-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Tao-1" label="台湾Tao-1☆☆"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/nayang" label="台湾闽南-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/0radio" label="台湾零周率电台-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Buddha-1" label="台湾佛教台-标清"/>
+    <m type="wmp" src="mms://203.69.41.83/TW_HWAZANTV_BS_350" label="台湾华藏频道"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/SouthWind" label="台湾闽南语佛教台-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/Hualien" label="台湾Hualien-标清"/>
+    <m type="wmp" src="mms://channel.nbtv.tw/mall" label="台湾网络电台-标清"/>
+    <m type="2" src="http://biz.ik978.com/playlive.php?5B63686E5D445830303030303030387C313137327C317C313030307C474754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰资讯 高清"/>
+    <m type="2" src="http://203.91.120.236/channels/503/400.flv" label="凤凰卫视 高清(故障中)"/>
+    <m type="wmp" src="mms://222.77.190.24/fhzw" label="凤凰卫视 标清"/>
+    <m type="wmp" src="mms://222.77.190.24/fhzx" label="凤凰资讯 标清"/>
+    <m type="2" src="tvstreamv1_1@27911" rtmp="rtmp://cp93793.live.edgefcs.net/live" label="台湾壹电视"/>
+    <m type="wmp" src="mms://222.77.190.24/xkws" lrc="" label="星空卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/hyws" lrc="" label="华娱卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/dfws" lrc="" label="东风卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/nowtv" lrc="" label="香港NOW"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.atv" lrc="" label="本港台"/>
+    <m type="wmp" src="mms://4.71.37.8/atv-200" lrc="" label="亚视本港"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.jade" lrc="" label="翡翠台"/>
+    <m type="wmp" src="rtsp://wm.tvbj2.com/wmngw" lrc="" label="Natgeo Wild HK"/>
+    <m type="wmp" src="rtsp://222.77.190.24/tvb8" lrc="" label="TVB8娱乐"/>
+    <m type="wmp" src="mms://live.jdjys.net:559/tv4" lrc="" label="香港创世电视台"/>
+    <m type="wmp" src="rtsp://222.77.190.24/channelv" lrc="" label="Channel[V]"/>
+    <m type="wmp" src="mms://203.69.41.22/NA_IMTV_ONLINETV-1_450K_PC" lrc="" label="IMTV音乐频道"/>
+    <m type="wmp" src="mms://tv.ttvv.net.ru/ygws" lrc="" label="阳光卫视"/>
+    <m type="wmp" src="mms://222.77.190.24/xzt" lrc="" label="莲花卫视"/>
+    <m type="wmp" src="mms://60.249.111.66/wxtv300k" lrc="" label="台灣唯心"/>
+    <m type="wmp" src="rtsp://fo.fodizi.com/fo" lrc="" label="台灣生命台"/>
+    <m type="wmp" src="rtsp://live2.net-tv.tw/LiveSBN" lrc="" label="台灣SBN财经"/>
+    <m type="wmp" src="mms://live5.3tv.cn/etyp.OOO" lrc="" label="台灣東森洋片"/>
+    <m type="wmp" src="rtsp://218.1.74.230/dfchild" lrc="" label="台灣東森幼幼臺"/>
+    <m type="wmp" src="rtsp://208.115.226.221/if3l" lrc="" label="三立台湾台"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/bc000097" lrc="" label="台灣中視"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000098" lrc="" label="台灣中視新聞"/>
+    <m type="wmp" src="mms://wmslive.media.hinet.net/BC000099" lrc="" label="台灣中視綜藝"/>
+    <m type="wmp" src="rtsp://219.90.61.6/mactv-tw" lrc="" label="台灣宏观卫视"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/WebLive_BLTV_600" lrc="" label="台灣人間衛視"/>
+    <m type="wmp" src="rtsp://wmslive.media.hinet.net/BC000089" lrc="" label="台灣大愛電視臺"/>
+    <m type="wmp" src="mms://203.69.41.22/TA_AZIO_AZIOT_200_MO" lrc="" label="东风37"/>
+    <m type="wmp" src="mms://61.14.131.122/BLive" label="台湾 goodtv 1"/>
+    <m type="wmp" src="mms://61.31.197.141/Live2" label="台湾 goodtv 2"/>
+    <m type="wmp" src="rtsp://t.itvitv.com/wmtvbsa" label="TVBsa"/>
+    <m type="wmp" src="rtsp://mms.itvitv.com/iftvbd" label="TVB-剧情台"/>
+    <m type="wmp" src="rtsp://wm3.tvbj2.com/wmtvbsa" label="TVBS新闻台"/>
+    <m type="wmp" src="rtsp://wm.tvbj2.com/wmsonye" label="SONY-香港台"/>
+    <m type="wmp" src="rtsp://wm2.tvbj2.com/wmsexymusic" label="性感音乐台"/>
+    <m type="wmp" src="rtsp://1.3tvus.com/3tvus.wszw" label="卫视中文"/>
+  </m>
+  <m label="凤凰宽屏">
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313636397C317C313030307CE587A4E587B0E4B8ADE696872846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰中文台-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313636377C317C313030307CE59089E69E97E58DABE8A7862846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰香港台-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313633327C317C313030307CE587A4E587B0E8B584E8AEAF2846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰资讯台-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313933307C317C313030307C434E4E2846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="CNN新闻台-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313933317C317C313030307C434354562846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="CCTV-13-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313636367C317C313030307CE4B89CE696B9E5B091E584BF2846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="云南卫视-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313839337C317C313030307CE4B89CE696B9E58DABE8A7867C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="东方卫视-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313839327C317C313030307CE69785E6B8B8E58DABE8A7867C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="旅游卫视-高清"/>
+    <m type="2" src="http://c.haoetv.org/live/tyf.php?5B63686E5D445830303030303034327C313636387C317C313030307CE4B89CE58D97E58DABE8A7862846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="东南卫视-高清"/>
+  </m>
+  <m label="科教少儿">
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/224/400.flv/live" lrc="" label="炫动卡通"/>
+    <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1413.flv" label="金鹰卡通"/>
+    <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1516.flv" label="南方少儿"/>
+    <m type="3" src="rtsp://live.smgbb.cn/clientdfchild" label="哈哈少儿"/>
+    <m type="3" src="mms://218.94.122.203/njtvse" label="南京少儿"/>
+    <m type="3" src="mms://tv.jxgdw.com/jxtv6" label="江西炫彩"/>
+    <m type="2" src="sztv_6" rtmp="rtmp://live.s1979.com:1935/s1979live/video/" label="深圳少儿"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1516.flv" lrc="" label="南方少儿"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1507.flv" lrc="" label="摄影频道"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1518.flv" lrc="" label="法律服务"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1496.flv" lrc="" label="同步辅导"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1490.flv" lrc="" label="读书频道"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1487.flv" lrc="" label="发现之旅"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1520.flv" lrc="" label="金鹰纪实"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1413.flv" lrc="" label="金鹰卡通"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1522.flv" lrc="" label="湖南教育"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1720.flv" lrc="" label="嘉佳卡通"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=92" lrc="" label="哈哈少儿"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/211/400.flv/live" lrc="" label="东方星尚"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/223/400.flv/live" lrc="" label="哈哈少儿"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/234/400.flv/live" lrc="" label="中央十套"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/284/400.flv/live" lrc="" label="法制天地"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1604.flv" lrc="" label="优漫卡通"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1533.flv" lrc="" label="中学生频道"/>
+  </m>
+  <m label="天翼直播">
+    <m label="CCTV6" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=21003-17733"/>
+    <m label="湖南卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22029-43076"/>
+    <m label="浙江卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22016-12298"/>
+    <m label="珠江频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22003-12386"/>
+    <m label="广东体育" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22003-373129"/>
+    <m label="先锋乒羽" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=24005-12430"/>
+    <m label="央视精品" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22009-12295"/>
+    <m label="发现之旅" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=32003-133022"/>
+    <m label="风云精选" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22008-12403"/>
+    <m label="风云剧场" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=21008-89819"/>
+    <m label="靓妆频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=26001-12302"/>
+    <m label="游戏风云" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=36002-103516"/>
+    <m label="游戏竞技" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=36001-12420"/>
+    <m label="武术世界" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=24010-89841"/>
+    <m label="魅力音乐" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=29003-46336"/>
+    <m label="先锋记录" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=23003-12401"/>
+    <m label="财富天下" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=27001-15743"/>
+    <m label="汽摩频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=51001-12438"/>
+    <m label="DV生活" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=25002-17826"/>
+    <m label="中学生频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=34010-265378"/>
+    <m label="快乐垂钓" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=34009-50027"/>
+    <m label="英语辅导" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=34005-183682"/>
+    <m label="梨园频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=49003-89837"/>
+    <m label="读书频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=34008-67354"/>
+    <m label="摄影频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=53001-50026"/>
+    <m label="老年福" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=25007-89831"/>
+    <m label="浙江卫视高清" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22016-102277"/>
+    <m label="北京卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22011-19332"/>
+    <m label="辽宁卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22043-279867"/>
+    <m label="深圳卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22014-11194"/>
+    <m label="广东卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22003-302009"/>
+    <m label="南方卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22078-94382"/>
+    <m label="河南卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22031-48074"/>
+    <m label="青海卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22079-274931"/>
+    <m label="江西卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22004-17757"/>
+    <m label="四川卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22021-127583"/>
+    <m label="东南卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22027-39442"/>
+    <m label="云南卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22053-46321"/>
+    <m label="湖北卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22015-39211"/>
+    <m label="吉林卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22047-48077"/>
+    <m label="陕西卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22020-91913"/>
+    <m label="贵州卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22013-12432"/>
+    <m label="广西卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22018-10892"/>
+    <m label="重庆卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22012-12397"/>
+    <m label="河北卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22049-48075"/>
+    <m label="厦门卫视" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22030-40052"/>
+    <m label="金鹰卡通" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=35002-48076"/>
+    <m label="湖南经视综合" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22007-9847"/>
+    <m label="湖南娱乐" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22029-274898"/>
+    <m label="湖南都市" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22048-39715"/>
+    <m label="金鹰纪实" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=23005-39467"/>
+    <m label="广东公共" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22003-370485"/>
+    <m label="广东新闻" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22003-302011"/>
+    <m label="湖南教育" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=34003-12444"/>
+    <m label="湖南国际" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22029-284228"/>
+    <m label="重庆国际" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22026-51813"/>
+    <m label="南方综艺" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22078-94380"/>
+    <m label="南方少儿" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22078-94183"/>
+    <m label="深圳都市" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22014-13462"/>
+    <m label="女性频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=45002-12440"/>
+    <m label="南方经济" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22006-12428"/>
+    <m label="深圳娱乐" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22014-274711"/>
+    <m label="深圳公共" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22014-274709"/>
+    <m label="星尚频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=48002-353963"/>
+    <m label="政法频道" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=47001-12388"/>
+    <m label="长沙新闻" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22076-96833"/>
+    <m label="南京生活" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22028-132708"/>
+    <m label="南京电视台" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22028-132708"/>
+    <m label="普洱新闻综合" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22064-103989"/>
+    <m label="贵阳新闻综合" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22062-97815"/>
+    <m label="常州新闻综合" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22061-80774"/>
+    <m label="无锡新闻综合" type="2" src="http://tuifei.sinaapp.com/code/zhibo.php?id=22039-89844"/>
+  </m>
+  <m label="地方总台">
+    <m label="陕西电视">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531337C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="陕西卫视-高清"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/DE9CFF32-E76C-11E0-BC3F-A10582DB7B64?fmt=x264_500k_flv" label="西安新闻综合频道(XATV1)"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/0B153AA2-657E-11E0-9BC4-8191976A168D?fmt=x264_500k_flv" label="西安白鸽都市频道(XATV2)"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/9971EE63-657E-11E0-9BC4-8191976A168D?fmt=x264_500k_flv" label="西安商务资讯频道(XATV3)"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/678744E4-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv" label="西安文化影视频道(XATV4)"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/B24443C5-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv" label="西安健康快乐频道(XATV5)"/>
+      <m type="2" src="http://113.140.13.197:80/live/2011/03/03/E3922EB6-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv" label="西安音乐综艺频道(XATV6)"/>
+    </m>
+    <m label="广东地区">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313636317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="TVS-1 A线"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="TVS-2"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="TVS-3"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531367C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="TVS-5"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303030387C313139387C317C323030307CE78FA0E6B19FE9A291E981937C687474707C666C765B2F63686E5D5B74735D317C687474703A2F2F3132312E31352E31322E37323A31383038302F445830303030303030385F313139385B2F74735DVSDNSOOONERCOM00" label="广东珠江"/>
+      <m type="2" src="sztv" rtmp="rtmp://live.s1979.com:1935/s1979live/video" label="深圳卫视频道"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313533307C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="深圳都市频道"/>
+      <m type="2" rtmp="rtmp://219.232.160.121/livestream" src="c0c2132dcc654f5c9ab55971f081d5fa" label="深圳电视剧频道"/>
+      <m type="2" rtmp="rtmp://219.232.160.120/livestream" src="bd0ec42624e97bb1406b6c04e20a40b0" label="深圳财经频道"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313635397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="深圳娱乐频道"/>
+      <m type="2" rtmp="rtmp://219.232.160.121/livestream" src="98109e00e70a37faf1c3d58a70a58662" label="深圳少儿频道"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313635387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="深圳公共频道"/>
+      <m type="2" src="zhtv1" rtmp="rtmp://live.zhtv.com/live" label="广东珠海一台"/>
+      <m type="2" src="zhtv2" rtmp="rtmp://live.zhtv.com/live" label="广东珠海二台"/>
+      <m type="2" label="东莞 dgrtv2" src="b350" rtmp="rtmp://ftv.sun0769.com/dgrtv2"/>
+      <m type="2" label="东莞 dgrtv1" src="b350" rtmp="rtmp://ftv.sun0769.com/dgrtv1"/>
+    </m>
+    <m label="上海东方">
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/222/400.flv/live" label="东方电影"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/220/400.flv/live" label="东方外语"/>
+      <m type="3" src="rtsp://218.1.74.230/music" label="东方外语 (mms)"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/279/400.flv/live" label="娱乐前线"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/218/400.flv/live" label="艺术人文"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/224/400.flv/live" label="炫动卡通"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/223/400.flv/live" label="哈哈少儿"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/293/400.flv/live" label="游戏风云"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/294/400.flv/live" label="极速汽车"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/212/400.flv/live" label="第一财经"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/215/400.flv/live" label="纪实频道"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/217/400.flv/live" label="娱乐频道"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/211/400.flv/live" label="生活时尚"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/210/400.flv/live" label="新闻综合"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/219/400.flv/live" label="购物频道"/>
+      <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/284/400.flv/live" label="法治天地"/>
+    </m>
+    <m label="北京网视">
+      <m type="2" src="live1" rtmp="rtmp://jm.bj-mobiletv.com/live" label="北广传媒频道"/>
+      <m type="2" src="livestream" rtmp="rtmp://211.100.49.136/live" label="北京体育频道"/>
+    </m>
+    <m label="湖南地区">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="湖南经视"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313439357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="英语辅导"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313737317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="湖南都市"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="长沙新闻"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532307C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="金鹰纪实"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313431337C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="金鹰卡通"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="女性频道"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532337C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="政法频道"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532327C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="湖南教育"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313439367C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="中小学同步辅导"/>
+      <m type="3" src="mms://media.zzbtv.com/swpd" lrc="" label="株洲商务频道"/>
+      <m type="3" src="mms://media.zzbtv.com/xwzhpd" lrc="" label="株洲新闻综合"/>
+    </m>
+    <m label="江苏地区">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313335317C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="南京卫视"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313234327C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="江苏公共"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313234337C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="江苏城市"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313139397C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="无锡综合"/>
+      <m type="2" src="http://218.91.45.98/channels/40/400.flv/live" label="扬州新闻频道"/>
+      <m type="2" src="http://218.91.45.98/channels/41/400.flv/live" label="扬州城市频道"/>
+      <m type="2" src="http://218.91.45.98/channels/42/400.flv/live" label="扬州生活频道"/>
+    </m>
+    <m label="四川地区">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313233337C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="成都综合"/>
+    </m>
+    <m label="重庆地区">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313230347C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="重庆国际"/>
+    </m>
+    <m label="云南地区">
+      <m type="2" src="http://61.159.229.245/channels/621/400.flv/live&amp;.flv" label="云南卫视"/>
+      <m type="2" src="http://61.159.229.246/channels/622/400.flv/live?1279150580000&amp;.flv" label="云南卫视-2"/>
+      <m type="2" src="http://61.159.229.245/channels/623/400.flv/live&amp;.flv" label="云南卫视-3"/>
+      <m type="2" src="http://61.159.229.246/channels/624/400.flv/live&amp;.flv" label="云南电视-4"/>
+      <m type="2" src="http://61.159.229.245/channels/625/400.flv/live&amp;.flv" label="云南电视-5"/>
+      <m type="2" src="http://61.159.229.246/channels/626/400.flv/live?1279151338000&amp;.flv" label="云南卫视-6"/>
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313233397C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="普洱综合"/>
+      <m type="2" src="live183" rtmp="rtmp://www.yxtv.cn/live" label="玉溪一台"/>
+      <m type="2" src="live184" rtmp="rtmp://www.yxtv.cn/live" label="玉溪二台"/>
+    </m>
+    <m label="山西地区">
+      <m type="2" src="http://biz.ik978.com/playlive.php?5B63686E5D445830303030303035307C313132337C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="山西卫视"/>
+    </m>
+    <m label="山东地区">
+      <m type="2" rtmp="rtmp://219.232.160.121/livestream" src="a65bda496f47dedb0dccac2a39db33b7" label="山东卫视频道"/>
+    </m>
+    <m label="河南频道">
+      <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313439317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="河南卫视-高清"/>
+    </m>
+    <m label="浙江卫视">
+      <m type="2" src="http://r1.cztv.com/channels/101/500.flv/live" label="浙江卫视频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/102/500.flv/live" label="浙江钱江频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/103/500.flv/live" label="浙江经视频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/104/500.flv/live" label="浙江科教频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/105/500.flv/live" label="浙江影视频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/106/500.flv/live" label="浙江民生频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/107/500.flv/live" label="浙江公共频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/108/500.flv/live" label="浙江少儿频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/109/500.flv/live" label="留学世界频道"/>
+      <m type="2" src="http://r1.cztv.com/channels/110/500.flv/live" label="浙江国际频道"/>
+    </m>
+    <m label="辽宁网视">
+      <m type="2" src="test" rtmp="rtmp://flv.easygotv.net/live" label="辽宁购物"/>
+      <m type="2" src="livestream" rtmp="rtmp://222.255.144.62/live/" label="辽宁购物"/>
+      <m type="2" src="test" rtmp="rtmp://flv.easygotv.net/live" label="辽宁宜佳购物"/>
+    </m>
+    <m label="宁夏网视">
+      <m type="2" rtmp="rtmp://219.232.160.120/livestream" src="3100bff89b4dbdc0a80187b8925b462f" label="宁夏卫视频道"/>
+    </m>
+    <m label="影视娱乐">
+      <m type="2" src="http://www.lb50.cn/LIveUrl/Smg.Asp?217.flv" label="上海娱乐"/>
+      <m type="2" src="http://61.159.229.245/channels/623/400.flv" label="云南娱乐"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1659.flv" label="深圳娱乐"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1671.flv" label="湖南娱乐"/>
+      <m type="2" src="http://61.159.229.246/channels/624/400.flv" label="云南影视"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/Smg.Asp?222.flv" label="东方电影"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/Smg.Asp?279.flv" label="上海娱乐前线"/>
+      <m type="2" src="http://115.238.46.149/channels/105/500.flv/live.flv" label="浙江影视"/>
+      <m type="2" src="hntv5" rtmp="rtmp://218.29.117.123/live/" label="河南电视剧"/>
+    </m>
+    <m label="体育频道">
+      <m type="" src="http://ttvv.tv161.com/channels/6/400.flv" label="CCTV-5-高清"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1807.flv" label="广州体育-高清"/>
+      <m type="" src="sztv_5" rtmp="rtmp://live.s1979.com:1935/s1979live/video/" label="深圳体育"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313730387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="先锋乒羽"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="天元围棋"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="武术世界"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="游戏风云"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="杂技频道"/>
+      <m type="" src="pindao_8" rtmp="rtmp://61.160.208.144:80/TVLive/" label="欧洲足球频道(电信)"/>
+      <m type="" src="pindao_8" rtmp="rtmp://58.241.88.62:80/TVLive/" label="欧洲足球频道(联通)"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="天元围棋-高清"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="武术世界-高清"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530327C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="先锋乒羽-高清"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="游戏风云-高清"/>
+      <m type="" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="杂技频道-高清"/>
+      <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/293/400.flv/live" label="游戏风云-高清"/>
+      <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/294/400.flv/live" label="极速汽车-高清"/>
+    </m>
+    <m label="探索教育">
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1487.flv" label="发现之旅"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1533.flv" label="中学生频道"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1522.flv" label="湖南教育"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1503.flv" label="先锋纪录"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1490.flv" label="读书频道"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1496.flv" label="中小学同步辅导"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1520.flv" label="金鹰纪实"/>
+      <m type="2" src="http://115.238.46.149/channels/104/500.flv/live.flv" label="浙江教育"/>
+      <m type="3" src="mms://61.135.179.108/TV-btv3" label="北京科教"/>
+      <m type="3" src="mms://218.94.122.203/njtvjk" label="南京教科"/>
+      <m type="3" src="mms://live.cbg.cn/cqkj" label="重庆科教"/>
+      <m type="2" src="http://livecdn.ahtv.cn/channels/1505/500.flv" label="安徽科教"/>
+      <m type="3" src="rtsp://221.8.19.76/jlfz" label="吉林法制"/>
+      <m type="3" src="mms://mmslive.sctv.com/SCTV7" label="四川儿童"/>
+      <m type="3" src="rtsp://58.48.156.93/hubeijiaoyu" label="湖北教育"/>
+      <m type="2" src="cetv3" rtmp="rtmp://pub1.guoshi.com/live/" label="中国教育3台"/>
+      <m type="2" src="kk" rtmp="rtmp://live.guoshi.com/live/" label="空中课堂"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/Smg.Asp?284.flv" label="法治天地"/>
+      <m type="2" src="http://live1.hljtv.com/channels/805/500.flv" label="黑龙江法制"/>
+      <m type="2" src="hntv4" rtmp="rtmp://218.29.117.123/live/" label="河南法制"/>
+      <m type="2" src="lztv3" rtmp="rtmp://218.89.137.20/live/" label="泸州教育"/>
+      <m type="2" src="lzgd_2_1" rtmp="rtmp://219.159.248.116/live/" label="柳州科教"/>
+    </m>
+    <m label="动漫卡通">
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1516.flv" label="南方少儿"/>
+      <m type="3" src="rtsp://live.smgbb.cn/clientdfchild" label="哈哈少儿"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1645.flv" label="炫动卡通"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1413.flv" label="金鹰卡通"/>
+      <m type="2" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1720.flv" label="嘉佳卡通"/>
+      <m type="2" src="http://115.238.46.149/channels/108/500.flv/live.flv" label="浙江少儿"/>
+      <m type="3" src="mms://218.94.122.203/njtvse" label="南京少儿"/>
+      <m type="3" src="mms://tv.jxgdw.com/jxtv6" label="江西炫彩"/>
+      <m type="2" src="sztv_6" rtmp="rtmp://live.s1979.com:1935/s1979live/video/" label="深圳少儿"/>
+    </m>
+  </m>
+  <m label="天威直播">
+    <m type="2" src="750e3de72b71feefa1664678c2208a1e" rtmp="rtmp://219.232.160.121/livestream" label="大运频道1"/>
+    <m type="2" src="sztv_5" rtmp="rtmp://live.s1979.com:1935/s1979live/video" label="大运频道2"/>
+    <m type="2" src="750e3de72b71feefa1664678c2208a1e" rtmp="rtmp://219.232.160.121/livestream" label="大运频道3"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="c64024e7cd451ac19613345704f985fa" label="深圳卫视高清-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="3c7b0e7ffa2bb75c01aa7635cb7cc12f" label="深圳卫视高清-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="5b53152f52f2efe9b4f85bd55f3751dd" label="深圳卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="d46024701fdfe213f7e7dd8e4fb9a1d2" label="深圳卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="20ef0fed3abb88b0beeabac91e7056f5" label="深圳都市-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="dc53abc28d10dafa5ea9088a463a5340" label="深圳都市-标准画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="b119789b6fd4f2cb86a59cb0addf7776" label="深圳电视剧-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="c0c2132dcc654f5c9ab55971f081d5fa" label="深圳电视剧-标准画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="77e19c3214ef876a1e71b4f92bd49040" label="深圳财经-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="bd0ec42624e97bb1406b6c04e20a40b0" label="深圳财经-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="39291c6066742446fbb141f226a6b932" label="深圳娱乐-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="2c3398a96dea0312429f4893f15761af" label="深圳娱乐-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="00c64c8b1c0776fb5f7b69fd25e670c2" label="深圳少儿-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="98109e00e70a37faf1c3d58a70a58662" label="深圳少儿-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="ca1721e961a3251686db703008379d93" label="深圳公共-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="f32c31db27e429dee3b5f55b40f5b663" label="深圳公共-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="d4dd66dada59eade1bf6146369196f04" label="宜和购物-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="98478888e1ffce210c542e92eb254d61" label="宜和购物-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="29236636460b82032853fc991b9b6935" label="气象频道-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="3a7cf633eeaf9b7bc524775a77efeafa" label="气象频道-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="167b464162827dfc763b603cc34ad751" label="财富天下-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="60f2761b50b17a81e4a95c88eff793bb" label="财富天下-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="3e6fde267767ca49d8d0d45a4816a95b" label="广东卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="e6b65f216a24d0a17f993ee27396b47a" label="广东卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="48a26bba89a367c8a636749b4fc300ad" label="南方卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="076adbd60ce61eff6b48683288d451ca" label="南方卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="3b786ebe62277605c47071b0621245da" label="南方综艺-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="0d58f98a6bb513600fcd5980c723171d" label="南方综艺-标准画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="ab41805ee2440bf3748c8e3f1ec6be18" label="南方少儿-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="f1bba4f47fe8578ae5902246300790b3" label="南方少儿-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="d7ecf3232fd087c085141a2e6b978ce9" label="南方影视TVS4（新）"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="5c1e1d248467535459bd86da428ac0dd" label="南方经济TVS1（新）"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="c2f182999d5c66b9602bfab52c862567" label="吉林卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="d1aa4fba0a224d32c594cb3e6320b834" label="吉林卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="0e60e1dd7fb4237dce7adbaf41c44d64" label="东南卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="3b7c0fa3a385b7c790e92f34f0fb1abc" label="东南卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="79f11bbdc29595b03cde2c26c8e64f1d" label="浙江卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="1b1e3ddcec63866949d63cc7342df283" label="浙江卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="bd86ad811f1d77da0d1a8597ccdb51c5" label="重庆卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="bd86ad811f1d77da0d1a8597ccdb51c5" label="重庆卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="0547ce2bf066625d9bf1775a01b11c77" label="广西卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="d02bb5156a4cad08753af40176684f15" label="广西卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="6f3c16428bf06033aeb7e944000ee639" label="安徽卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="19eccd26be7f974fbbad97aa86aaebfb" label="安徽卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="b0dcabbb6a0e468a300825ae52271085" label="黑龙江卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="54445648da3e2c6baa828afb7bfef032" label="黑龙江卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="d59fa94440cc2669b1bdb5ec7d5fc78b" label="河南卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.122/livestream" src="39a18160b7c75e2e1504a22dddb9b45a" label="河南卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="0b4d575e42911ddc5eb5fbff054c64ca" label="山东卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.121/livestream" src="a65bda496f47dedb0dccac2a39db33b7" label="山东卫视-标准画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="3100bff89b4dbdc0a80187b8925b462f" label="宁夏卫视-高清画质"/>
+    <m rtmp="rtmp://219.232.160.120/livestream" src="f10db3c24c211ede3c92daf585016cf1" label="宁夏卫视-标准画质"/>
+  </m>
+  <m label="新闻资讯">
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531307C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="财富天下"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313531387C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="法律服务"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313232307C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="i理财"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313132357C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="第一财经"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="长沙新闻"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313231317C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="贵阳新闻"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313137397C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="常州新闻"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313234347C317C313030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="柳州新闻综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1661.flv" lrc="" label="南方经济"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1493.flv" lrc="" label="电视指南"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1510.flv" lrc="" label="财富天下"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1530.flv" lrc="" label="深圳都市"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1718.flv" lrc="" label="广东新闻"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1125.flv" lrc="" label="第一财经"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1524.flv" lrc="" label="湖南都市"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1523.flv" lrc="" label="长沙政法"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1525.flv" lrc="" label="长沙新闻"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=138" lrc="" label="长沙政法"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=1501" lrc="" label="财富天下"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/210/400.flv/live" lrc="" label="东方综合"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/212/400.flv/live" lrc="" label="第一财经"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/233/400.flv/live" lrc="" label="中央九套"/>
+  </m>
+  <m label="娱乐影视">
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1407.flv" lrc="" label="中央六套"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1484.flv" lrc="" label="央视精品"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1489.flv" lrc="" label="怀旧剧场"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1411.flv" lrc="" label="风云剧场"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1505.flv" lrc="" label="魅力音乐"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1503.flv" lrc="" label="先锋记录"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1512.flv" lrc="" label="DV生活"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1506.flv" lrc="" label="梨园频道"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1124.flv" lrc="" label="上海娱乐"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1747.flv" lrc="" label="江苏影视"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=132" lrc="" label="湖北影视"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/222/400.flv/live" lrc="" label="东方电影"/>
+    <m type="" src="http://61.159.229.245/channels/623/400.flv/live" lrc="" label="云南娱乐"/>
+    <m type="" src="http://61.159.229.248:9090/channels/624/400.flv/live" lrc="" label="云南影视"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/217/400.flv/live" lrc="" label="东方娱乐"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/218/400.flv/live" lrc="" label="艺术人文"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/220/400.flv/live" lrc="" label="东方LCS"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1671.flv" lrc="" label="湖南娱乐"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1659.flv" lrc="" label="深圳娱乐"/>
+  </m>
+  <m label="地方电视">
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1488.flv" lrc="" label="湖南经视"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1515.flv" lrc="" label="南方综艺"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1519.flv" lrc="" label="老年福"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1498.flv" lrc="" label="江苏国际"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1243.flv" lrc="" label="江苏城市"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1242.flv" lrc="" label="江苏公共"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1241.flv" lrc="" label="江苏综艺"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1485.flv" lrc="" label="广东珠江"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1239.flv" lrc="" label="普洱综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1233.flv" lrc="" label="成都综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1521.flv" lrc="" label="长沙女性"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1211.flv" lrc="" label="贵阳综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1179.flv" lrc="" label="常州综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1199.flv" lrc="" label="无锡综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1244.flv" lrc="" label="柳州综合"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1719.flv" lrc="" label="广东公共"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1351.flv" lrc="" label="南京生活"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=137" lrc="" label="长沙女性"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=131" lrc="" label="湖北综合"/>
+    <m type="" src="http://61.159.229.248:9090/channels/622/400.flv/live" lrc="" label="云南都市"/>
+    <m type="" src="http://61.159.229.248:9090/channels/626/400.flv/live" lrc="" label="云南公共"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1721.flv" lrc="" label="湖南国际"/>
+  </m>
+  <m label="河南卫视">
+    <m type="2" src="hntv1" rtmp="rtmp://218.29.117.123/live" label="河南卫视"/>
+    <m type="2" src="hntv2" rtmp="rtmp://218.29.117.123/live" label="河南都市"/>
+    <m type="2" src="hntv3" rtmp="rtmp://218.29.117.123/live" label="河南民生"/>
+    <m type="2" src="hntv4" rtmp="rtmp://218.29.117.123/live" label="河南法制"/>
+    <m type="2" src="hntv5" rtmp="rtmp://218.29.117.123/live" label="河南剧场"/>
+    <m type="2" src="hntv6" rtmp="rtmp://218.29.117.123/live" label="河南博览"/>
+    <m type="2" src="hntv7" rtmp="rtmp://218.29.117.123/live" label="河南信息"/>
+    <m type="2" src="hntv8" rtmp="rtmp://218.29.117.123/live" label="河南公共"/>
+    <m type="2" src="hntv9" rtmp="rtmp://218.29.117.123/live" label="河南农村"/>
+  </m>
+  <m label="综合电视">
+    <m type="2" src="new" rtmp="rtmp://www.scbtv.cn/live" label="绍兴新闻综合"/>
+    <m type="2" src="qfc" rtmp="rtmp://www.scbtv.cn/live" label="轻纺城频道"/>
+    <m type="2" src="http://c4.cztv.com/channels/304/512.flv/live" label="浙江手机台"/>
+    <m type="2" src="http://v2.cztv.com/channels/102/500.flv/live" label="钱江频道"/>
+    <m type="2" src="http://v3.cztv.com/channels/103/500.flv/live" label="浙江经视"/>
+    <m type="2" src="http://v4.cztv.com/channels/104/500.flv/live" label="浙江教科"/>
+    <m type="2" src="http://v5.cztv.com/channels/105/500.flv/live" label="浙江影视"/>
+    <m type="2" src="http://v6.cztv.com/channels/106/500.flv/live" label="6频道"/>
+    <m type="2" src="http://v7.cztv.com/channels/107/500.flv/live" label="公共新农村"/>
+    <m type="2" src="http://v8.cztv.com/channels/108/500.flv/live" label="浙江少儿"/>
+    <m type="2" src="http://v9.cztv.com/channels/109/500.flv/live" label="留学世界"/>
+    <m type="2" src="http://v10.cztv.com/channels/110/500.flv/live" label="浙江国际"/>
+    <m type="2" src="http://v11.cztv.com/channels/111/500.flv/live" label="好易购"/>
+    <m type="wmp" src="http://boss.streamos.com/wmedia-live/tbn/8031/500_tbn-tbn_050222.asx" label="TBN"/>
+    <m type="wmp" src="mms://wm.video.ufl.edu/ATTV " label="ATTV"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313532327C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="湖南教育"/>
+    <m type="2" rtmp="rtmp://219.232.160.122/livestream" src="dc53abc28d10dafa5ea9088a463a5340" label="深圳都市"/>
+    <m type="2" rtmp="rtmp://219.232.160.121/livestream" src="c0c2132dcc654f5c9ab55971f081d5fa" label="深圳电视剧"/>
+    <m type="2" rtmp="rtmp://219.232.160.120/livestream" src="2c3398a96dea0312429f4893f15761af" label="深圳娱乐"/>
+    <m type="2" rtmp="rtmp://219.232.160.121/livestream" src="98109e00e70a37faf1c3d58a70a58662" label="深圳少儿"/>
+    <m type="2" rtmp="rtmp://219.232.160.122/livestream" src="f32c31db27e429dee3b5f55b40f5b663" label="深圳公共"/>
+    <m type="2" rtmp="rtmp://219.232.160.122/livestream" src="98478888e1ffce210c542e92eb254d61" label="宜和购物"/>
+    <m type="2" rtmp="rtmp://219.232.160.122/livestream" src="3a7cf633eeaf9b7bc524775a77efeafa" label="气象频道"/>
+    <m type="2" rtmp="rtmp://219.232.160.122/livestream" src="60f2761b50b17a81e4a95c88eff793bb" label="财富天下"/>
+    <m type="wmp" src="rtsp://61.222.239.122:1140/" label="佛衛慈悲台"/>
+    <m type="wmp" src="rtsp://218.77.178.38/qx/" label="中国 气象电视"/>
+    <m type="wmp" src="rtsp://xinhua17.chinacache.net/live2" label="新华社电视"/>
+    <m type="wmp" label="济宁 jnnews.tv/ggpd" src="rtsp://60.211.179.166/ggpd"/>
+    <m type="wmp" label="济宁 jnnews.tv/xwzh" src="rtsp://60.211.179.166/xwzh"/>
+    <m type="wmp" label="嘉兴v.jxrtv.com 11" src="rtsp://220.189.255.12/live11"/>
+    <m type="wmp" label="嘉兴v.jxrtv.com 5" src="rtsp://220.189.255.12/live5"/>
+    <m type="wmp" label="嘉兴v.jxrtv.com 4" src="rtsp://220.189.255.12/live4"/>
+    <m type="wmp" label="嘉兴v.jxrtv.com 3" src="rtsp://220.189.255.12/live3"/>
+    <m type="wmp" label="嘉兴v.jxrtv.com 2" src="rtsp://220.189.255.12/live2"/>
+    <m type="wmp" src="rtsp://live2.vodone.com/ch11" label="www.secon.cn"/>
+    <m type="wmp" src="rtsp://live2.vodone.com/ch19" label="finance.v1.cn"/>
+    <m type="wmp" src="rtsp://live2.vodone.com/ch20" label="www.vodone.com"/>
+    <m type="wmp" src="rtsp://live.szmg.com.cn/sztv_e" label="szmg.com.cn/sztv_e"/>
+    <m type="wmp" label="台湾 NA_IMTV" src="rtsp://203.69.41.22/NA_IMTV_ONLINETV-1_450K_PC"/>
+    <m type="wmp" label="台湾 TA_AZIO" src="rtsp://203.69.41.22/TA_AZIO_AZIOT_200_MO/DF"/>
+    <m type="wmp" label="台湾 LiveSBN" src="rtsp://live2.net-tv.tw/LiveSBN"/>
+    <m type="wmp" label="台湾 mactv-200" src="rtsp://4.71.37.8/mactv-200"/>
+    <m type="wmp" label="香港 atv-200" src="rtsp://4.71.37.8/atv-200"/>
+    <m type="2" src="hntv9" rtmp="rtmp://218.29.117.123/live" label="河南电视 9台"/>
+    <m type="2" src="hntv8" rtmp="rtmp://218.29.117.123/live" label="河南电视 8台"/>
+    <m type="2" src="hntv7" rtmp="rtmp://218.29.117.123/live" label="河南电视 7台"/>
+    <m type="2" src="hntv6" rtmp="rtmp://218.29.117.123/live" label="河南电视 6台"/>
+    <m type="2" src="hntv5" rtmp="rtmp://218.29.117.123/live" label="河南电视 5台"/>
+    <m type="2" src="hntv4" rtmp="rtmp://218.29.117.123/live" label="河南电视 4台"/>
+    <m type="2" src="hntv3" rtmp="rtmp://218.29.117.123/live" label="河南电视 3台"/>
+    <m type="2" src="hntv2" rtmp="rtmp://218.29.117.123/live" label="河南电视 2台"/>
+    <m type="2" src="hntv1" rtmp="rtmp://218.29.117.123/live" label="河南电视 1台"/>
+    <m type="2" src="http://cnty01tve001cdn.smgbb.tv/channels/218/400.flv/live" label="艺术人文"/>
+    <m type="2" src="sztv-d" rtmp="rtmp://live.s1979.com:1935/s1979live/video" label="深圳电视DV"/>
+    <m type="2" src="http://116.213.146.72:554/104" label="高清体育"/>
+    <m type="2" src="http://116.213.146.72:554/45" label="湖南卫视"/>
+    <m type="2" src="http://116.213.146.72:554/49" label="湖南公共频道"/>
+    <m type="2" src="http://116.213.146.72:554/48" label="湖南都市频道"/>
+    <m type="2" src="http://116.213.146.72:554/47" label="湖南娱乐频道"/>
+    <m type="2" src="http://116.213.146.72:554/46" label="湖南经视频道"/>
+    <m type="2" src="http://116.213.146.72:554/52" label="湖南金鹰纪实"/>
+    <m type="2" src="http://116.213.146.72:554/53" label="湖南金鹰卡通"/>
+    <m type="2" src="http://116.213.146.72:554/51" label="湖南潇湘电影"/>
+    <m type="2" src="http://116.213.146.72:554/50" label="湖南电视剧"/>
+    <m type="2" src="http://116.213.146.72:554/19" label="湖南快乐购"/>
+    <m type="2" src="http://116.213.146.72:554/35" label="北京卫视"/>
+    <m type="2" src="http://116.213.146.72:554/14" label="东方卫视"/>
+    <m type="2" src="http://116.213.146.72:554/22" label="重庆卫视"/>
+    <m type="2" src="http://116.213.146.72:554/34" label="天津卫视"/>
+    <m type="2" src="http://116.213.146.72:554/12" label="四川卫视"/>
+    <m type="2" src="http://116.213.146.72:554/15" label="广东卫视"/>
+    <m type="2" src="http://116.213.146.72:554/18" label="广东英语辅导"/>
+    <m type="2" src="http://116.213.146.72:554/13" label="广东深圳卫视"/>
+    <m type="2" src="http://116.213.146.72:554/38" label="广东DV生活"/>
+    <m type="2" src="http://116.213.146.72:554/33" label="江苏卫视"/>
+    <m type="2" src="http://116.213.146.72:554/11" label="江苏靓妆"/>
+    <m type="2" src="http://116.213.146.72:554/23" label="浙江卫视"/>
+    <m type="2" src="http://116.213.146.72:554/36" label="浙江留学世界"/>
+    <m type="2" src="http://116.213.146.72:554/41" label="海南旅游卫视"/>
+    <m type="2" src="http://116.213.146.72:554/32" label="山东卫视"/>
+    <m type="2" src="http://116.213.146.72:554/21" label="贵州摄影"/>
+    <m type="2" src="http://116.213.146.72:554/40" label="宁夏卫视"/>
+    <m type="2" src="http://116.213.146.72:554/44" label="新疆卫视"/>
+  </m>
+  <m label="城市联合">
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/lanzhou_sports_and_culture/flv:sd/live" label="兰州公共"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/lanzhou_news/flv:sd/live" label="兰州新闻"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/lanzhou_life_and_economy/flv:sd/live" label="兰州生活经济"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/lz_science_and_education/flv:sd/live" label="兰州综艺体育"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhuhai1/flv:sd/live" label="珠海一台"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhuhai2/flv:sd/live" label="珠海二台"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhuhai3/flv:sd/live" label="珠海三台"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xining_news/flv:sd/live" label="西宁新闻"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xining_life/flv:sd/live" label="西宁生活"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhengzhou/flv:sd/live" label="郑州综合"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhengzhou_business/flv:sd/live" label="郑州商都"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhengzhou_culture_and_sports/flv:sd/live" label="郑州文体"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/zhengzhou_law/flv:sd/live" label="郑州法制"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/wuhan_news/flv:sd/live" label="武汉新闻"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/wuhan_science_and_education/flv:sd/live" label="武汉科教"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/wuhan_culture_and_sports/flv:sd/live" label="武汉文体"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/wuhan_kids/flv:sd/live" label="武汉少儿"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_news/flv:sd/live" label="西安新闻综合"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_city/flv:sd/live" label="西安白鸽都市"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_business/flv:sd/live" label="西安商务资讯"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_movie/flv:sd/live" label="西安文艺影视"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_health/flv:sd/live" label="西安健康快乐"/>
+    <m type="2" src="http://media-live-01.cutv.com/channels/cutv/xian_music/flv:sd/live" label="西安音乐综艺"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/entertainment/flv:sd/live" label="深圳娱乐"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/shenzhentv/flv:sd/live" label="深圳卫视"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/kids/flv:sd/live" label="深圳少儿"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/public/flv:sd/live" label="深圳公共"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/urban/flv:sd/live" label="深圳都市"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/drama/flv:sd/live" label="深圳电视剧"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/universiade/flv:sd/live" label="深圳大运"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/economics/flv:sd/live" label="深圳财经"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/taizhou_news/flv:sd/live" label="泰州新闻综合"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/ningbo_news/flv:sd/live" label="宁波新闻综合"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/ningbo_culture_and_entertainment/flv:sd/live" label="宁波文化娱乐"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/ningbo_social_life/flv:sd/live" label="宁波社会生活"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/ningbo_kids/flv:sd/live" label="宁波少儿"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/ningbo_movie_and_tv/flv:sd/live" label="宁波电视剧"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/nantong_zonghe/flv:sd/live" label="南通综合"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/nantong_shejiao/flv:sd/live" label="南通社教"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/nantong_shenghuo/flv:sd/live" label="南通生活"/>
+    <m type="2" src="http://media-live-02.cutv.com/channels/cutv/nantong_xinxi/flv:sd/live" label="南通信息"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/NNTV_YS/flv:sd/live" label="南宁影视"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/NNTV_XW/flv:sd/live" label="南宁新闻"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/NNTV_GG/flv:sd/live" label="南宁公共"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/NNTV_DS/flv:sd/live" label="南宁都市"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/liuzhou_urban/flv:sd/live" label="柳州新闻"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/liuzhou_public/flv:sd/live" label="柳州公共"/>
+    <m type="2" src="http://113.105.76.154/channels/cutv/liuzhou_kejiao/flv:sd/live" label="柳州科教1"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/lz_science_and_education/flv:sd/live" label="柳州科教2"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/jinan_entertainment/flv:sd/live" label="济南娱乐"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/jinan_live/flv:sd/live" label="济南生活"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/jinan_business/flv:sd/live" label="济南商务"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/jinan_kids/flv:sd/live" label="济南少儿"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/jinan_city/flv:sd/live" label="济南都市"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/shaoxin_yingshiyule/flv:hd/live" label="绍兴影视"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/shaoxin_gongong/flv:sd/live" label="绍兴公共"/>
+    <m type="2" src="http://media-live-03.cutv.com/channels/cutv/shaoxing_xinwenzonghe/flv:sd/live" label="绍兴综合"/>
+    <m type="2" src="http://113.105.76.154/channels/cutv/shijiazhuang_xinwenzonghe/flv:sd/live" label="石家庄新闻"/>
+    <m type="2" src="http://113.105.76.154/channels/cutv/shijiazhuang_3pindao/flv:sd/live" label="石家庄影视"/>
+    <m type="2" src="http://113.105.76.154/channels/cutv/shijiazhuang_yule/flv:sd/live" label="石家庄娱乐"/>
+    <m type="2" src="http://113.105.76.154/channels/cutv/shijiazhuang_dushi/flv:sd/live" label="石家庄都市"/>
+  </m>
+  <m label="东方宽屏">
+    <m type="2" src="http://222.132.26.79/channels/222/400.flv/live&amp;.flv" label="东方电影"/>
+    <m type="2" src="http://118.180.6.84/channels/216/400.flv/live&amp;.flv" label="东方卫视"/>
+    <m type="2" src="http://118.180.6.84/channels/279/400.flv/live&amp;.flv" label="娱乐前线"/>
+    <m type="2" src="http://118.180.6.84/channels/218/400.flv/live&amp;.flv" label="艺术人文"/>
+    <m type="2" src="http://118.180.6.84channels/224/400.flv/live&amp;.flv" label="炫动卡通"/>
+    <m type="2" src="http://118.180.6.84/channels/223/400.flv/live&amp;.flv" label="哈哈少儿"/>
+    <m type="2" src="http://118.180.6.84/channels/293/400.flv/live&amp;.flv" label="游戏风云"/>
+    <m type="2" src="http://118.180.6.84/channels/212/400.flv/live&amp;.flv" label="第一财经"/>
+    <m type="2" src="http://118.180.6.84/channels/215/400.flv/live&amp;.flv" label="纪实频道"/>
+    <m type="2" src="http://118.180.6.84/channels/214/400.flv/live&amp;.flv" label="五星体育"/>
+    <m type="2" src="http://118.180.6.84/channels/220/400.flv/live&amp;.flv" label="外语频道"/>
+    <m type="2" src="http://118.180.6.84/channels/217/400.flv/live&amp;.flv" label="娱乐频道"/>
+    <m type="2" src="http://118.180.6.84/channels/211/400.flv/live&amp;.flv" label="生活时尚"/>
+    <m type="2" src="http://118.180.6.84/channels/210/400.flv/live&amp;.flv" label="新闻综合"/>
+    <m type="2" src="http://118.180.6.84/channels/219/400.flv/live&amp;.flv" label="购物频道"/>
+    <m type="2" src="http://118.180.6.84/channels/284/400.flv/live&amp;.flv" label="法治天地"/>
+    <m type="2" src="http://222.132.26.79/channels/294/400.flv/live&amp;.flv" label="极速汽车"/>
+    <m type="2" src="http://222.132.26.79/channels/255/400.flv/live&amp;.flv" label="广西卫视"/>
+    <m type="2" src="http://222.132.26.79/channels/256/400.flv/live&amp;.flv" label="旅游卫视"/>
+    <m type="2" src="http://222.132.26.79/channels/242/400.flv/live&amp;.flv" label="浙江卫视"/>
+  </m>
+  <m label="玲珑电视">
+    <m type="2" label="旅游卫视" src="http://120.72.48.121/live/bf2a09d8a7e04ff8bb5a07a891a760d6.ts?fmt=x264_0k_flv "/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-GDT-VC1-FLV?fmt=x264_0K_flv" label="山东教育"/>
+    <m type="2" src="http://gdt.streamocean.com/live/tsh4-live?fmt=x264_0K_flv" label="清华大学电视台"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-katong-gdt-flv?fmt=x264_0K_flv" label="早期教育"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-jiangsu-gdt-flv?fmt=x264_0K_flv" label="江苏卫视"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-GDT-VC2-FLV?fmt=x264_1500K_flv" label="北京卫视"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-GDT-VC3-FLV?fmt=x264_1500K_flv" label="湖北卫视"/>
+    <m type="2" label="广东卫视" src="http://120.72.48.121/live/bf2a09d8a7e04ff8bb5a07a891a760d6.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="安徽卫视" src="http://120.72.48.121/live/673bf90e14e343a297f823683d95ca6b.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="湖北卫视" src="http://120.72.48.121/live/038cb991f640456c8759c6a7d5a9a54c.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="湖南卫视-HD" src="http://120.72.48.121/live/e2a9cd96968c4ac6bea9da3365da759b.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="江苏卫视-HD" src="http://120.72.48.121/live/51bac8662f574ec6ba64f02dd99b302f.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="山东卫视" src="http://120.72.48.121/live/da81d90930c64ae4bf1225990af24cd0.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="山东教育" src="http://120.72.48.121/live/e483c7beb3b7442582c4f74a2da30a68.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="中国教育1" src="http://120.72.48.121/live/852329d4878b49e5a32149625380a3ef.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="动漫秀场" src="http://120.72.48.121/live/5acdc85f10974bd6a9c1a34d4638e312.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="财富天下" src="http://120.72.48.121/live/bf1052b617ba44b8b6a6bac082234759.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="早期教育" src="http://120.72.48.121/live/54f9fb63fa454b7f9518c883fcf4fce5.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="凤凰中文" src="http://120.72.48.121/live/ffc7b793d8d244e6b25e37565440e123.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="凤凰资讯" src="http://120.72.48.121/live/f523e7f7761b422c83d955d7648e1b3b.ts?fmt=x264_0k_flv"/>
+    <m type="2" label="动漫秀场" src="http://120.72.48.121/live/58311d0a7b26431aa0a3c87e9e251be4.ts?fmt=x264_0k_flv"/>
+  </m>
+  <m label="IPTV网视">
+    <m type="2" src="http://203.91.120.236/channels/6/400.flv" label="CCTV-5"/>
+    <m type="2" src="http://203.91.120.236/channels/41/400.flv" label="CCTV-13"/>
+    <m type="2" src="http://203.91.120.236/channels/37/400.flv" label="湖南卫视频道"/>
+    <m type="2" src="http://203.91.120.236/channels/212/400.flv" label="东方第一财经"/>
+    <m type="2" src="http://203.91.120.236/channels/503/400.flv" label="凤凰卫视频道"/>
+    <m type="2" src="http://203.91.120.236/channels/1/400.flv" label="全记录频道"/>
+    <m type="2" src="http://166.111.5.100/channels/39/500.flv/live" label="清华电视台"/>
+    <m type="2" src="http://r1.cztv.com/channels/101/500.flv/live" label="浙江卫视频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/102/500.flv/live" label="浙江钱江频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/103/500.flv/live" label="浙江经视频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/104/500.flv/live" label="浙江科教频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/105/500.flv/live" label="浙江影视频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/106/500.flv/live" label="浙江民生频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/107/500.flv/live" label="浙江公共频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/108/500.flv/live" label="浙江少儿频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/109/500.flv/live" label="留学世界频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/110/500.flv/live" label="浙江国际频道"/>
+    <m type="2" src="http://r1.cztv.com/channels/111/500.flv/live" label="浙江好易购物"/>
+    <m type="2" src="TVFLV15" rtmp="rtmp://219.153.58.120:1935/live" label="重庆卫视-高清"/>
+    <m type="2" src="TVFLV12" rtmp="rtmp://219.153.58.120:1935/live" label="重庆科教-高清"/>
+    <m type="2" src="TVFLV13" rtmp="rtmp://219.153.58.120:1935/live" label="重庆新闻-高清"/>
+    <m type="2" src="TVFLV11" rtmp="rtmp://219.153.58.120:1935/live" label="重庆都市-高清"/>
+    <m type="2" src="TVFLV8" rtmp="rtmp://219.153.58.120:1935/live" label="重庆时尚-高清"/>
+    <m type="2" src="TVFLV5" rtmp="rtmp://219.153.58.120:1935/live" label="重庆汽摩-高清"/>
+    <m type="2" src="TVFLV4" rtmp="rtmp://219.153.58.120:1935/live" label="重庆魅力时装-高清"/>
+    <m type="2" src="TVFLV2" rtmp="rtmp://219.153.58.120:1935/live" label="重庆新财经-高清"/>
+    <m type="2" src="TVFLV1" rtmp="rtmp://219.153.58.120:1935/live" label="重庆移动-高清"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1501/500.flv/live&amp;.flv" label="安徽卫视频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1502/500.flv/live&amp;.flv" label="安徽影视频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1504/500.flv/live&amp;.flv" label="安徽综艺频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1506/500.flv/live&amp;.flv" label="安徽公共频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1503/500.flv/live&amp;.flv" label="安徽经济生活"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1505/500.flv/live&amp;.flv" label="安徽科教频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1507/500.flv/live&amp;.flv" label="安徽人物频道"/>
+    <m type="2" src="http://livecdn.ahtv.cn/channels/1508/500.flv/live&amp;.flv" label="安徽国际频道"/>
+    <m type="2" src="c1ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北综合"/>
+    <m type="2" src="c2ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北公共"/>
+    <m type="2" src="c3ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北卫视"/>
+    <m type="2" src="c4ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北教育"/>
+    <m type="2" src="c5ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北美嘉购物"/>
+    <m type="2" src="c6ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北孕育指南"/>
+    <m type="2" src="c7ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北体育"/>
+    <m type="2" src="c8ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北影视"/>
+    <m type="2" src="c9ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北城市"/>
+    <m type="2" src="c0ts500k.stream" rtmp="rtmp://hbtv.hrtv8.com/live" label="湖北经视"/>
+    <m type="2" src="http://61.159.229.245/channels/621/400.flv/live" label="云南电视一台"/>
+    <m type="2" src="http://61.159.229.246/channels/622/400.flv/live" label="云南电视二台"/>
+    <m type="2" src="http://61.159.229.245/channels/623/400.flv/live" label="云南电视三台"/>
+    <m type="2" src="http://61.159.229.246/channels/624/400.flv/live" label="云南电视五台"/>
+    <m type="2" src="http://61.159.229.246/channels/626/400.flv/live" label="云南电视六台"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/217/400.flv/live" label="东方娱乐频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/218/400.flv/live" label="东方艺术频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/216/400.flv/live" label="东方卫视频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/220/400.flv/live" label="东方外语频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/222/400.flv/live" label="东方电影频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/214/400.flv/live" label="上海体育频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/503/400.flv/live" label="凤凰卫视频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/212/400.flv/live" label="第一财经频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/215/400.flv/live" label="纪实频道频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/218/400.flv/live" label="艺术人文频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/210/400.flv/live" label="新闻综合频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/255/400.flv/live" label="广西卫视频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/284/400.flv/live" label="法治天地频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/279/400.flv/live" label="娱乐前线频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/256/400.flv/live" label="旅游卫视频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/293/400.flv/live" label="游戏风云频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/294/400.flv/live" label="极速汽车频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/226/400.flv/live" label="央视经济频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/231/400.flv/live" label="央视农军频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/233/400.flv/live" label="央视英文频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/234/400.flv/live" label="央视科技频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/242/400.flv/live" label="浙江卫视频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/211/400.flv/live" label="生活时尚频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/219/400.flv/live" label="东方购物频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/223/400.flv/live" label="哈哈少儿频道"/>
+    <m type="2" src="http://cnqh01tve001cdn.smgbb.tv/channels/224/400.flv/live" label="炫动卡通频道"/>
+  </m>
+  <m label="体育竞技">
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1486.flv" lrc="" label="欧洲足球"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1517.flv" lrc="" label="天元围棋"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1508.flv" lrc="" label="武术世界"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1708.flv" lrc="" label="先锋乒羽"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1527.flv" lrc="" label="游戏风云"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1504.flv" lrc="" label="重庆汽摩"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1529.flv" lrc="" label="重庆杂技"/>
+    <m type="" src="http://121.9.229.17:81/206/400/0/cctv5.flv" lrc="" label="中央五套"/>
+    <m type="" src="http://www.lb50.cn/LIveUrl/TYUrl.Asp?1161.flv" lrc="" label="新传体育"/>
+    <m type="3" src="http://www.lb50.cn/LIveUrl/Joy.Asp?ID=134" lrc="" label="湖北体育"/>
+    <m type="" src="http://cnty01tve001cdn.smgbb.tv/channels/293/400.flv/live" lrc="" label="游戏风云"/>
+  </m>
+  <m label="女性电视">
+    <m type="2" src="http://223.27.170.210/channels/1111/800.flv/live" label="ladytv"/>
+    <m type="2" src="http://223.27.170.210/channels/39/800.flv/live" label="I Movies"/>
+  </m>
+  <m list_src="http://1.chaoqing.sinaapp.com/daili/cntv.cn/cntv.php" label="今日回播"/>
+  <m list_src="http://1.chaoqing.sinaapp.com/daili/cntv.cn/index.php" label="本月回播"/>
+</list>

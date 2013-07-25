@@ -1,0 +1,882 @@
+<list>
+<m label="学生同居一季" opened="0">
+<m type="youku" streamtype="flv" src="XMjY5MTUwMzk2" label="大学生同居的事儿01"/>
+<m type="youku" streamtype="flv" src="XMjY5MTc1OTY4" label="大学生同居的事儿02"/>
+<m type="youku" streamtype="flv" src="XMjY5MjU4MTM2" label="大学生同居的事儿03"/>
+<m type="youku" streamtype="flv" src="XMjY5MjYyMDMy" label="大学生同居的事儿04"/>
+<m type="youku" streamtype="flv" src="XMjY5MjYyMjUy" label="大学生同居的事儿05"/>
+<m type="youku" streamtype="flv" src="XMjY5MzMzNDk2" label="大学生同居的事儿06"/>
+<m type="youku" streamtype="flv" src="XMjY5MzMzODAw" label="大学生同居的事儿07"/>
+<m type="youku" streamtype="flv" src="XMjY5MzMzOTIw" label="大学生同居的事儿08"/>
+<m type="youku" streamtype="flv" src="XMjY5MzM0NTgw" label="大学生同居的事儿09"/>
+<m type="youku" streamtype="flv" src="XMjY5MzM0NzQ4" label="大学生同居的事儿10"/>
+<m type="youku" streamtype="flv" src="XMjY5MzM1MDY0" label="大学生同居的事儿11"/>
+<m type="youku" streamtype="flv" src="XMjY5MzM1NDAw" label="大学生同居的事儿12"/>
+<m type="youku" streamtype="flv" src="XMjUxOTQ1ODgw" label="大学生同居的事儿13"/>
+<m type="youku" streamtype="flv" src="XMjUxOTQ1OTIw" label="大学生同居的事儿14"/>
+<m type="youku" streamtype="flv" src="XMTUyMTczOTQ4" label="大学生同居的事儿15"/>
+</m>
+<m label="学生同居二季" opened="0">
+<m type="youku" streamtype="flv" src="XMjIyMTQ3NDA0" label="大学生同居的事儿01"/>
+<m type="youku" streamtype="flv" src="XMjUxOTQ3Njg0" label="大学生同居的事儿02"/>
+<m type="youku" streamtype="flv" src="XMTEwOTM4Njcy" label="大学生同居的事儿03"/>
+<m type="youku" streamtype="flv" src="XMTEwNjcxMDY4" label="大学生同居的事儿04"/>
+<m type="youku" streamtype="flv" src="XMTExMjkyODQw" label="大学生同居的事儿05"/>
+<m type="youku" streamtype="flv" src="XMTEyNDY2NjM2" label="大学生同居的事儿06"/>
+<m type="youku" streamtype="flv" src="XMTEzNTU1MzAw" label="大学生同居的事儿07"/>
+<m type="youku" streamtype="flv" src="XMTE0NDgwODk2" label="大学生同居的事儿08"/>
+<m type="youku" streamtype="flv" src="XMjU5MjIxNDIw" label="大学生同居的事儿09"/>
+<m type="youku" streamtype="flv" src="XMTE3NDkwODQw" label="大学生同居的事儿10"/>
+<m type="youku" streamtype="flv" src="XMTE3NTEyNTUy" label="大学生同居的事儿11"/>
+<m type="youku" streamtype="flv" src="XMTE4MzQzOTA4" label="大学生同居的事儿12"/>
+<m type="youku" streamtype="flv" src="XMTE5MjgzMzY0" label="大学生同居的事儿13"/>
+<m type="youku" streamtype="flv" src="XMTIwMjcxMDg4" label="大学生同居的事儿14"/>
+<m type="youku" streamtype="flv" src="XMTIxMjgwNDMy" label="大学生同居的事儿15"/>
+<m type="youku" streamtype="flv" src="XMTIzNjc2MDQw" label="大学生同居的事儿16"/>
+<m type="youku" streamtype="flv" src="XMTIzNTgxNDA4" label="大学生同居的事儿17"/>
+<m type="youku" streamtype="flv" src="XMTI0NTgzNDAw" label="大学生同居的事儿18"/>
+<m type="youku" streamtype="flv" src="XMTI1NjUyNDk2" label="大学生同居的事儿19"/>
+<m type="youku" streamtype="flv" src="XMTI2Njg2OTM2" label="大学生同居的事儿20"/>
+<m type="youku" streamtype="flv" src="XMTI3Nzc3ODU2" label="大学生同居的事儿21"/>
+<m type="youku" streamtype="flv" src="XMTI4MjI0MDIw" label="大学生同居的事儿22"/>
+<m type="youku" streamtype="flv" src="XMTI4ODU3NzQ4" label="大学生同居的事儿23"/>
+<m type="youku" streamtype="flv" src="XMTMwMzAwNDA4" label="大学生同居的事儿24"/>
+<m type="youku" streamtype="flv" src="XMTMxNDAyNjIw" label="大学生同居的事儿25"/>
+<m type="youku" streamtype="flv" src="XMTMyODU3NDky" label="大学生同居的事儿26"/>
+<m type="youku" streamtype="flv" src="XMTM1MjQ5MTQw" label="大学生同居的事儿27"/>
+<m type="youku" streamtype="flv" src="XMTM1NDczMjI0" label="大学生同居的事儿28"/>
+<m type="youku" streamtype="flv" src="XMTM4MTAwNjIw" label="大学生同居的事儿29"/>
+<m type="youku" streamtype="flv" src="XMTM4ODE1NDM2" label="大学生同居的事儿30"/>
+<m type="youku" streamtype="flv" src="XMTM5OTQzNDQw" label="大学生同居的事儿31"/>
+<m type="youku" streamtype="flv" src="XMTM5OTQzOTUy" label="大学生同居的事儿32"/>
+<m type="youku" streamtype="flv" src="XMTQwNjYwMjc2" label="大学生同居的事儿33"/>
+<m type="youku" streamtype="flv" src="XMTQxMjUzMDUy" label="大学生同居的事儿34"/>
+<m type="youku" streamtype="flv" src="XMTQxODU4OTYw" label="大学生同居的事儿35"/>
+<m type="youku" streamtype="flv" src="XMTQzNzA2OTU2" label="大学生同居的事儿36"/>
+<m type="youku" streamtype="flv" src="XMTQzNzA2OTY4" label="大学生同居的事儿37"/>
+<m type="youku" streamtype="flv" src="XMTQzNzA2OTc2" label="大学生同居的事儿38"/>
+<m type="youku" streamtype="flv" src="XMTQzNzA2OTky" label="大学生同居的事儿39"/>
+<m type="youku" streamtype="flv" src="XMTQ1MzUyMTI4" label="大学生同居的事儿40"/>
+</m>
+<m label="学生同居三季" opened="0">
+<m type="youku" streamtype="flv" src="XMjQ1NzU4MDg0" label="大学生同居的事儿01"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU4MTU2" label="大学生同居的事儿02"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3NDQ4" label="大学生同居的事儿03"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3NDky" label="大学生同居的事儿04"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3NjMy" label="大学生同居的事儿05"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3NzA0" label="大学生同居的事儿06"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3NzY0" label="大学生同居的事儿07"/>
+<m type="youku" streamtype="flv" src="XMjQ1NzU3ODM2" label="大学生同居的事儿08"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDIxMjIw" label="大学生同居的事儿09"/>
+<m type="youku" streamtype="flv" src="XMTk5NTIwMDQ4" label="大学生同居的事儿10"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4MjY4" label="大学生同居的事儿11"/>
+<m type="youku" streamtype="flv" src="XMjI1MDA2OTYw" label="大学生同居的事儿12"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4NTMy" label="大学生同居的事儿13"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4NTg0" label="大学生同居的事儿14"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4NjU2" label="大学生同居的事儿15"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4NzI0" label="大学生同居的事儿16"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ4Nzg4" label="大学生同居的事儿17"/>
+<m type="youku" streamtype="flv" src="XMTk5NTIwNDIw" label="大学生同居的事儿18"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5NDE2" label="大学生同居的事儿19"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5NDgw" label="大学生同居的事儿20"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5NTUy" label="大学生同居的事儿21"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5NjQw" label="大学生同居的事儿22"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5NzI4" label="大学生同居的事儿23"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5Nzg0" label="大学生同居的事儿24"/>
+<m type="youku" streamtype="flv" src="XMjQ3MDQ5ODky" label="大学生同居的事儿25"/>
+<m type="youku" streamtype="flv" src="XMjAyNjYwNDgw" label="大学生同居的事儿26"/>
+<m type="youku" streamtype="flv" src="XMjExNDY3OTg0" label="大学生同居的事儿27"/>
+<m type="youku" streamtype="flv" src="XMjEwNjA1MDY0" label="大学生同居的事儿28"/>
+<m type="youku" streamtype="flv" src="XMjIxMzMwMTY4" label="大学生同居的事儿29"/>
+<m type="youku" streamtype="flv" src="XMjI3NTMxNTI0" label="大学生同居的事儿30"/>
+</m>
+<m label="人间灶王">
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjU2" label="人间灶王 01"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjY0" label="人间灶王 02"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjY4" label="人间灶王 03"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjcy" label="人间灶王 04"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjc2" label="人间灶王 05"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjgw" label="人间灶王 06"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjg0" label="人间灶王 07"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjg4" label="人间灶王 08"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjky" label="人间灶王 09"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjEy" label="人间灶王 10"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjIw" label="人间灶王 11"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjI0" label="人间灶王 12"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjI4" label="人间灶王 13"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjMy" label="人间灶王 14"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjM2" label="人间灶王 15"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjQw" label="人间灶王 16"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjQ0" label="人间灶王 17"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjQ4" label="人间灶王 18"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjUy" label="人间灶王 19"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMjYw" label="人间灶王 20"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzY4" label="人间灶王 21"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzcy" label="人间灶王 22"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzc2" label="人间灶王 23"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzgw" label="人间灶王 24"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzg0" label="人间灶王 25"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzg4" label="人间灶王 26"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzky" label="人间灶王 27"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzMzk2" label="人间灶王 28"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzNDAw" label="人间灶王 29"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzNDA0" label="人间灶王 30"/>
+<m type="youku" streamtype="flv" src="XMTE5NTQzNDA4" label="人间灶王 31"/></m>
+<m label="白蛇后传">
+<m type="youku" streamtype="flv" src="XMTQ5MTEzODYw" label="白蛇后传[第1集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MTEzOTIw" label="白蛇后传[第2集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MTEzOTYw" label="白蛇后传[第3集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE4MTI4" label="白蛇后传[第4集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE4MTky" label="白蛇后传[第5集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE4NjA0" label="白蛇后传[第6集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE5MTQ0" label="白蛇后传[第7集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE5NzI0" label="白蛇后传[第8集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5MjE5OTY0" label="白蛇后传[第9集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5NjQxOTg4" label="白蛇后传[第10集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5ODU4MjA4" label="白蛇后传[第11集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5ODU4MjMy" label="白蛇后传[第12集]"/>
+<m type="youku" streamtype="flv" src="XMTQ5ODU4MzMy" label="白蛇后传[第13集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5NTE2" label="白蛇后传[第14集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5NjEy" label="白蛇后传[第15集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5NzY0" label="白蛇后传[第16集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5ODE2" label="白蛇后传[第18集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5ODUy" label="白蛇后传[第17集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5ODk2" label="白蛇后传[第19集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5OTQ4" label="白蛇后传[第20集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDQ5OTcy" label="白蛇后传[第21集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDg5MTEy" label="白蛇后传[第22集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDg5MjQ0" label="白蛇后传[第23集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDg5Mjg0" label="白蛇后传[第24集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNDg5MzY4" label="白蛇后传[第25集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNjY3MTUy" label="白蛇后传[第26集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNjY3MjMy" label="白蛇后传[第27集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNjY3MzQ0" label="白蛇后传[第28集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNjY3MzEy" label="白蛇后传[第29集]"/>
+<m type="youku" streamtype="flv" src="XMTUwNjY3Mzg0" label="白蛇后传[第30集]"/></m>
+<m label="天外飞仙">
+<m type="youku" streamtype="flv" src="XMzAxOTU3MTcy" label="天外飞仙01"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0MjM2" label="天外飞仙02"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0MzYw" label="天外飞仙03"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0NDMy" label="天外飞仙04"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0NTA4" label="天外飞仙05"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0NTU2" label="天外飞仙06"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0NjUy" label="天外飞仙07"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0Njg4" label="天外飞仙08"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0NzMy" label="天外飞仙09"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0ODE2" label="天外飞仙10"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0ODk2" label="天外飞仙11"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc0OTQw" label="天外飞仙12"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1MDA0" label="天外飞仙13"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1MTI0" label="天外飞仙14"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1MTgw" label="天外飞仙15"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1MjI0" label="天外飞仙16"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1MzI0" label="天外飞仙17"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1Mzc2" label="天外飞仙18"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1NTk2" label="天外飞仙19"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1Njg0" label="天外飞仙20"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1NzE2" label="天外飞仙21"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc3ODQw" label="天外飞仙22"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1ODQ0" label="天外飞仙23"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc1OTY4" label="天外飞仙24"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2MDcy" label="天外飞仙25"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2MTQ0" label="天外飞仙26"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2MjQ0" label="天外飞仙27"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2Mjcy" label="天外飞仙28"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2MzMy" label="天外飞仙29"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2NDMy" label="天外飞仙30"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2NDky" label="天外飞仙31"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2NTQ4" label="天外飞仙32"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2NjQw" label="天外飞仙33"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2NzIw" label="天外飞仙34"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2ODQ4" label="天外飞仙35"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2OTU2" label="天外飞仙36"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc2OTUy" label="天外飞仙37"/>
+<m type="youku" streamtype="flv" src="XMzAyMTc3MDQw" label="天外飞仙38"/></m>
+<m label="十二生肖传奇">
+<m type="youku" streamtype="flv" src="XMjQ2MDg4MjA0" label="十二生肖传奇 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDg4NDky" label="十二生肖传奇 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDg4Nzc2" label="十二生肖传奇 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDg5MDEy" label="十二生肖传奇 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDg5Mjcy" label="十二生肖传奇 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDg5OTgw" label="十二生肖传奇 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkwMTQ0" label="十二生肖传奇 07"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkwMzQ4" label="十二生肖传奇 08"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkwNTIw" label="十二生肖传奇 09"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkwNjg0" label="十二生肖传奇 10"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkwODM2" label="十二生肖传奇 11"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkxMjky" label="十二生肖传奇 12"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkxNTAw" label="十二生肖传奇 13"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkxNjYw" label="十二生肖传奇 14"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkxODQw" label="十二生肖传奇 15"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkyMDE2" label="十二生肖传奇 16"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkyMTY0" label="十二生肖传奇 17"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkyNTg4" label="十二生肖传奇 18"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkyNzQ4" label="十二生肖传奇 19"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkyODg4" label="十二生肖传奇 20"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkzMTA4" label="十二生肖传奇 21"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkzMjgw" label="十二生肖传奇 22"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkzNDYw" label="十二生肖传奇 23"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDkzNzQ0" label="十二生肖传奇 24"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0MTQw" label="十二生肖传奇 25"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0Mjg0" label="十二生肖传奇 26"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0NDQw" label="十二生肖传奇 27"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0NTI4" label="十二生肖传奇 28"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0NjQ4" label="十二生肖传奇 29"/>
+<m type="youku" streamtype="flv" src="XMjc0MDQwNjM2" label="十二生肖传奇 30"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk0ODEy" label="十二生肖传奇 31"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk1MjY4" label="十二生肖传奇 32"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk1NDk2" label="十二生肖传奇 33"/>
+<m type="youku" streamtype="flv" src="XMjQ2MDk1NjQ0" label="十二生肖传奇 34"/></m>
+<m label="封神榜之武王伐纣">
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDA4" label="封神榜之武王伐纣 01"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1Njk2" label="封神榜之武王伐纣 02"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTQ0" label="封神榜之武王伐纣 03"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTQ4" label="封神榜之武王伐纣 04"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTU2" label="封神榜之武王伐纣 05"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTYw" label="封神榜之武王伐纣 06"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTY0" label="封神榜之武王伐纣 07"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTY4" label="封神榜之武王伐纣 08"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTcy" label="封神榜之武王伐纣 09"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTc2" label="封神榜之武王伐纣 10"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTg0" label="封神榜之武王伐纣 11"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTg4" label="封神榜之武王伐纣 12"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTky" label="封神榜之武王伐纣 13"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NTk2" label="封神榜之武王伐纣 14"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1Mzk2" label="封神榜之武王伐纣 15"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDEy" label="封神榜之武王伐纣 16"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjAw" label="封神榜之武王伐纣 17"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjA0" label="封神榜之武王伐纣 18"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDAw" label="封神榜之武王伐纣 19"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjA4" label="封神榜之武王伐纣 20"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjEy" label="封神榜之武王伐纣 21"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDA0" label="封神榜之武王伐纣 22"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjE2" label="封神榜之武王伐纣 23"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjIw" label="封神榜之武王伐纣 24"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDIw" label="封神榜之武王伐纣 25"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjMy" label="封神榜之武王伐纣 26"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NjM2" label="封神榜之武王伐纣 27"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDI0" label="封神榜之武王伐纣 28"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDI4" label="封神榜之武王伐纣 29"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDMy" label="封神榜之武王伐纣 30"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDE2" label="封神榜之武王伐纣 31"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDM2" label="封神榜之武王伐纣 32"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDQw" label="封神榜之武王伐纣 33"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDQ0" label="封神榜之武王伐纣 34"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDQ4" label="封神榜之武王伐纣 35"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDUy" label="封神榜之武王伐纣 36"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDYw" label="封神榜之武王伐纣 37"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDY0" label="封神榜之武王伐纣 38"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDY4" label="封神榜之武王伐纣 39"/>
+<m type="youku" streamtype="flv" src="XMTQwMDU1NDcy" label="封神榜之武王伐纣 40"/></m>
+<m label="封神榜之凤鸣岐山">
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODc2" label="封神榜之凤鸣岐山 01"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODg0" label="封神榜之凤鸣岐山 02"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODgw" label="封神榜之凤鸣岐山 03"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODg4" label="封神榜之凤鸣岐山 04"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODky" label="封神榜之凤鸣岐山 05"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3ODk2" label="封神榜之凤鸣岐山 06"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTAw" label="封神榜之凤鸣岐山 07"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTA0" label="封神榜之凤鸣岐山 08"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTA4" label="封神榜之凤鸣岐山 09"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTEy" label="封神榜之凤鸣岐山 10"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTE2" label="封神榜之凤鸣岐山 11"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTIw" label="封神榜之凤鸣岐山 12"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTI0" label="封神榜之凤鸣岐山 13"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTI4" label="封神榜之凤鸣岐山 14"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTMy" label="封神榜之凤鸣岐山 15"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTM2" label="封神榜之凤鸣岐山 16"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTQw" label="封神榜之凤鸣岐山 17"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTQ0" label="封神榜之凤鸣岐山 18"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTQ4" label="封神榜之凤鸣岐山 19"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY3OTU2" label="封神榜之凤鸣岐山 20"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDEy" label="封神榜之凤鸣岐山 21"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDE2" label="封神榜之凤鸣岐山 22"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDIw" label="封神榜之凤鸣岐山 23"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDI0" label="封神榜之凤鸣岐山 24"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDI4" label="封神榜之凤鸣岐山 25"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDMy" label="封神榜之凤鸣岐山 26"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDM2" label="封神榜之凤鸣岐山 27"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDQw" label="封神榜之凤鸣岐山 28"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDQ0" label="封神榜之凤鸣岐山 29"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDQ4" label="封神榜之凤鸣岐山 30"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDUy" label="封神榜之凤鸣岐山 31"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDU2" label="封神榜之凤鸣岐山 32"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDYw" label="封神榜之凤鸣岐山 33"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDY0" label="封神榜之凤鸣岐山 34"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDY4" label="封神榜之凤鸣岐山 35"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDcy" label="封神榜之凤鸣岐山 36"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDc2" label="封神榜之凤鸣岐山 37"/>
+<m type="youku" streamtype="flv" src="XMTQwMTY4MDgw" label="封神榜之凤鸣岐山 38"/></m>
+<m label="天师钟馗">
+<m type="youku" streamtype="flv" src="XMjQ2NjI2Mzg4" label="天师钟馗 美丽之罪 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI2Nzg4" label="天师钟馗 美丽之罪 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI3MjIw" label="天师钟馗 美丽之罪 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI3NjQw" label="天师钟馗 美丽之罪 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI4MTIw" label="天师钟馗 美丽之罪 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI4NjA0" label="天师钟馗 美丽之罪 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjIyODA4" label="天师钟馗 慧剑问情 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjIzMzA4" label="天师钟馗 慧剑问情 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjIzODMy" label="天师钟馗 慧剑问情 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI0ODcy" label="天师钟馗 慧剑问情 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI0MzIw" label="天师钟馗 慧剑问情 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI1MzA0" label="天师钟馗 慧剑问情 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI1ODI0" label="天师钟馗 慧剑问情 07"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI5MDg4" label="天师钟馗 青蛇有泪 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjI5NTg0" label="天师钟馗 青蛇有泪 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMwMTc2" label="天师钟馗 青蛇有泪 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMwNjc2" label="天师钟馗 青蛇有泪 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMxMTcy" label="天师钟馗 青蛇有泪 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMxNzA0" label="天师钟馗 青蛇有泪 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMyMzk2" label="天师钟馗 青蛇有泪 07"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM2NjI4" label="天师钟馗 血色鸳鸯 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM3MDky" label="天师钟馗 血色鸳鸯 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM3NDky" label="天师钟馗 血色鸳鸯 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM4MDA0" label="天师钟馗 血色鸳鸯 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM4NTI4" label="天师钟馗 血色鸳鸯 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM5MTEy" label="天师钟馗 血色鸳鸯 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM5NjE2" label="天师钟馗 血色鸳鸯 07"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMyOTQ4" label="天师钟馗 人鱼痴恋 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjMzNTQw" label="天师钟馗 人鱼痴恋 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM0MTI4" label="天师钟馗 人鱼痴恋 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM0NjMy" label="天师钟馗 人鱼痴恋 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM1MTYw" label="天师钟馗 人鱼痴恋 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM1NTky" label="天师钟馗 人鱼痴恋 06"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjM2MTAw" label="天师钟馗 人鱼痴恋 07"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQwMDg0" label="天师钟馗 钟馗嫁妹 01"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQwNDky" label="天师钟馗 钟馗嫁妹 02"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQwOTcy" label="天师钟馗 钟馗嫁妹 03"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQxNDgw" label="天师钟馗 钟馗嫁妹 04"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQyMTU2" label="天师钟馗 钟馗嫁妹 05"/>
+<m type="youku" streamtype="flv" src="XMjQ2NjQzMTA4" label="天师钟馗 钟馗嫁妹 06"/></m>
+<m label="古今大战秦俑情"> 
+<m type="youku" streamtype="flv" src="XMjQ5NDk2MjY4" label="古今大战秦俑情 01"/>
+<m type="youku" streamtype="flv" src="XMjQ5NDk5ODE2" label="古今大战秦俑情 02"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTAxMDQw" label="古今大战秦俑情 03"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTA1MjA4" label="古今大战秦俑情 04"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTA1NzU2" label="古今大战秦俑情 05"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTExMDI4" label="古今大战秦俑情 06"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTEzNjAw" label="古今大战秦俑情 07"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTE2NjAw" label="古今大战秦俑情 08"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTE4Mjc2" label="古今大战秦俑情 09"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTIwMTIw" label="古今大战秦俑情 10"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTIyNzY0" label="古今大战秦俑情 11"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI0MTQw" label="古今大战秦俑情 12"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI1OTM2" label="古今大战秦俑情 13"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI4OTEy" label="古今大战秦俑情 14"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI5OTcy" label="古今大战秦俑情 15"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTMxNDU2" label="古今大战秦俑情 16"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTM0Njgw" label="古今大战秦俑情 17"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTM1MjQw" label="古今大战秦俑情 18"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTM1NzU2" label="古今大战秦俑情 19"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTM2MjA0" label="古今大战秦俑情 20"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTM2NzA0" label="古今大战秦俑情 21"/>
+<m type="youku" streamtype="flv" src="XMjQ5NDg1MzUy" label="古今大战秦俑情 22"/>
+<m type="youku" streamtype="flv" src="XMjQ5NDg4MzY0" label="古今大战秦俑情 23"/>
+<m type="youku" streamtype="flv" src="XMjQ5NDkyNDUy" label="古今大战秦俑情 24"/>
+<m type="youku" streamtype="flv" src="XMjQ5NDk2ODQ4" label="古今大战秦俑情 25"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTAxNTc2" label="古今大战秦俑情 26"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTAyMDU2" label="古今大战秦俑情 27"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTAyNTI0" label="古今大战秦俑情 28"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTA2Mjg4" label="古今大战秦俑情 29"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTA2NzE2" label="古今大战秦俑情 30"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTA4MTYw" label="古今大战秦俑情 31"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTExNjA0" label="古今大战秦俑情 32"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTEyOTc2" label="古今大战秦俑情 33"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTE3MTI4" label="古今大战秦俑情 34"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTE3NjM2" label="古今大战秦俑情 35"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTE5NDIw" label="古今大战秦俑情 36"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTIzMjMy" label="古今大战秦俑情 37"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTIzNjg4" label="古今大战秦俑情 38"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI0NTUy" label="古今大战秦俑情 39"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI2Mzg0" label="古今大战秦俑情 40"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTI5MzU2" label="古今大战秦俑情 41"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTMwNTUy" label="古今大战秦俑情 42"/>
+<m type="youku" streamtype="flv" src="XMjQ5NTMxMDI4" label="古今大战秦俑情 43"/></m>
+<m label="女娲传说之灵珠"> 
+<m type="youku" streamtype="flv" src="XMjUxMjkwNjYw" label="女娲传说之灵珠 01"/>
+<m type="youku" streamtype="flv" src="XMjUxMjk5NzY4" label="女娲传说之灵珠 02"/>
+<m type="youku" streamtype="flv" src="XMjUxMzA3Nzg4" label="女娲传说之灵珠 03"/>
+<m type="youku" streamtype="flv" src="XMjUxMzE2MTY0" label="女娲传说之灵珠 04"/>
+<m type="youku" streamtype="flv" src="XMjUxMzI3ODg4" label="女娲传说之灵珠 05"/>
+<m type="youku" streamtype="flv" src="XMjUxMzMzNjQw" label="女娲传说之灵珠 06"/>
+<m type="youku" streamtype="flv" src="XMjUxMzM5MjY0" label="女娲传说之灵珠 07"/>
+<m type="youku" streamtype="flv" src="XMjUxMzU5MzA4" label="女娲传说之灵珠 08"/>
+<m type="youku" streamtype="flv" src="XMjUxMzU5NTU2" label="女娲传说之灵珠 09"/>
+<m type="youku" streamtype="flv" src="XMjUxMzU5Njc2" label="女娲传说之灵珠 10"/>
+<m type="youku" streamtype="flv" src="XMjUxMzU5OTQw" label="女娲传说之灵珠 11"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYwMTgw" label="女娲传说之灵珠 12"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYwMzky" label="女娲传说之灵珠 13"/>
+<m type="youku" streamtype="flv" src="XMjUyODIyMzgw" label="女娲传说之灵珠 14"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYwNTg4" label="女娲传说之灵珠 15"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYwNzQ0" label="女娲传说之灵珠 16"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYwOTA0" label="女娲传说之灵珠 17"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYxMTA0" label="女娲传说之灵珠 18"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYxMjQ4" label="女娲传说之灵珠 19"/>
+<m type="youku" streamtype="flv" src="XMjUyODI1Njk2" label="女娲传说之灵珠 20"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYxNDA0" label="女娲传说之灵珠 21"/>
+<m type="youku" streamtype="flv" src="XMjUyODI5OTU2" label="女娲传说之灵珠 22"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYxNTc2" label="女娲传说之灵珠 23"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYxODM2" label="女娲传说之灵珠 24"/>
+<m type="youku" streamtype="flv" src="XMjUxMzYyMDAw" label="女娲传说之灵珠 25"/>
+<m type="youku" streamtype="flv" src="XMjUyODMxMTky" label="女娲传说之灵珠 26"/>
+<m type="youku" streamtype="flv" src="XMjUxNTA3OTQ0" label="女娲传说之灵珠 27"/>
+<m type="youku" streamtype="flv" src="XMjUxNTE1Nzky" label="女娲传说之灵珠 28"/>
+<m type="youku" streamtype="flv" src="XMjUxNTI0Mjcy" label="女娲传说之灵珠 29"/>
+<m type="youku" streamtype="flv" src="XMjUxNTM2MzA0" label="女娲传说之灵珠 30"/>
+<m type="youku" streamtype="flv" src="XMjUxNTQ5MzA4" label="女娲传说之灵珠 31"/>
+<m type="youku" streamtype="flv" src="XMjUyODMzMTM2" label="女娲传说之灵珠 32"/>
+<m type="youku" streamtype="flv" src="XMjUxNTYwMjk2" label="女娲传说之灵珠 33"/>
+<m type="youku" streamtype="flv" src="XMjUxNTczOTY4" label="女娲传说之灵珠 34"/>
+<m type="youku" streamtype="flv" src="XMjUxNTk4ODky" label="女娲传说之灵珠 35"/>
+<m type="youku" streamtype="flv" src="XMjUxNTk5Mzg4" label="女娲传说之灵珠 36"/></m>
+<m label="画皮"> 
+<m type="youku" streamtype="flv" src="XMjU1NDc5NzQ0" label="画皮 01"/>
+<m type="youku" streamtype="flv" src="XMjU1NDc5OTI4" label="画皮 02"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgwMTEy" label="画皮 03"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgwMzg4" label="画皮 04"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgwNTMy" label="画皮 05"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgwNzY0" label="画皮 06"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgxMTU2" label="画皮 07"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgxMzc2" label="画皮 08"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgxNjYw" label="画皮 09"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgxODUy" label="画皮 10"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgyMTQ4" label="画皮 11"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgyMzY0" label="画皮 12"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgyNTc2" label="画皮 13"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgyODI4" label="画皮 14"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgzMTg4" label="画皮 15"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgzNDE2" label="画皮 16"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgzNjY4" label="画皮 17"/>
+<m type="youku" streamtype="flv" src="XMjU1NDgzODky" label="画皮 18"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg0MDcy" label="画皮 19"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg0NTcy" label="画皮 20"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg0ODg4" label="画皮 21"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg1MjAw" label="画皮 22"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg1NDky" label="画皮 23"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg1ODY0" label="画皮 24"/>
+<m type="youku" streamtype="flv" src="XMjU1NDg2NDU2" label="画皮 25"/>
+<m type="youku" streamtype="flv" src="XMjU1NTU0NDky" label="画皮 26"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY1MTI0" label="画皮 27"/>
+<m type="youku" streamtype="flv" src="XMjU2NjIzMzEy" label="画皮 28"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY1NTM2" label="画皮 29"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY1ODE2" label="画皮 30"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY2MTY4" label="画皮 31"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY2NDg4" label="画皮 32"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY2OTgw" label="画皮 33"/>
+<m type="youku" streamtype="flv" src="XMjU1NDY3MjU2" label="画皮 34"/></m>
+<m label="宝莲灯前传"> 
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzY0" label="宝莲灯前传01"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzYw" label="宝莲灯前传02"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzU2" label="宝莲灯前传03"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzUy" label="宝莲灯前传04"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzQ0" label="宝莲灯前传05"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzQw" label="宝莲灯前传06"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzM2" label="宝莲灯前传07"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzMy" label="宝莲灯前传08"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzI4" label="宝莲灯前传09"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMzI0" label="宝莲灯前传10"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMjA0" label="宝莲灯前传11"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTk2" label="宝莲灯前传12"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTky" label="宝莲灯前传13"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTg4" label="宝莲灯前传14"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTg0" label="宝莲灯前传15"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTgw" label="宝莲灯前传16"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTc2" label="宝莲灯前传17"/>
+<m type="youku" streamtype="flv" src="XMTI1MDk2NDM2" label="宝莲灯前传18"/>
+<m type="youku" streamtype="flv" src="XMTI1MTAwNzg4" label="宝莲灯前传19"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTY0" label="宝莲灯前传20"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTYw" label="宝莲灯前传21"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTUy" label="宝莲灯前传22"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTU2" label="宝莲灯前传23"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTQ4" label="宝莲灯前传24"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTQ0" label="宝莲灯前传25"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTQw" label="宝莲灯前传26"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTM2" label="宝莲灯前传27"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTMy" label="宝莲灯前传28"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTI4" label="宝莲灯前传29"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE3Njg4" label="宝莲灯前传30"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTY4" label="宝莲灯前传31"/>
+<m type="youku" streamtype="flv" src="XMTIwNjkxMTI0" label="宝莲灯前传32"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTYw" label="宝莲灯前传33"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTU2" label="宝莲灯前传34"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTUy" label="宝莲灯前传35"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTQ4" label="宝莲灯前传36"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTQ0" label="宝莲灯前传37"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTQw" label="宝莲灯前传38"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTM2" label="宝莲灯前传39"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTMy" label="宝莲灯前传40"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTI4" label="宝莲灯前传41"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTI0" label="宝莲灯前传42"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTIw" label="宝莲灯前传43"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTE2" label="宝莲灯前传44"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTEy" label="宝莲灯前传45"/>
+<m type="youku" streamtype="flv" src="XMTIwODEyOTA4" label="宝莲灯前传46"/></m>
+<m label="嫦娥"> 
+<m type="youku" streamtype="flv" src="XMzExODg4Mzky" label="嫦娥 第1集"/>
+<m type="youku" streamtype="flv" src="XMzExOTEwOTUy" label="嫦娥 第2集"/>
+<m type="youku" streamtype="flv" src="XMzExOTE2MTg0" label="嫦娥 第3集"/>
+<m type="youku" streamtype="flv" src="XMzExOTIwNTQ4" label="嫦娥 第4集"/>
+<m type="youku" streamtype="flv" src="XMzEyODUyMDg4" label="嫦娥 第5集"/>
+<m type="youku" streamtype="flv" src="XMzEyODg0ODky" label="嫦娥 第6集"/>
+<m type="youku" streamtype="flv" src="XMzEyOTU2OTIw" label="嫦娥 第7集"/>
+<m type="youku" streamtype="flv" src="XMzEzMDIxMTQ4" label="嫦娥 第8集"/>
+<m type="youku" streamtype="flv" src="XMzEzMDUyMDYw" label="嫦娥 第9集"/>
+<m type="youku" streamtype="flv" src="XMzExOTI1MjA4" label="嫦娥 第10集"/>
+<m type="youku" streamtype="flv" src="XMzExOTI3NzI0" label="嫦娥 第11集"/>
+<m type="youku" streamtype="flv" src="XMzExOTMwOTI0" label="嫦娥 第12集"/>
+<m type="youku" streamtype="flv" src="XMzExOTM1MTcy" label="嫦娥 第13集"/>
+<m type="youku" streamtype="flv" src="XMzExOTU4MjQw" label="嫦娥 第14集"/>
+<m type="youku" streamtype="flv" src="XMzExOTc1MjI4" label="嫦娥 第15集"/>
+<m type="youku" streamtype="flv" src="XMzExOTk5MjMy" label="嫦娥 第16集"/>
+<m type="youku" streamtype="flv" src="XMzEyMTIzMTI4" label="嫦娥 第17集"/>
+<m type="youku" streamtype="flv" src="XMzEyMTQ2ODA4" label="嫦娥 第18集"/>
+<m type="youku" streamtype="flv" src="XMzEyMjA5OTY4" label="嫦娥 第19集"/>
+<m type="youku" streamtype="flv" src="XMzEyMjE0NjI0" label="嫦娥 第20集"/>
+<m type="youku" streamtype="flv" src="XMzEyMjIxMzMy" label="嫦娥 第21集"/>
+<m type="youku" streamtype="flv" src="XMzEyMjQwODI0" label="嫦娥 第22集"/>
+<m type="youku" streamtype="flv" src="XMzEyMjc5NjEy" label="嫦娥 第23集"/>
+<m type="youku" streamtype="flv" src="XMzEyMzExOTA0" label="嫦娥 第24集"/>
+<m type="youku" streamtype="flv" src="XMzEyMzQ1NzU2" label="嫦娥 第25集"/>
+<m type="youku" streamtype="flv" src="XMzEyMzcxODY0" label="嫦娥 第26集"/>
+<m type="youku" streamtype="flv" src="XMzEyNTIzODUy" label="嫦娥 第27集"/>
+<m type="youku" streamtype="flv" src="XMzEyNTM3Njk2" label="嫦娥 第28集"/>
+<m type="youku" streamtype="flv" src="XMzEyNTUwMTY0" label="嫦娥 第29集"/>
+<m type="youku" streamtype="flv" src="XMzEyNTY0OTI4" label="嫦娥 第30集"/>
+<m type="youku" streamtype="flv" src="XMzEyNTc4Njg0" label="嫦娥 第31集"/>
+<m type="youku" streamtype="flv" src="XMzEyNjY4OTI4" label="嫦娥 第32集"/>
+<m type="youku" streamtype="flv" src="XMzEyNzAxNzg0" label="嫦娥 第33集"/>
+<m type="youku" streamtype="flv" src="XMzEyNzUzOTgw" label="嫦娥 第34集"/>
+<m type="youku" streamtype="flv" src="XMzEyNzg1NzEy" label="嫦娥 第35集"/>
+<m type="youku" streamtype="flv" src="XMzEyOTc1OTY0" label="嫦娥 第36集"/>
+<m type="youku" streamtype="flv" src="XMzEyODE0OTQw" label="嫦娥 第37集"/>
+<m type="youku" streamtype="flv" src="XMzEyODE5MTM2" label="嫦娥 第38集"/>
+<m type="youku" streamtype="flv" src="XMzEyODIzMzM2" label="嫦娥 第39集"/>
+<m type="youku" streamtype="flv" src="XMzEyODMwNTgw" label="嫦娥 第40集"/></m>
+<m label="欢天喜地七仙女"> 
+<m type="youku" streamtype="flv" src="XMTI4NzkxODg4" label="欢天喜地七仙女01"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODky" label="欢天喜地七仙女02"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODk2" label="欢天喜地七仙女03"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxOTAw" label="欢天喜地七仙女04"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxOTA0" label="欢天喜地七仙女05"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODI4" label="欢天喜地七仙女06"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODMy" label="欢天喜地七仙女07"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODM2" label="欢天喜地七仙女08"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODQw" label="欢天喜地七仙女09"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODQ0" label="欢天喜地七仙女10"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODQ4" label="欢天喜地七仙女11"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODUy" label="欢天喜地七仙女12"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODU2" label="欢天喜地七仙女13"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODYw" label="欢天喜地七仙女14"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODY0" label="欢天喜地七仙女15"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODY4" label="欢天喜地七仙女16"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODcy" label="欢天喜地七仙女17"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODc2" label="欢天喜地七仙女18"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODgw" label="欢天喜地七仙女19"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkxODg0" label="欢天喜地七仙女20"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjgw" label="欢天喜地七仙女21"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjg0" label="欢天喜地七仙女22"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjg4" label="欢天喜地七仙女23"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjky" label="欢天喜地七仙女24"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjk2" label="欢天喜地七仙女25"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjIw" label="欢天喜地七仙女26"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjI0" label="欢天喜地七仙女27"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjI4" label="欢天喜地七仙女28"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjMy" label="欢天喜地七仙女29"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjA4" label="欢天喜地七仙女30"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjM2" label="欢天喜地七仙女31"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjQw" label="欢天喜地七仙女32"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjQ0" label="欢天喜地七仙女33"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjQ4" label="欢天喜地七仙女34"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjU2" label="欢天喜地七仙女35"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjY0" label="欢天喜地七仙女36"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjY4" label="欢天喜地七仙女37"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1MjE2" label="欢天喜地七仙女38"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjcy" label="欢天喜地七仙女39"/>
+<m type="youku" streamtype="flv" src="XMTI4Nzk1Mjc2" label="欢天喜地七仙女40"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkyMjYw" label="欢天喜地七仙女41"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkyMjY0" label="欢天喜地七仙女42"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkyMjcy" label="欢天喜地七仙女43"/>
+<m type="youku" streamtype="flv" src="XMTI4NzkyMjc2" label="欢天喜地七仙女44"/></m>
+<m label="传说"> 
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjA4" label="远古的传说[第1集]"/>
+<m type="youku" streamtype="flv" src="XMTk4NzMyMjY4" label="传说02"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjE2" label="远古的传说[第3集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjIw" label="远古的传说[第4集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjI0" label="远古的传说[第5集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjMy" label="远古的传说[第6集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjM2" label="远古的传说[第7集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjI4" label="远古的传说[第8集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjEy" label="远古的传说[第9集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjQ0" label="远古的传说[第10集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjQ4" label="远古的传说[第11集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjU2" label="远古的传说[第12集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjY0" label="远古的传说[第13集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2MjY4" label="远古的传说[第14集]"/>
+<m type="youku" streamtype="flv" src="XMTk4Njg2Mjc2" label="远古的传说[第15集]"/>
+<m type="youku" streamtype="flv" src="XMTk4NzkwODYw" label="传说 16"/>
+<m type="youku" streamtype="flv" src="XMTk4Nzk3NzI0" label="传说 17"/>
+<m type="youku" streamtype="flv" src="XMTk4ODEwODAw" label="传说 18"/>
+<m type="youku" streamtype="flv" src="XMTk4ODIzODYw" label="传说 19"/>
+<m type="youku" streamtype="flv" src="XMTk4ODM0OTU2" label="传说 20"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDU2" label="传说 第21集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDYw" label="传说 第22集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDY0" label="传说 第23集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDY4" label="传说 第24集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDcy" label="传说 第25集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDc2" label="传说 第26集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk4OTI0MDgw" label="传说 第27集 DVD"/>
+<m type="youku" streamtype="flv" src="XMTk5Njk2ODQw" label="传说 28"/>
+<m type="youku" streamtype="flv" src="XMTk5NzAyMjg4" label="传说 29"/>
+<m type="youku" streamtype="flv" src="XMTk5NzA4MTgw" label="传说 30"/>
+<m type="youku" streamtype="flv" src="XMjAwNzU1NjY4" label="传说 31"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzAw" label="传说32"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzA0" label="传说33"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzEy" label="传说34"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzA4" label="传说35"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzE2" label="传说36"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzIw" label="传说37"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzI4" label="传说38"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzMy" label="传说39"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzM2" label="传说40"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzQw" label="传说41"/>
+<m type="youku" streamtype="flv" src="XMjAwODc1NDQ4" label="传说 42"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzQ0" label="传说43"/>
+<m type="youku" streamtype="flv" src="XMjAwODA2NzQ4" label="传说44"/></m>
+<m label="九尾狐与仙鹤"> 
+<m type="youku" streamtype="flv" src="XNTI0MDkwMA==" label="九尾狐与仙鹤01"/>
+<m type="youku" streamtype="flv" src="XODI2MzI2OA==" label="九尾狐与仙鹤第2集"/>
+<m type="youku" streamtype="flv" src="XOTc2MDMzMg==" label="九尾狐与仙鹤第3集"/>
+<m type="youku" streamtype="flv" src="XOTc1NjgwOA==" label="九尾狐与仙鹤第4集"/>
+<m type="youku" streamtype="flv" src="XOTc2MDY3Ng==" label="九尾狐与仙鹤第5集"/>
+<m type="youku" streamtype="flv" src="XOTc1NjY5Mg==" label="九尾狐与仙鹤第6集"/>
+<m type="youku" streamtype="flv" src="XMTM5OTE5NDg=" label="九尾狐与仙鹤第7集"/>
+<m type="youku" streamtype="flv" src="XOTc5MjgwNA==" label="九尾狐与仙鹤第8集"/>
+<m type="youku" streamtype="flv" src="XOTc5Mjk4MA==" label="九尾狐与仙鹤第9集"/>
+<m type="youku" streamtype="flv" src="XOTc5MzU4OA==" label="九尾狐与仙鹤第10集"/>
+<m type="youku" streamtype="flv" src="XOTc5MzQ4MA==" label="九尾狐与仙鹤第11集"/>
+<m type="youku" streamtype="flv" src="XOTc5Mzc4OA==" label="九尾狐与仙鹤第12集"/>
+<m type="youku" streamtype="flv" src="XOTc5NDkxNg==" label="九尾狐与仙鹤第13集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTAzNg==" label="九尾狐与仙鹤第14集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTEwMA==" label="九尾狐与仙鹤第15集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTEzNg==" label="九尾狐与仙鹤第16集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTIyOA==" label="九尾狐与仙鹤第17集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTM1Ng==" label="九尾狐与仙鹤第18集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTUxNg==" label="九尾狐与仙鹤第19集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTU4MA==" label="九尾狐与仙鹤第20集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTY2MA==" label="九尾狐与仙鹤第21集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTcxMg==" label="九尾狐与仙鹤第22集"/>
+<m type="youku" streamtype="flv" src="XOTc5NTk4MA==" label="九尾狐与仙鹤第23集"/>
+<m type="youku" streamtype="flv" src="XOTc5NjM3Mg==" label="九尾狐与仙鹤第24集"/>
+<m type="youku" streamtype="flv" src="XOTc5NjUxMg==" label="九尾狐与仙鹤第25集"/>
+<m type="youku" streamtype="flv" src="XOTc5NjYxNg==" label="九尾狐与仙鹤第26集"/>
+<m type="youku" streamtype="flv" src="XOTc5NjY4MA==" label="九尾狐与仙鹤第27集"/></m>
+<m label="传奇幻想殷商"> 
+<m type="youku" streamtype="flv" src="XMTM1OTY1MDY4" label="传奇幻想殷商01"/>
+<m type="youku" streamtype="flv" src="XMTQwMDMyMjE2" label="传奇幻想殷商02"/>
+<m type="youku" streamtype="flv" src="XMTQwMDMyNTY4" label="传奇幻想殷商03"/>
+<m type="youku" streamtype="flv" src="XMTQwMDMyOTIw" label="传奇幻想殷商04"/>
+<m type="youku" streamtype="flv" src="XMTQwMDMzMzMy" label="传奇幻想殷商05"/>
+<m type="youku" streamtype="flv" src="XMTQwMDMzOTY0" label="传奇幻想殷商06"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM0Njgw" label="传奇幻想殷商07"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM1Mjg4" label="传奇幻想殷商08"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM1NzQ4" label="传奇幻想殷商09"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM2MzM2" label="传奇幻想殷商10"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM3MDcy" label="传奇幻想殷商11"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM4MDQ0" label="传奇幻想殷商12"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM4NjU2" label="传奇幻想殷商13"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM5MTUy" label="传奇幻想殷商14"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM5NTcy" label="传奇幻想殷商15"/>
+<m type="youku" streamtype="flv" src="XMTQwMDM5OTI0" label="传奇幻想殷商16"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQwMjgw" label="传奇幻想殷商17"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQwNjc2" label="传奇幻想殷商18"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQxMDU2" label="传奇幻想殷商19"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQxMzA0" label="传奇幻想殷商20"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQxNTg4" label="传奇幻想殷商21"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQxODQw" label="传奇幻想殷商22"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQyMDM2" label="传奇幻想殷商23"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQyMjU2" label="传奇幻想殷商24"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQyNTU2" label="传奇幻想殷商25"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQyODUy" label="传奇幻想殷商26"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQzMjUy" label="传奇幻想殷商27"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQzNjI0" label="传奇幻想殷商28"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQzOTMy" label="传奇幻想殷商29"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ0MzM2" label="传奇幻想殷商30"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ0NzY4" label="传奇幻想殷商31"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ1MjEy" label="传奇幻想殷商32"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ1NjEy" label="传奇幻想殷商33"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ1OTY0" label="传奇幻想殷商34"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ2MzYw" label="传奇幻想殷商35"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ2OTMy" label="传奇幻想殷商36"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ3NDcy" label="传奇幻想殷商37"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ4MDA0" label="传奇幻想殷商38"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ4NjIw" label="传奇幻想殷商39"/>
+<m type="youku" streamtype="flv" src="XMTQwMDQ5MTYw" label="传奇幻想殷商40"/></m>
+<m label="天地传奇"> 
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDI0" label="天地传奇01"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDIw" label="天地传奇02"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDE2" label="天地传奇03"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDEy" label="天地传奇04"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDA4" label="天地传奇05"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDA0" label="天地传奇06"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDAw" label="天地传奇07"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMxOTk2" label="天地传奇08"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMxOTky" label="天地传奇09"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMTI4" label="天地传奇10"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMTI0" label="天地传奇11"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMxOTg4" label="天地传奇12"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMTIw" label="天地传奇13"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDY0" label="天地传奇14"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDYw" label="天地传奇15"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDU2" label="天地传奇16"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDUy" label="天地传奇17"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDQ4" label="天地传奇18"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDQ0" label="天地传奇19"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDQw" label="天地传奇20"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDM2" label="天地传奇21"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDMy" label="天地传奇22"/>
+<m type="youku" streamtype="flv" src="XMTE0NjMyMDI4" label="天地传奇23"/></m>
+<m label="八仙全传"> 
+<m type="youku" streamtype="flv" src="XMzAxMzQ2NDg4" label="八仙全传01"/>
+<m type="youku" streamtype="flv" src="XMzAxMzY2MjQ0" label="八仙全传02"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MzQ4" label="八仙全传03"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MzEy" label="八仙全传04"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MjM2" label="八仙全传05"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MTI4" label="八仙全传06"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MDgw" label="八仙全传07"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ2MDIw" label="八仙全传08"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1OTg4" label="八仙全传09"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1OTQ0" label="八仙全传10"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1ODg4" label="八仙全传11"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1ODI4" label="八仙全传12"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1NzY4" label="八仙全传13"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1NjU2" label="八仙全传14"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1NTU2" label="八仙全传15"/>
+<m type="youku" streamtype="flv" src="XMzAxMzY1MTYw" label="八仙全传16"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1MzA4" label="八仙全传17"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1MjI4" label="八仙全传18"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1MTcy" label="八仙全传19"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1MTMy" label="八仙全传20"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQ1MDg4" label="八仙全传21"/>
+<m type="youku" streamtype="flv" src="XMzAxMzYzNzky" label="八仙全传22"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQxMzQ0" label="八仙全传23"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwODMy" label="八仙全传24"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwNzI0" label="八仙全传25"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwNDky" label="八仙全传26"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwNDU2" label="八仙全传27"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMzY4" label="八仙全传28"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMzE2" label="八仙全传29"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMjM2" label="八仙全传30"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMTg0" label="八仙全传31"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMDcy" label="八仙全传32"/>
+<m type="youku" streamtype="flv" src="XMzAxMzQwMDE2" label="八仙全传33"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5OTYw" label="八仙全传34"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5ODc2" label="八仙全传35"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5NTU2" label="八仙全传36"/>
+<m type="youku" streamtype="flv" src="XMzAxMzU2MzIw" label="八仙全传37"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5NDA0" label="八仙全传38"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5MzQw" label="八仙全传39"/>
+<m type="youku" streamtype="flv" src="XMzAxMzM5MjQw" label="八仙全传40"/></m>
+<m label="人鬼情缘"> 
+<m type="youku" streamtype="flv" src="XMTA1NjMwNjQ0" label="人鬼情缘 01"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ2Nzg4" label="人鬼情缘 02"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ2NTQw" label="人鬼情缘 03"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ2NDAw" label="人鬼情缘 04"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ2MjUy" label="人鬼情缘 05"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ2MTI0" label="人鬼情缘 06"/>
+<m type="youku" streamtype="flv" src="XMTA1NzQ1OTk2" label="人鬼情缘 07"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMyMjQ0" label="人鬼情缘 08"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMxOTU2" label="人鬼情缘 09"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMxNzE2" label="人鬼情缘 10"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMxMzgw" label="人鬼情缘 11"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMxMTMy" label="人鬼情缘 12"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMwODcy" label="人鬼情缘 13"/>
+<m type="youku" streamtype="flv" src="XMTA1NjMwMzQw" label="人鬼情缘 14"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI5OTY0" label="人鬼情缘 15"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI5NzEy" label="人鬼情缘 16"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI5NDUy" label="人鬼情缘 17"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI5Mjcy" label="人鬼情缘 18"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI5MDA0" label="人鬼情缘 19"/>
+<m type="youku" streamtype="flv" src="XMTA1NjI4Nzgw" label="人鬼情缘 20"/></m>
+<m label="鬼吹灯"> 
+<m type="youku" streamtype="flv" src="XMTE0MDkxMjQ0" label="鬼吹灯 01"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxMjg4" label="鬼吹灯 02"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxMzIw" label="鬼吹灯 03"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxMzY0" label="鬼吹灯 04"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxMzg4" label="鬼吹灯 05"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNDEy" label="鬼吹灯 06"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNDM2" label="鬼吹灯 07"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNDU2" label="鬼吹灯 08"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNDg4" label="鬼吹灯 09"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNTEy" label="鬼吹灯 10"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNTU2" label="鬼吹灯 11"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNTcy" label="鬼吹灯 12"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNTg4" label="鬼吹灯 13"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNjEy" label="鬼吹灯 14"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNjky" label="鬼吹灯 19"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxMjI4" label="鬼吹灯 15"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNzQw" label="鬼吹灯 21"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNjM2" label="鬼吹灯 16"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNzU2" label="鬼吹灯 22"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNjY0" label="鬼吹灯 17"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNjgw" label="鬼吹灯 18"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNzc2" label="鬼吹灯 23"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNzg4" label="鬼吹灯 24"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxNzIw" label="鬼吹灯 20"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxODEy" label="鬼吹灯 25"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxODI0" label="鬼吹灯 26"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxODQ4" label="鬼吹灯 27"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxODY4" label="鬼吹灯 28"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxOTEy" label="鬼吹灯 29"/>
+<m type="youku" streamtype="flv" src="XMTE0MDkxOTI0" label="鬼吹灯 30"/></m>
+<m label="降妖罗汉">
+<m type="youku" streamtype="flv" src="XMTIyOTE2NjUy" label="降妖罗汉01"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2NzQw" label="降妖罗汉02"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2Nzky" label="降妖罗汉03"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2ODA4" label="降妖罗汉04"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2ODQ4" label="降妖罗汉05"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2OTI4" label="降妖罗汉06"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2OTAw" label="降妖罗汉07"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2OTQw" label="降妖罗汉08"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2OTY4" label="降妖罗汉09"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE2OTk2" label="降妖罗汉10"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MDIw" label="降妖罗汉11"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MDQ4" label="降妖罗汉12"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MDky" label="降妖罗汉13"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MTI0" label="降妖罗汉14"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MTYw" label="降妖罗汉15"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MTky" label="降妖罗汉16"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MjIw" label="降妖罗汉17"/>
+<m type="youku" streamtype="flv" src="XMTIyOTE3MjQw" label="降妖罗汉18"/></m>
+<m label="夜光神杯">
+<m type="youku" streamtype="flv" src="XMTc0NzkzNzI=" label="夜光神杯01"/>
+<m type="youku" streamtype="flv" src="XMTc0Nzk0MjA=" label="夜光神杯02"/>
+<m type="youku" streamtype="flv" src="XMTc2MDc3ODQ=" label="夜光神杯03"/>
+<m type="youku" streamtype="flv" src="XMTc0ODI0MjQ=" label="夜光神杯04"/>
+<m type="youku" streamtype="flv" src="XMTc0Nzk1NjA=" label="夜光神杯05"/>
+<m type="youku" streamtype="flv" src="XMTc0ODI5MDg=" label="夜光神杯06"/>
+<m type="youku" streamtype="flv" src="XMTc1NTk4MTY=" label="夜光神杯07"/>
+<m type="youku" streamtype="flv" src="XMTc1NjAxNDg=" label="夜光神杯08"/>
+<m type="youku" streamtype="flv" src="XMTc0ODI2OTI=" label="夜光神杯09"/>
+<m type="youku" streamtype="flv" src="XMTc1NTk1MjQ=" label="夜光神杯10"/>
+<m type="youku" streamtype="flv" src="XMTc1NjE4NzI=" label="夜光神杯11"/>
+<m type="youku" streamtype="flv" src="XMTc1NjIxNTY=" label="夜光神杯12"/>
+<m type="youku" streamtype="flv" src="XMTc1NjIzMDA=" label="夜光神杯13"/>
+<m type="youku" streamtype="flv" src="XMTc1NjQxMDQ=" label="夜光神杯14"/>
+<m type="youku" streamtype="flv" src="XMTc1NjQyNDQ=" label="夜光神杯15"/>
+<m type="youku" streamtype="flv" src="XMTc1NjQ1MjA=" label="夜光神杯16"/>
+<m type="youku" streamtype="flv" src="XMTc1NjU2NjA=" label="夜光神杯17"/>
+<m type="youku" streamtype="flv" src="XMTc1NjU4MjA=" label="夜光神杯18"/>
+<m type="youku" streamtype="flv" src="XMTc1NjYwNjg=" label="夜光神杯19"/>
+<m type="youku" streamtype="flv" src="XMTc2MDkxMzI=" label="夜光神杯20"/>
+<m type="youku" streamtype="flv" src="XMTc2MDg2MjQ=" label="夜光神杯21"/>
+<m type="youku" streamtype="flv" src="XMTc2MDkyMjA=" label="夜光神杯22"/>
+<m type="youku" streamtype="flv" src="XMTc2MTAwODQ=" label="夜光神杯23"/>
+<m type="youku" streamtype="flv" src="XMTc2MDk2NjQ=" label="夜光神杯24"/>
+<m type="youku" streamtype="flv" src="XMTc2MTA4MzY=" label="夜光神杯25"/>
+<m type="youku" streamtype="flv" src="XMTc2MTQ3MzY=" label="夜光神杯26"/>
+<m type="youku" streamtype="flv" src="XMTc2MTgxODA=" label="夜光神杯27"/>
+<m type="youku" streamtype="flv" src="XMTc2MTQ4ODQ=" label="夜光神杯28"/>
+<m type="youku" streamtype="flv" src="XMTc2MTYzMDA=" label="夜光神杯29"/>
+<m type="youku" streamtype="flv" src="XMTc2MTgzMzI=" label="夜光神杯30"/>
+</m>
+</list>

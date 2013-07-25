@@ -1,0 +1,89 @@
+﻿<list>
+
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv1" label="CCTV-1"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv2" label="CCTV-2"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv3" label="CCTV-3"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv4" label="CCTV-4"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv5_800" label="CCTV-5"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv6" label="CCTV-6"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv7" label="CCTV-7"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv8" label="CCTV-8"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv9" label="CCTV-9"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv10" label="CCTV-10"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv11" label="CCTV-11"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctv12" label="CCTV-12"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctvnew" label="CCTV-13"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctvshaoer" label="CCTV-14"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cctvmusic" label="CCTV-15"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="fyzq" label="风云足球"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="fyyy" label="风云音乐"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="dyjc" label="第一剧场"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="hjjc" label="怀旧剧场"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="guofangjunshi" label="国防军事"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shijiedili" label="世界地理"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="golfwangqiu" label="高尔夫网球"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="fenghuang" label="凤凰卫视"/>
+<m rtmp="rtmp://220.181.117.168/live/" src="fenghuang" label="凤凰卫视2"/>
+
+
+<m rtmp="rtmp://220.181.117.168/live/" src="xingkongweishi" label="星空卫视 极速"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="bjwy" label="北京文艺"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="jykt" label="金鹰卡通"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="xdkt" label="炫动卡通"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="bjkaku" label="卡酷动画"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="sdjy" label="山东教育"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="guangdongtiyu" label="广东体育"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="btv6_800" label="北京体育"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shanghaitiyu_800" label="上海体育"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="tywq" label="天元围棋"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="sportlive" label="乐视体育"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shengdian" label="乐视盛典"/>
+
+<m rtmp="rtmp://220.181.117.168/live/" src="channel_0_pc" label="乐视电影 极速"/>
+
+
+<m rtmp="rtmp://220.181.153.91/live/" src="hbo" label="HBO"/>
+<m rtmp="rtmp://220.181.153.91/live/nba" src="nba" label="NBA"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="cnn" label="CNN"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="luxe" label="LUXE TV"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="fashion" label="Fashion TV"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="starmovie" label="Star Movie"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="starworld" label="Star World"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="travel" label="旅游频道"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="food" label="亚洲美食"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="disc" label="探索频道"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="natgeo" label="国家地理历险"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="bjws" label="北京卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="dongfang" label="东方卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="guangdong" label="广东卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="zhejiang" label="浙江卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="hunan" label="湖南卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="jiangsu" label="江苏卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shandong" label="山东卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="hebei" label="河北卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="dongnan" label="东南卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="henan" label="河南卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shanxi" label="山西卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shanxi1" label="陕西卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="anhui" label="安徽卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="jiangxi" label="江西卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="hubei" label="湖北卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="guangxi" label="广西卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="xinjiang" label="新疆卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="gansu" label="甘肃卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="yunnan" label="云南卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="liaoning" label="辽宁卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="jilin" label="吉林卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="lvyou" label="旅游卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="chongqing" label="重庆卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="guizhou" label="贵州卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="sichuan" label="四川卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="ningxia" label="宁夏卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="qinghai" label="青海卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="tianjin" label="天津卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="xizang" label="西藏卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="shenzhen" label="深圳卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="nanfang" label="南方卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="neimenggu" label="内蒙古卫视"/>
+<m rtmp="rtmp://220.181.153.91/live/" src="heilongjiang" label="黑龙江卫视"/>
+</list>

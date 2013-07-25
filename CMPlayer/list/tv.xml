@@ -1,0 +1,12 @@
+<list>
+<m type="2" src="http://www.cietv.com/iptv.asp?s=5B63686E5D445830303030303034327C313633327C317C313030307CE587A4E587B0E8B584E8AEAF2846297C72746D707C666C765B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="凤凰资讯-高清"/>
+<m list_src="list/tv/glws.xml" label="国内卫视"   />
+<m list_src="list/tv/gtws.xml" label="港台电视"   />
+<m list_src="list/tv/zypd.xml" label="中央频道"   />
+<m list_src="list/tv/xwzx.xml" label="新闻资讯"   />
+<m list_src="list/tv/tyjj.xml" label="体育竞技"   />
+<m list_src="list/tv/dfds.xml" label="地方电视"   />
+<m list_src="list/tv/ylys.xml" label="娱乐影视"   />
+<m list_src="list/tv/dfzb.xml" label="东方直播"   />
+<m list_src="list/tv/tv1.xml" label="电视直播 ①"   />
+</list>

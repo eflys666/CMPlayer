@@ -1,0 +1,68 @@
+﻿<!--
+CMP4配置文件
+所有配置参数说明请见：http://bbs.cenfun.com/thread-10891-1-1.html
+-->
+<cmp 
+	name = "eflys - 『神鹰在线』" 
+	link = "http://bbs.cenfun.com/" 
+	description = ""
+	logo = "{src:logo.png,xywh:[10,20,10%,5%]},{src:plugins/time.swf,xywh:[35R,20,100,20]}"
+
+           logo_alpha = "0.4" 
+           video_image="load.swf"
+	
+	skins = "skins/wmp1.pf,
+                 skins/tv.pf,
+                 skins/pptv.swf,
+                 skins/yunhide.swf,
+                 skins/fy4hide.swf,
+                 skins/chaoqing.swf"
+             skin_id = "6"
+	plugins = "plugins.swf,
+                   {src:plugins/download.swf,xywh:[0,0,0,0],alpha:0.5}"
+      youku_handler = "http://wpav.sourceforge.net/code/yo.php?id="
+      weather_handler = "http://eflys.comuv.com/code/weather.php"
+      error_handler="http://wsm.usa.cc/bin-debug/index.php"
+      tuifei_curl="http://eflyse.duapp.com/code/tuifei.php?url="
+      weather_xywh = "120,3,48,48" 
+      Hd_button="2,10R,55,122"
+      hd_list_pic="map.png"
+      hd_change_pic="change.png"
+
+         mixer_src = ""
+         mixer_id = "6"
+         models = "plugins/p2plive.swf"
+                   history_label = "播放历史"
+                   history_position = "1"
+                   history_max = "3"     
+
+	backgrounds = "plugins/bg.swf"
+	lists = "l.xml"
+           
+           chat_xywh = "20,20,32,32"        
+           chat_alone = "1"       
+           chat_roomname = "神鹰在线视屏"
+           ads="{src:003.jpg,link:,link_target:_blank,width:500,height:350,onstate:paused,target:video}"
+	
+	src_handler = "" 
+	lrc_handler = "http://eflyse.duapp.com/code/lrc.php?type={type}&title={label}&rd={rd}"
+           share_cmp ="0"       
+           default_skin="0" 
+
+	
+           play_mode = "0"	
+
+	play_id = ""
+	auto_play = "1"
+           click_play = "1"
+	list_delete = "1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+  announce_xywh = "0,0,100P,20"
+  announce_speed = "2"
+  announce_content = "%3CFONT%20size%3D'15'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎观看神鹰在线视频  %3Cfont color='#7FFF00'>①%3Cfont color='#00FFFF'>神鹰在线视频最新影视、音乐、电台、MTV、网络电视  %3Cfont color='#7FFF00'>②%3Cfont color='#00FFFF'>全频黄金滚动广告位招租..."
+/>

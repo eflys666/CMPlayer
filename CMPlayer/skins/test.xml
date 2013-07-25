@@ -1,0 +1,14 @@
+<list>
+<m  type="" label="景甜图片" src="test.jpg" />
+<m  type="2" label="香港卫视HKS satellite channel" src="hks" rtmp="rtmp://live.hkstv.hk.lxdns.com/live/"/>
+<m type="2" src="http://v.weather.com.cn/v/c/xwlb/xwlb.flv"  label="天氣預報China Evening weather forecast  Diaoyu Islands belong to China"/>
+<m type="2" src="http://live.3gv.ifeng.com/live/1256" label="凤凰资讯官网Phoenix News"/>
+<m  rtmp="rtmp://202.102.79.114:554/live/" src="tv34" label="凤凰财经Phoenix Finance Channel" />
+<m type="2" rtmp="rtmp://122.192.35.76:554/live/" src="tv34" label="凤凰资讯江苏联通Phoenix News"/>
+<m type="2" src="http://218.202.219.67/channels/xjyx/CCTV13-Suma/flv:300k_flv" label="央视新闻频道cctv13 news channel"/>
+<m type="2" label="江苏卫视HD jiangsu satellite channel--HD TEST " src="http://v.ml.streamocean.com/live/JSTV?fmt=x264_0K_flv&cpid=9a3fb71ecde6429da9eb71b28c028272&sora=1&size=720X576&sk=8419002C0C965E8942FF4A90661EF7CB" />
+<m type="2" src="http://live-cdn1.smgbb.tv/channels/bbtv/dfws/flv:sd/live" label="东方卫视Dragon Satellite TV" />
+<m  type="2" src="tv17" rtmp="rtmp://202.102.79.114:554/live/" label="银晨电影Silver Morning Movie Channel"/>
+<m  type="2"  src="cctv6" rtmp="rtmp://live.m1905.com/m1905/" label="电影频道CCTV-6-Movie channels" />
+<m type="2" src="http://livecdn.ahtv.cn/channels/1501/500.flv/live"  label="安徽卫视Anhui Satellite TV"/>
+</list>

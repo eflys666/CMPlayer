@@ -1,0 +1,32 @@
+<cmp 
+        name = "&#21488;&#28286;&#26494;&#35270;" 
+        link = "QQ:421083044" 
+        link_target= "_blank" 
+        description = ""
+        skins = "skins/fy4hide.swf"
+        plugins="plugins/p.swf,{src:plugins/category.swf,xywh:[5,30,0,0]}"
+        backgrounds = ""
+        models = "plugins/merge.swf"
+        lists = "cr.xml"
+        
+  
+        click_play="1"
+        src_handler = "1" 
+        lrc_handler = "1"
+        share_cmp = "0"
+        context_menu = "false"
+        buffer_next = "1"
+        skin_id = "1"
+        play_id = "1"
+        auto_play = "1"
+        
+        list_delete = ""
+       default_skin = "0"
+       sound_sample = "true"
+       mixer_displace = "true"
+       mixer_filter = "true"
+       video_image=""
+       counter = ""
+
+       category_config ="%3Ccategory%20width%3D%2270%22%20row_height%3D%2220%22%20align%3D%22left%22%20color%3D%22%23ffffff%2C%2300ff00%22%20size%3D%2213%22%20font%3D%22Verdana%22%20bold%3D%221%2C1%22%20leftMargin%3D%223%22%20rightMargin%3D%223%22%20shadow%3D%221%2C90%2C%23000000%2C1%2C2%2C2%2C1%2C1%22%3E%0D%0A%20%20%3Citem%20label%3D%22%E5%8D%88%E5%A4%9C%E7%94%B5%E8%A7%86%22%20lists%3D%22cr.xml%22%20skin_id%3D%221%22%20%2F%3E%0D%0A%20%20%3Citem%20label%3D%22%E4%B8%AD%E6%96%87%E6%98%BE%E7%A4%BA%22%20lists%3D%22zw.xml%22%20skin_id%3D%221%22%20%2F%3E%0D%0A%20%20%3Citem%20label%3D%22%E8%BF%91%E6%9C%9F%E6%9B%B4%E6%96%B0%22%20lists%3D%22gx.xml%22%20skin_id%3D%221%22%20%2F%3E%0D%0A%20%20%3Citem%20label%3D%22%E5%A4%96%E5%9B%BD%E6%94%B6%E9%9B%86%22%20lists%3D%22wg.xml%22%20skin_id%3D%221%22%20%2F%3E%0D%0A%20%20%3C%2Fcategory%3E"
+/>

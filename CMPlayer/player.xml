@@ -1,0 +1,61 @@
+﻿
+<cmp 
+	name = "神鹰视频" 
+	link = "http://eflys.sinaapp.com" 
+	description = "神鹰视频"
+
+	
+	skins = "skins/s/Jun.La,skins/s/Jun2.La,"
+	plugins = "plugins/announce.swf,
+                   plugins/proxy.swf,
+                   plugins/youku.swf,
+                   plugins/qiyi.swf,
+                   plugins/tudou.swf,
+                   plugins/ads.swf"
+
+	backgrounds = ""
+	
+	src_handler = "" 
+	lrc_handler = ""
+
+	skinid = "2"
+
+	el="tv1.xml"
+
+	auto_open="1"
+	play_id = "1"
+	auto_play = "1"
+	list_delete = ""
+	td = "http://xiaojuntv.sinaapp.com/td.php?link="
+        u="http://tvbar.uusee.com/uusee/2011/uuseeplayer.swf?skin=skins/liveplayer.swf&autostart=true&type=uuseelive&plugins=plugins/showtime.swf&ver=3.8&pf=&controlbar=hide&Guid={" 
+        ue="-0000-0000-FFFF-FFFFFFFFFF14}" 
+        ls="http://app.client.letv.com/live/player/LivePlayer.swf?mute=false&autoplay=true&cid=test&ref=http://live.letv.com/&url=http://cachevimg1dl.letv.com/&md5="
+        cu="http://media-live-cdn.cutv.com/channels/cutv/" 
+        cf="/flv:sd/live"
+        cu4="http://media-live-04.cutv.com/channels/cutv/"
+        fh="http://v.ifeng.com/include/ifengLivePlayer_v1.38.6.swf?ChannelID="
+        yg="cmp/dli/tvjmyg/index.asp?"
+	hc="http://hc.yinyuetai.com/uploads/videos/common/"
+	hd="http://hdflv.yinyuetai.com/uploads/videos/common/"
+	yflv="http://flv.yinyuetai.com/uploads/videos/common/"
+	hcflv="http://hcflv.yinyuetai.com/uploads/videos/common/"
+	hdflv="http://hd.yinyuetai.com/uploads/videos/common/"
+	tv189 = "http://vslb.tv189.cn/2011"
+	xym = "rtmp://v-mp4.xiaoyinmu.com/pub"
+	xym2 = "rtmpt://v-flv.xiaoyinmu.com/pub"
+	eye = "http://eyes0595.sinaapp.com/"
+	php = "http://maozai.sinaapp.com/tv/movie/php"
+	letv = "http://letv.vsdn.soooner.com/"
+	pptv = "http://pptv.vod.lxdns.com/"
+	9kurl="http://djwma.9ku.com"
+	dl = "https://dl.dropbox.com/u/6158120/"
+	3mp3 = "http://www.3mp3.tk/uploads/4/7/3/4/4734813/custom_themes/707671867131557908/files/"
+	bank = "http://maozai.sinaapp.com/tv/movie/php/dbank.php/"
+	dj = "http://dj53.111ttt.com/"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = "http://img.users.51.la/6807647.asp"
+/>

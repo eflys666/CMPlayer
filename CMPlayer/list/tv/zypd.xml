@@ -1,0 +1,43 @@
+<list>
+<m type="2" src="http://116.213.146.71:554/5" label="CCTV-1综合频道"/>
+    <m type="2" src="http://116.213.146.71:554/6" label="CCTV-2财政频道"/>
+    <m type="2" src="http://116.213.146.71:554/2" label="CCTV-3综艺频道"/>
+    <m type="2" src="http://116.213.146.71:554/9" label="CCTV-4中文国际"/>
+    <m type="2" src="http://116.213.146.71:554/7" label="CCTV-5体育频道"/>
+    <m type="2" src="http://116.213.146.71:554/28" label="CCTV6-电影频道"/>
+    <m type="2" src="http://116.213.146.71:554/20" label="CCTV8-电视剧"/>
+    <m type="2" src="http://116.213.146.71:554/37" label="CCTV9-中央记录"/>
+    <m type="2" src="http://116.213.146.71:554/39" label="CCTV12社会与法"/>
+    <m type="2" src="http://116.213.146.71:554/10" label="CCTV-13新闻频道"/>
+    <m type="2" src="http://116.213.146.71:554/8" label="CCTV-15音乐频道"/>
+    <m type="2" src="http://116.213.146.71:554/42" label="CCTV-新科动漫"/>
+    <m type="2" src="http://116.213.146.71:554/17" label="CCTV-发现之旅"/>
+    <m type="2" src="http://116.213.146.71:554/24" label="CCTV-第一剧场"/>
+    <m type="2" src="http://116.213.146.71:554/25" label="CCTV-央视精品"/>
+    <m type="2" src="http://116.213.146.71:554/26" label="CCTV-怀旧剧场"/>
+    <m type="2" src="http://116.213.146.71:554/27" label="CCTV-风云足球"/>
+    <m type="2" src="http://116.213.146.71:554/29" label="CCTV-风云音乐"/>
+    <m type="2" src="http://116.213.146.71:554/30" label="CCTV-风云剧场"/>
+    <m type="2" src="http://116.213.146.71:554/31" label="CCTV-世界地理"/>
+    <m type="2" src="http://116.213.146.71:554/16" label="CCTV-女性时尚"/>
+    <m type="2" src="http://116.213.146.71:554/104" label="高清体育"/>
+    <m type="2" src="http://gdt.streamocean.com/live/iTV-katong-gdt-flv?fmt=x264_0K_flv" label="中国教育频道"/>
+    <m type="2" src="live1" rtmp="rtmp://live.cctvfinance.com/cctvcj/" label="CCTV证券资讯"/>
+    <m type="2" src="http://218.30.50.24/live/7d510b78a049452383cde1ef73e44824.ts?fmt=x264_800k_flv" label="CCTV-发现之旅"/>
+    <m type="2" src="http://218.30.50.24/live/c70311e69bb44250915d5335865ad907.ts?fmt=x264_800k_flv" label="财富天下"/>
+    <m type="2" src="http://218.30.50.24/live/31463bbac711456496a218be30807219.ts?fmt=x264_800k_flv" label="收藏天下"/>
+    <m type="2" src="http://218.30.50.24/live/97a6bbbbc5d841de950b8f915c107884.ts?fmt=x264_800k_flv" label="CCTV－NEWS"/>
+    <m type="2" src="cetv1" rtmp="rtmp://pub1.guoshi.com/live/" label="中国教育一台"/>
+    <m type="2" src="cetv3" rtmp="rtmp://pub1.guoshi.com/live/" label="中国教育三台"/>
+    <m type="2" src="kk" rtmp="rtmp://live.guoshi.com/live/" label="空中课堂"/>
+    <m type="2" src="cetv1" rtmp="rtmp://live.guoshi.com/live" label="中国教育一台(果实)"/>
+    <m type="2" src="cetv3" rtmp="rtmp://live.guoshi.com/live" label="中国教育三台(果实)"/>
+    <m type="2" src="kk" rtmp="rtmp://live.guoshi.com/live" label="空中课堂(果实)"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438377C317C323030307CECE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="发现之旅"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438347C317C323030307CECE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="央视精品"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438397C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="怀旧剧场"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313431317C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="风云剧场"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530357C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="魅力音乐"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313530377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="摄影频道"/>
+    <m type="2" src="http://biz.vsdn.tv380.com/playlive.php?5B63686E5D445830303030303035307C313438377C317C323030307CE74754567C687474705B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00" label="发现之旅"/>
+</list>

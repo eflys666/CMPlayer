@@ -1,0 +1,21 @@
+<list>
+<m src="http://eflyse.duapp.com/code/56dy.php?id=http://www.56.com/u47/v_NzI3NzcwMDQ.html&type=1" label=""/>
+<m src="" stream="true" label="--- 点击 + 号展开列表 ---" color="#FF8C00, #ff0000"/>
+<m label="【 推荐电视剧 】" opened="0" color="#FFFFFF, #ff0000">
+    <m type="" rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd499" label="花花公子成人台" />
+    <m type="" rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd497" label="韩国兔子成人台" />
+    <m type="" rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd501" label="韩国成人1台" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd63" label="韩国成人2台" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd62" label="韩国成人3台" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd59" label="韩国成人4台" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd64" label="韩国成人5台" />
+    <m type="" rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd61" label="韩国成人6台1" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd61" label="韩国成人6台2" />
+    <m type="" rtmp="rtmp://121.78.74.183:1935/ptv/_definst_/" src="phd60" label="韩国成人7台" />
+    <m type="" rtmp="rtmp://lm01.everyon.tv:1935/ptv" src="phd231" label="韩国成人JBS台" />
+    <m type="" rtmp="rtmp://178.33.224.86/iptv_cellcast_24/" src="livestream2" label="欧美无码成人" />
+    <m type="" rtmp="rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/" src="live" label="KISS性感音乐台" /> 
+    <m type="" rtmp="rtmp://lm02.everyon.tv/ptv2/" src="phd13" label="Living TV HD" />
+</m>
+<m list_src="http://92jhs.com/vid/tbyj.php"  label="【 淘宝数字影院 】" opened="0" color="#66ffff, #ff0000" />
+</list>

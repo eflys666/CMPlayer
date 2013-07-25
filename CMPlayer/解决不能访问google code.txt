@@ -1,0 +1,31 @@
+解决不能访问google code
+首先打开cmd，然后输入ping www.google.com.hk
+得到返回的ip地址
+我这里返回的是74.125.71.94
+然后打开本地的host文件
+在目录%WINDIR%system32driversetchosts下
+加入
+74.125.71.94 code.google.com
+其它的可选择加入
+　　74.125.71.94 code.google.com 
+　　74.125.71.94 encrypted.google.com 
+　　74.125.71.94 suggestqueries.google.com 
+　　74.125.71.94 mail.google.com 
+　　74.125.71.94 groups.google.com 
+　　74.125.71.94 groups.google.com.hk 
+　　74.125.71.94 docs.google.com 
+　　74.125.71.94 docs0.google.com 
+　　74.125.71.94 docs1.google.com 
+　　74.125.71.94 spreadsheets.google.com 
+　　74.125.71.94 spreadsheets0.google.com 
+　　74.125.71.94 webcache.googleusercontent.com 
+　　74.125.71.94 sites.google.com 
+　　74.125.71.94 talkgadget.google.com 
+　　74.125.71.94 clients1.google.com 
+　　74.125.71.94 clients2.google.com 
+　　74.125.71.94 clients3.google.com 
+　　74.125.71.94 clients4.google.com
+然后输入
+ipconfig flushdns
+刷新缓存
+重启ie就可以成功访问。

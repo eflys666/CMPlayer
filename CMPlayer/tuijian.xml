@@ -1,0 +1,157 @@
+<list>
+<m src="58427606"  brt="3"  type="tudou" label=""/>
+<m src="" stream="true" label="--- 点击 + 号展开列表 ---" color="#FF8C00, #ff0000"/>
+<m label="【 搞笑视频 】" list_src="list/djmv/6080gx.xml" opened="0" color="#fbf205, #66ffff"/> 
+<m label="【 直播TV 】" list_src="mytv.xml" opened="0" color="#FFFFFF, #ff0000"/>
+<m label="【 优酷土豆测试 】" list_src="test.xml" opened="0" color="#FFFFFF, #ff0000"/>
+<m label="【 推荐小品 】" list_src="list/xiaopin.xml" opened="0" color="#FFFFFF, #ff0000"/>
+<m label="【 推荐电视剧 】" opened="0" color="#FFFFFF, #ff0000">
+   <m label="【 经典武侠 】" opened="0" color="#FFFFFF, #ff0000">
+    <m image="images/1.jpg" list_src="list/dsj/xiaoaojianghu84.xml" label="笑傲江湖 84版(周润发)" />
+    <m image="images/1.jpg" list_src="list/dsj/xiaoaojianghu96.xml" label="笑傲江湖 96版(吕颂贤)" />
+    <m image="images/1.jpg" list_src="list/dsj/xiaoaojianghu2000.xml" label="笑傲江湖 2000新加坡版(马景涛)" />
+    <m image="images/1.jpg" list_src="list/dsj/xiaoaojianghu2013.xml" label="笑傲江湖 2013版(霍建华)" />
+    <m image="images/1.jpg" list_src="list/dsj/shendiaoxialv95.xml" label="神雕侠侣 95版(古天乐)" />
+   </m>
+    <m image="images/1.jpg" list_src="list/dsj/jiachangcai.xml" label="家常菜" />
+    <m image="images/1.jpg" list_src="list/dsj/zhenhuanzhuan.xml" label="甄嬛传" />
+    <m image="images/1.jpg" list_src="list/dsj/nvrenyanse.xml" label="女人的颜色" />
+    <m image="images/1.jpg" list_src="list/dsj/bjqingnian.xml" label="北京青年" />
+    <m image="images/1.jpg" list_src="list/dsj/danandanghun.xml" label="大男当婚" />
+    <m image="images/1.jpg" list_src="list/dsj/wstzb2.xml" label="我是特种兵2" />
+    <m image="images/1.jpg" list_src="list/dsj/minbingge2dan.xml" label="民兵葛二蛋" />
+    <m image="images/1.jpg" list_src="list/dsj/suitangyingxiong.xml" label="隋唐英雄" />
+    <m image="images/1.jpg" list_src="list/dsj/xingyi.xml" label="行医（新加坡）" />
+    <m image="images/newlove.jpg" list_src="list/dsj/newlove.xml" label="新恋爱时代" />
+    <m image="http://res.mfs.ykimg.com/050E00004FBEEEC9979273288E0557B6" list_src="list/dsj/roseci.xml" label="玫瑰刺" />
+    <m image="http://res.mfs.ykimg.com/050E00004FBEEEC9979273288E0557B6" list_src="list/dsj/jingzhongyuefei.xml" label="精忠岳飞" />
+</m>
+<m label="【 推荐电影 】" opened="0" color="#FFFFFF, #ff0000">
+    <m label="【 经典电影 】" list_src="list/dy.xml" opened="0" color="#fbf205, #66ffff"/> 
+    <m label="【 百度mp3 】" list_src="list/music.xml" opened="0" color="#fbf205, #66ffff"/> 
+    <m src="http://g3.letv.com/6/50/48/206558587.0.flv?start={start_bytes}" stream="true" label="老五的奥斯卡" />
+    <m type="qiyi" streamtype="1"  src="http://cache.video.qiyi.com/v/b33ff26088094e3d95da9832e61df9c8/53/2/" label="我愿意（qiyi高清)" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/87c87398c8cd4f28850aedd82b18e044/55/2/" label="蜀山（qiyi高清)" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/f6bbacd9e1fb480aa60551d7570a28d9/47084/2/" label="qiyi叵测"/>
+    <m type="merge" src="http://eflyse.duapp.com/code/souhuhb.php?vid=690748" label="青春期3（sohu高清）" /> 
+    <m type="sohu" src="779898" label="souhu测试（sohu高清）" /> 
+    <m src="http://f0.r.56.com/f0.c57.56.com/flvdownload/10/28/zhajm_129000472586hd.flv?start={start_bytes}" stream="true" label="【 憨豆先生 】" /> 
+    <m list_src="http://eflyse.duapp.com/code/m1905.php?id=http://www.m1905.com/vod/play/520724.shtml" label="m1905" opened="1" /> 
+
+    <m list_src="http://eflyse.duapp.com/code/56dy.php?id=http://www.56.com/u72/v_NTY2MjAxNDE.html&type=1" label="56dy" opened="1" /> 
+    <m type="2"  src="http://eflyse.duapp.com/code/bdwp_tuifei.php?shareid=648604555&uk=3221744556" label="十二生肖rmvb" />
+    <m type="1"  src="http://eflyse.duapp.com/code/bdwp_tuifei.php?shareid=151077&uk=202184650" label="百度网盘测试mp3" />
+    <m type="2"  src="http://eflyse.duapp.com/code/bdwp_tuifei.php?shareid=151595&uk=202184650" label="百度网盘测试mp4" />
+    <m type="2"  src="http://eflyse.duapp.com/code/bdwp_tuifei.php?shareid=151611&uk=202184650" label="百度网盘[alizee]moofeel.com_Alizee_-_La_Isla_Bonita" />
+    <m type="2"  src="http://eflyse.duapp.com/code/bdwp_tuifei.php?shareid=3132211818&uk=202184650" label="百度网盘Avril_Lavigne_-_What_The_Hell_Live_720p" />
+    <m src="58427606"  brt="4"  type="tudou"  label="土豆测试" />
+    <m type="1" src="http://udisk.czkdw.com/myfile/asp/song.swf" label="How you make me fell" />
+ 
+    <m src="http://ln20.com/qchem/.flv" label="青春荷尔蒙 " />
+    <m type="2" src="http://yye8.com/x/bd5.php/id/373356/uk/1042377284" label="古惑仔：江湖新秩序" />
+    <m src="http://yye8.com/x/bd5.php/id/341020/uk/3692881668" label="叶问之终极一战" />
+    <m src="http://ln20.com/pk/.flv" label="帕克" />
+    <m src="http://ln20.com/xmrzstla/.flv" label="熊猫人之神探李奥" />
+    <m type="2" src="http://g3.letv.com/26/20/11/letv-uts/2106071-AVC-254711-AAC-31586-6222160-232385420-cf2be4c8aa0f473764b6ee31b4fc2723-1363932085787.flv?start={start_bytes}" label="犀利人妻" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/2081af9152e747d594cadda9a45136cf" label="三人关系" />
+    <m type="sohu"  streamtype="flv" src="1023680" label="希区柯克" />
+    <m type="2" src="http://g3.letv.com/29/51/17/letv-uts/2283182-AVC-536471-AAC-45568-5339880-403292065-4e660afeaaeb4f77ff08a962f7f1d17f-1364220127382.flv?start={start_bytes}" label="喜剧王" />
+    <m type="2" src="http://g3.letv.com/11/13/35/letv-uts/1335600799-AVC-711443-AAC-52098-5938056-586415010-818321cad5c267f3237953d568faf409-1335600799.flv?start={start_bytes}" label="D4救援队" />
+    <m src="http://ln20.com/yyz/.flv" label="越狱者" />
+    <m src="http://ln20.com/bjjdgdy/.flv" label="被解救的歌迪亚" />
+    <m src="http://ln20.com/bdhfb/.flv" label="冰岛黑风暴" />
+    <m src="http://ln20.com/ymx/.flv"  label="夜魔侠" />
+    <m src="http://ln20.com/ssjs2/.flv"  label="生死竞速2" />
+    <m src="http://ln20.com/zsl/.flv"  label="止杀令" />
+    <m src="http://ln20.com/lzmy/.flv"  label="狼族盟约" />
+    <m src="http://ln20.com/yyss/.flv"  label="银翼杀手" />
+	
+</m>
+<m label="【 推荐综艺 】" opened="0" color="#FFFFFF, #ff0000">
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/f3f9fed58aca4ffc8a8624281a04742c/50098/2/" label="安徽卫视亚洲偶像盛典"/>
+    <m type ="2"   src="http://182.140.147.13/flv.vodfile.m1905.com/movie/1302/130226E25A79EB2B44F399.flv?start={start_seconds}" stream="true" label="第85届奥斯卡颁奖典礼"/>
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/514ac1debc4f44f19bc0fb537fcc3f66/48796/2/" label="中国好声音第1场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/3fc5cf2cbbe84906983c0ceba978ac6d/48796/2/" label="中国好声音第2场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/69f2af1ec923444f9b79e540947acce1/48796/2/" label="中国好声音第3场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/dc1847f6b16f4e9585fa3f0f32bb87c1/48796/2/" label="中国好声音第4场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/08dc0c021d03421981dc2b57f539e4b1/48796/2/" label="中国好声音第5场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/63b43a206ae44373a492d16d5bb9ba71/48796/2/" label="中国好声音第6场 完整版" />
+    <m type="qiyi" src="http://cache.video.qiyi.com/v/454135687e4046918c24e24f3a951304/48796/2/" label="中国好声音第7场 完整版" />
+</m>
+<m label="【 推荐演讲 】" opened="0" color="#FFFFFF, #ff0000">
+    <m type="tudou" src="XNTI2MjkwMDUy" label="滑轮 （初中优质）" />
+    <m type="tudou" src="XNTE0MTY1Mjg0" label="教师招聘语文数学英语历史生物教育基础知识面试说课" />
+    <m type="tudou" src="XNDI1MjQ0Njg4" label="功率——第二届全国中学物理" />
+    <m type="tudou" src="XNDI1MjQ0NTgw" label="功1——第二届全国中学物理" />
+    <m type="tudou" src="XNDU5NDkwODMy" label="功2——第二届全国中学物理" />
+    <m type="tudou" src="XMzQ0MzA1NjM2" label="生活中的透镜1——第二届全国中学物理" />
+    <m type="tudou" src="XMzQ0MzA1Njk2" label="生活中的透镜2——第二届全国中学物理" />
+
+    <m type="tuifei" tuifei_hd="2"  src="951839.sohu" label="颓废测试" />
+    <m type="youku" youku_hd="2"  src="XNTQ3NDk1MDk2" label="优酷超清测试" />
+    <m type="youku" streamtype="flv" youku_hd="2" src="XODAyODQ5NDQ" label="中国文化与中国人 易中天" />
+    <m type="youku" streamtype="flv" src="XNDc3Nzg3ODA4" label="DJ舞曲 - 元芳你怎么看" />
+    <m src="http://video-js.zencoder.com/oceans-clip.mp4" label="鱼" />
+    <m src="http://119.84.116.12/fcs89.56.com/flvdownload/7/11/134640799393hd.flv?start={start_bytes}" stream="true" label="校长"/>
+</m>
+<m label="【 教学专辑  】" opened="0" color="#FFFFFF, #ff0000">
+<m label="【 第二届全国中学物理名师教学大赛（初中部分） 】" list_src="edu/wulidasai2.xml" opened="0" color="#FFFFFF, #ff0000"/>
+</m>
+<m label="【 影视采集 】" opened="0" color="#FF8C00, #ff0000">
+    <m list_src="http://eflyse.duapp.com/code/souhu.php"  label="搜狐VIP影视" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/kuailedabenyingqiyi.php"  label="快乐大本营qiyi" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youku_dyph.php"  label="优酷电影排行" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youkudy.php"  label="优酷电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youkugx.php?id=1"  label="优酷搞笑单页" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youku_dsjph.php"  label="优酷电视剧排行" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youkudsj.php"  label="优酷电视剧" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/ppsdy.php?id=1"  label="pps电影单页" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/ifengvip.php"  label="凤凰VIP" opened="1" />
+    <m list_src="http://wpv.6te.net/code/ifengjs.php"  label="凤凰军事" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qiyi_all.php"  label="qiyi整站" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/m1905_all.php"  label="M1905整站" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qiyi_dianying.php"  label="qiyi电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qiyi_dianshiju.php"  label="qiyi电视剧" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/yinyuetai.php"  label="音乐台" opened="1" />
+    <m list_src="http://wpv.6te.net/code/sohulive.php"  label="搜狐直播" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/mangguolive.php"  label="芒果直播" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qqlive.php"  label="QQlive直播" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/cdtv.php"  label="直播成都" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/kuwo.php"  label="酷我音乐" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/cntvb.php"  label="CNTV回放直播" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qiyi_weidy.php"  label="奇异微电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/baijiajiangtan.php"  label="《百家讲坛》-CCTV10" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/youku_zy.php"  label="优酷综艺" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/cntv_zb.php"  label="CNTV直播可回拨" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/sougo_ph.php"  label="搜狗排行" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/txmv.php"  label="腾讯MV" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/tianyi_sohudan.php"  label="天翼搜狐院线单720P" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/tianyi_sohuduo.php"  label="天翼搜狐院线多地址版" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/tianyi_ifengvip.php"  label="天翼凤凰VIP 450P" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/tx.php"  label="腾讯电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/qqzy.php"  label="腾讯综艺" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/360dy.php"  label="360电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/huashudy.php"  label="华数电影" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/163jlp.php"  label="网易纪录片" opened="1" />
+    <m list_src="http://eflyse.duapp.com/code/letv.php"  label="乐视" opened="1" />
+    <m label="【 直播秀 】" opened="0" color="#66ffff, #ff0000">
+       <m list_src="http://eflyse.duapp.com/code/zbx/feihuoshow.php"  label="飞火秀" opened="1" />
+       <m list_src="http://eflyse.duapp.com/code/zbx/jidongshow.php"  label="激动秀" opened="1" />
+       <m list_src="http://eflyse.duapp.com/code/zbx/souhushow.php"  label="搜狐秀" opened="1" />
+    </m>
+    <m label="【 淘宝数字电影城 】" opened="0" color="#66ffff, #ff0000">
+       <m list_src="http://eflyse.duapp.com/code/taobao_film.php"  label="淘宝数字电影" opened="1" />
+       <m list_src="http://eflyse.duapp.com/code/taobao_dsj.php"  label="淘宝电视剧" opened="1" />
+       <m list_src="http://eflyse.duapp.com/code/taobao_yj.php"  label="淘宝瑜伽" opened="1" />
+    </m>
+</m>
+<m label="【 经典MV 】" opened="0" color="#fbf205, #ff0000"> 
+   <m label="【 英皇DJ美女MV 】" list_src="list/djmv/girldj.xml" opened="0" color="#fbf205, #66ffff"/> 
+   <m label="【 6080DJ美女MV 】" list_src="list/djmv/6080girl.xml" opened="0" color="#fbf205, #66ffff"/> 
+   <m type="sohu"  streamtype="flv" src="http://my.tv.sohu.com/videinfo.jhtml?m=viewnew&vid=34029724" label="元芳你怎么看" color="#ff0000, #00ff00"/>
+   <m type="youku" streamtype="flv" src="XNDM0MTY1MDA0" label="杨坤PK王麟思密达"color="#ff0000, #00ff00"/>
+   <m type="youku" streamtype="mp4" src="XNDcxODYwMDY4" label="要抱抱菊花版[神曲]"color="#ff0000, #00ff00"/>
+   <m src="http://flv3.people.com.cn/VBlog/2012-7-29/1D27A535243B4c2e92D362934236DA97.flv?start={start_bytes}" stream="true" label="韩国美女主播"color="#ff0000, #00ff00"/>
+   <m type="youku" streamtype="flv" src="XNDk0NTY5MzYw" label="超可爱的女主播"color="#ff0000, #00ff00"/>
+</m>
+</list>

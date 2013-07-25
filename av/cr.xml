@@ -1,0 +1,50 @@
+<!-- http://users9.nofeehost.com/panan8448/av/zw.xml-->
+<list>
+<m src="tv1.stream" rtmp="rtmp://59.124.220.46:554/live/" label="台湾松视成人一台" /> 
+<m src="tv2.stream" rtmp="rtmp://59.124.220.46:554/live/" label="台湾松视成人二台" /> 
+<m src="tv3.stream" rtmp="rtmp://59.124.220.46:554/live/" label="台湾松视成人三台" /> 
+<m src="tv4.stream" rtmp="rtmp://59.124.220.46:554/live/" label="台湾松视成人四台" /> 
+<m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd499" label="韩国成人台01频道" /> 
+ <m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd497" label="韩国成人台02频道" /> 
+ <m rtmp="rtmp://lm01.everyon.tv:1935/ptv/_definst_/" src="phd501" label="韩国成人台03频道" /> 
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd59" label="韩国成人台04频道" /> 
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd60" label="韩国成人台05频道" /> 
+ <m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd61" label="韩国成人台06频道" /> 
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd62" label="韩国成人台07频道" /> 
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd63" label="韩国成人台08频道" /> 
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd64" label="韩国成人台09频道" /> 
+ <m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd375" label="韩国成人台10频道" />
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd765" label="韩国成人台11频道" /> 
+ <m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd771" label="韩国成人台12频道" /> 
+ <m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd769" label="韩国成人台13频道" /> 
+ <m rtmp="rtmp://lm01.everyon.tv:1935/ptv/_definst_/" src="phd772" label="韩国成人台14频道" />
+ <m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd766" label="韩国成人台15频道" /> 
+<m rtmp="rtmp://lm01.everyon.tv:1935/ptv/_definst_/" src="phd818" label="韩国成人台16频道" />
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/_definst_/" src="phd511" label="韩国成人台17频道" />
+<m rtmp="rtmp://lm01.everyon.tv:1935/ptv/_definst_/" src="phd767" label="韩国成人台18频道" />
+<m rtmp="rtmp://lm01.everyon.tv:1935/ptv/_definst_/" src="phd513" label="韩国成人台19频道" />
+<m rtmp="rtmp://lm03.everyon.tv:1935/ptv3/_definst_/" src="phd505" label="韩国成人台20频道" />
+<m src="198.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道01" /> 
+ <m src="73.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道02" /> 
+ <m src="73.low.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道03" />
+ <m src="246.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道04" /> 
+ <m src="246.low.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道05" /> 
+ <m src="244.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道06" /> 
+  <m src="247.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道07" /> 
+  <m src="247.low.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道08" /> 
+  <m src="245.high.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道09" /> 
+  <m src="245.low.stream" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" label="菲尔蒙成人频道10" /> 
+ <m src="244.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道11" />
+ <m src="244.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道12" /> 
+ <m src="198.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道13" />
+ <m src="198.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道14" /> 
+ <m src="107.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道15" />
+ <m src="107.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道16" /> 
+ <m src="77.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道17" />
+ <m src="77.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道18" /> 
+ <m src="73.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道19" />
+ <m src="73.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道20" /> 
+ <m src="250.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道21" />
+ <m src="250.low.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道22" />
+ <m src="249.high.stream" rtmp="rtmp://mi5.gv.filmon.com:1935/live/" label="菲尔蒙成人频道23" />
+</list>

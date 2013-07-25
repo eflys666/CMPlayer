@@ -1,0 +1,805 @@
+<list>
+<m list_src="list/zj/clhj.xml" label="成龙"  />
+<m list_src="list/zj/ldhzj.xml" label="刘德华"  />
+<m list_src="list/zj/lljzj.xml" label="李连杰"  />
+<m list_src="list/zj/zxczj.xml" label="周星驰"  />
+<m list_src="list/zj/zzdzj.xml" label="甄子丹"  />
+<m list_src="list/zj/lzyzj.xml" label="林正英"  />
+<m list_src="list/zj/wjzj.xml" label="吴京"  />
+<m list_src="list/zj/ghzxl.xml" label="古惑仔"  />
+<m list_src="list/zj/nglskqhj.xml" label="尼古拉斯"  />
+  <m label="林正英">
+  <m type="youku" streamtype="flv" src="XNjk3NTA3Njg=" label="雌雄僵尸" /> 
+  <m type="youku" streamtype="flv" src="XMjk3MjUxMDA=" label="新僵尸先生 (国语)吴君如" /> 
+  <m type="youku" streamtype="flv" src="XMTQ5Mzg2NzEy" label=" 僵尸家族" /> 
+  <m type="youku" streamtype="flv" src="XMTQ5NjkwNjE2" label=" 新僵尸先生" /> 
+  <m type="youku" streamtype="flv" src="XMTQ5MjU2OTYw" label=" 僵尸先生" /> 
+  <m type="youku" streamtype="flv" src="XMTYxNjQwODQ4" label="美国电影【千年僵尸王】（恐怖片）" /> 
+  <m type="youku" streamtype="flv" src="XMTQ5Mzg5MjEy" label=" 僵尸至尊" /> 
+  <m type="youku" streamtype="flv" src="XMTQ5Njk0MjYw" label=" 僵尸奇兵" /> 
+  <m type="youku" streamtype="flv" src="XNjkzMzg3OTI=" label="美女僵尸A" /> 
+  <m type="youku" streamtype="flv" src="XMzA3Mjc3Mjg=" label="洪金宝咸鱼翻生" /> 
+  <m type="youku" streamtype="flv" src="XMTE0NTY1NjYw" label="时来运转  元彪 洪金宝主演" /> 
+  <m type="youku" streamtype="flv" src="XMjg4MTIxNTI=" label="洪福齐天" /> 
+  <m type="youku" streamtype="flv" src="XODAzODU5MjA=" label="人吓人" /> 
+  <m type="youku" streamtype="flv" src="XNjM4OTQ2ODQ=" label="鬼打鬼" /> 
+  <m type="youku" streamtype="flv" src="XOTMxNDQzMjA=" label=" 密宗威龙" /> 
+  <m type="youku" streamtype="flv" src="XOTMwOTI0NjA=" label="鬼咬鬼" /> 
+  <m type="youku" streamtype="flv" src="XOTY2ODY4MDA=" label="鬼打鬼" /> 
+  <m type="youku" streamtype="flv" src="XMTQxMDg0NTIw" label=" 僵尸至尊" /> 
+  <m type="youku" streamtype="flv" src="XMTQzNjkyMzI4" label=" 鬼咬鬼" /> 
+  <m type="youku" streamtype="flv" src="XMTQzMTgyODcy" label="  驱魔道长" /> 
+  <m type="youku" streamtype="flv" src="XMTQzMjQ2NzQw" label="鬼打鬼之黄金道士" /> 
+  <m type="youku" streamtype="flv" src="XMTQzMTcxMTQw" label="  鬼打鬼之黄金道士 " /> 
+  <m type="youku" streamtype="flv" src="XMTM5MjI2NTQ0" label="鬼打鬼之黄金道士DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTMyODA5OTA4" label="驱魔道长-国语" /> 
+  <m type="youku" streamtype="flv" src="XMjk3MjY2NzY=" label="驱魔道长DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTM4NTE0MzI4" label="【battery10】血衣招魂 驱魔道长 " /> 
+  <m type="youku" streamtype="flv" src="XMTQ1MDc2MDY0" label=" 僵尸家族" /> 
+  <m type="youku" streamtype="flv" src="XMTY2MDk4OTE2" label="僵尸至尊" /> 
+  <m type="youku" streamtype="flv" src="XMTY1ODQ1MDI4" label="鬼打鬼之黄金道士" /> 
+  <m type="youku" streamtype="flv" src="XMzcxMTM5MzI=" label="僵尸先生 " /> 
+  <m type="youku" streamtype="flv" src="XMTY3MDk5MDMy" label="鬼干部全集" /> 
+  <m type="youku" streamtype="flv" src="XMTkzNDk1MDY0" label="-僵尸先生[" /> 
+  <m type="youku" streamtype="flv" src="XMTY2MTI3OTMy" label=" 驱魔警察" /> 
+  <m type="youku" streamtype="flv" src="XMjAwODE1MjM2" label="僵尸叔叔 国语版" /> 
+  <m type="youku" streamtype="flv" src="XODAzMzY5MTI=" label="【人吓人】全集 国语DVD版  洪金宝经典僵尸恐怖片" /> 
+  <m type="youku" streamtype="flv" src="XMTk3MzQ5ODg4" label=" 洪金宝经典恐怖鬼片电影【 鬼打鬼】【国语版】" /> 
+  <m type="youku" streamtype="flv" src="XMTAxNDg2Mzcy" label="【Lei影视】电影全集【人吓鬼】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTY2NjQxMTg4" label="电影全集【僵尸翻生】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjA0MTk0NjMy" label="【涛涛】 电影全集【血衣招魂】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTkxMTE3Mjg=" label="一眉道人国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzQ3NTEyNjg=" label="僵尸叔叔" /> 
+  <m type="youku" streamtype="flv" src="XMTk4MjE0OTI4" label="【洪福齐天】洪金宝.利智." /> 
+  <m type="youku" streamtype="flv" src="XNzY2NzAzMjA=" label="鬼赌鬼之洪福齐天" /> 
+  <m type="youku" streamtype="flv" src="XMTk0MjM3OTY4" label="鬼片系列【捉鬼合家欢】" /> 
+  <m type="youku" streamtype="flv" src="XMzY0ODkyNDQ=" label="水妖斗火圣" /> 
+  <m type="youku" streamtype="flv" src="XMzEwNTY5MDQ=" label="鬼咬鬼(国语)DVD  经典僵尸妖鬼片" /> 
+  <m type="youku" streamtype="flv" src="XMzEwNTY1MjQ=" label="人吓人(国语)DVD  经典僵尸妖鬼片" /> 
+  <m type="youku" streamtype="flv" src="XMzEwNTU3NDg=" label="密宗威龙(国语)DVD  经典僵尸妖鬼片" /> 
+  <m type="youku" streamtype="flv" src="XOTkwMzA1NzI=" label="捉鬼系列驱魔警察又名：水妖斗火圣（国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTY3MDk4MDky" label="电影全集--猛鬼差馆" /> 
+  <m type="youku" streamtype="flv" src="XMTczOTQ1Mjky" label="羞羞鬼【国语版】" /> 
+  <m type="youku" streamtype="flv" src="XNjQ0MTIyOTI=" label="恐怖鬼片 一世好命 【吴君如 电影系列】" /> 
+  <m type="youku" streamtype="flv" src="XNjc1NzM3Mjg=" label="恐怖鬼片 鬼咬鬼【洪金宝  电影系列】" /> 
+  <m type="youku" streamtype="flv" src="XNjg3NDAwNzY=" label="恐怖鬼片 灵幻先生【洪金宝  电影系列】" /> 
+  <m type="youku" streamtype="flv" src="XNjAzMDMxMTY=" label="恐怖鬼片 一眉道人【 电影系列】" /> 
+  <m type="youku" streamtype="flv" src="XMjMwNjgzNzY=" label="僵尸系列【僵尸先生】国语" /> 
+  <m type="youku" streamtype="flv" src="XMTY3MjUwMjU2" label="僵尸先生Ⅲ灵幻先生.国语中字.1987.rmvb" /> 
+  <m type="youku" streamtype="flv" src="XODA5MDgzMzI=" label="洪金宝经典电影-洪福齐天(国语)" /> 
+  <m type="youku" streamtype="flv" src="XMTA3MDU3NjA0" label=" 东方秃鹰" /> 
+  <m type="youku" streamtype="flv" src="XMjMwNTg3NjQ=" label="【僵尸先生之猛鬼出笼】国语" /> 
+  <m type="youku" streamtype="flv" src="XNTk1MDkwMTY=" label=" 僵尸家族【元彪  电影系列】国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTE1OTA1Nzk2" label="非洲和尚【僵尸鬼片】" /> 
+  <m type="youku" streamtype="flv" src="XMTY3MDg0NjIw" label="僵尸电影全集--清鬼清妖" /> 
+  <m type="youku" streamtype="flv" src="XMzEyMDM3NDg=" label="水妖斗火圣" /> 
+  <m type="youku" streamtype="flv" src="XMjI1MTgzMDQw" label="电影僵尸鬼片系列(灵幻先生)" /> 
+  <m type="youku" streamtype="flv" src="XMjU3NzA4MTI0" label="鬼片系列【捉鬼合家欢】.高清国语" /> 
+  <m type="youku" streamtype="flv" src="XMTY2MTEyNTc2" label="僵尸鬼片系列 僵尸先生" /> 
+  <m type="youku" streamtype="flv" src="XMjYwNTQwMjky" label="僵尸搞笑片【僵尸王者】" /> 
+  <m type="youku" streamtype="flv" src="XMTc4MzMzOTI4" label="鬼片 新僵尸先生" /> 
+  <m type="youku" streamtype="flv" src="XMTAyMzE1MDg4" label="新僵尸先生 全集 " /> 
+  <m type="youku" streamtype="flv" src="XOTgzODA2NjQ=" label="猛鬼差馆--" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNTI2MzY=" label="系列之鬼咬鬼" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDAzNDYw" label="僵尸翻身02" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDAzMjYw" label="非洲和尚02" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDAzMjUy" label="非洲和尚01" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDAzMjk2" label="鬼整人01" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDAzMjg4" label="鬼咬鬼" /> 
+  <m type="youku" streamtype="flv" src="XNTQ4MjE2MjQ=" label="电影一统僵山国语B" /> 
+  <m type="youku" streamtype="flv" src="XNTQ4MjE1NzI=" label="电影一统僵山国语A" /> 
+  <m type="youku" streamtype="flv" src="XMTc3NDA0MTk2" label="天师捉奸" /> 
+  <m type="youku" streamtype="flv" src="XOTcyNDI4ODg=" label="富贵开心鬼 国语高清" /> 
+  <m type="youku" streamtype="flv" src="XOTcyNDI0ODA=" label="魔高一丈 国语高清" /> 
+  <m type="youku" streamtype="flv" src="XOTcyNDU5MTI=" label="摩登天师 国语高清" /> 
+  <m type="youku" streamtype="flv" src="XMTYxMDcwMzgw" label="鬼胎（国语高清）" /> 
+  <m type="youku" streamtype="flv" src="XMTY2NDAyNjM2" label="灵界风云" /> 
+  <m type="youku" streamtype="flv" src="XMTgwNTAxMzA4" label="僵尸先生3.又名 [灵幻先生] " /> 
+  </m>
+  <m label="成龙 电影列表" opened="">
+  <m type="youku" streamtype="flv" src="XMjQ5NjgwODI0" label="新少林寺" /> 
+  <m type="youku" streamtype="flv" src="XMTkxOTk0NDQ0" label="功夫梦 dvd" /> 
+  <m type="youku" streamtype="flv" src="XMjM2MDYwOTAw" label="大兵小将" /> 
+  <m type="youku" streamtype="flv" src="XMTUxMzA1NzA4" label="邻家特工" /> 
+  <m type="youku" streamtype="flv" src="XMjgxMTA1NDA4" label="豆豆、成龙、刘媛媛民生" /> 
+  <m type="youku" streamtype="flv" src="XMjk1OTU3MzU2" label="成龙 《油菜花》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3MTk2NDk2" label="周蕙《自己的电影》" /> 
+  <m type="youku" streamtype="flv" src="XMjA5MjE2MTY4" label="成龙 刘媛媛《国家》" /> 
+  <m type="youku" streamtype="flv" src="XMjg3MDg5MzY4" label="奇幻龙宝 01" /> 
+  <m type="youku" streamtype="flv" src="XMzAyMzE4MTEy" label="功夫熊猫（英语中字）" /> 
+  <m type="youku" streamtype="flv" src="XMjA0NzUxNjI4" label="群星《We Are Ready》" /> 
+  <m type="youku" streamtype="flv" src="XMzAwNzY2NzY0" label="我们这一家" /> 
+  <m type="youku" streamtype="flv" src="XMTM2MjM2Mzcy" label="功夫之王" /> 
+  <m type="youku" streamtype="flv" src="XMjA0NzM0Mzg0" label="谭晶、成龙《中国看见》" /> 
+  <m type="youku" streamtype="flv" src="XMjA0NzM3OTc2" label="群星《北京欢迎你》" /> 
+  <m type="youku" streamtype="flv" src="XMzM0MDg5NzY=" label="[杨晃]成龙蔡妍张娜拉金东万孙浩英最新赈灾单曲 I Love Asia Smile Again MV" /> 
+  <m type="youku" streamtype="flv" src="XMjc5ODMyOTky" label="尖峰时刻3" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk2MTQ4" label="成龙 苏慧伦 《在我生命中的每一天》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjIwNDY4" label="姚忠仁 张震岳 任贤齐 五月天 成龙《Imatk》" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDIyMzI0" label="特务迷城" /> 
+  <m type="youku" streamtype="flv" src="XMTg5Mzc1MDI0" label="特警新人类" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDAyNjAw" label="成龙 梁朝伟 周华健 任贤齐吴彦祖 舒淇 周星驰-玻璃樽" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMDYyMTg0" label="陈淑桦 & 成龙《明明白白我的心》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjA5Nzk2" label="苏慧伦 成龙《爱了就算》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3NDUy" label="成龙《你给我一片天》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3ODk4MDAw" label="成龙《男子汉》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3ODk5Njgw" label="成龙《勇闯前方》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3Nzc2" label="成龙 《怎么会》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3Njg4" label="成龙《再见宁愿在梦中》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3MzEy" label="成龙《冷雨中》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3MjQw" label="成龙《红太阳》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk2NTEy" label="成龙 周华健 黄耀明 李宗盛《真心英雄》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3OTAyMzA4" label="成龙《问心无愧》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3OTA2OTY0" label="成龙《醉拳》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk2MjUy" label="成龙 周华健 李宗盛 黄耀明 Mike Hogan《在晴朗的天空下》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3ODk2Nzc2" label="成龙《向着阳光走》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3MDA4" label="成龙《感受》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk3OTUy" label="成龙《壮志在我胸》" /> 
+  <m type="youku" streamtype="flv" src="XMjMyMjk2NzI0" label="成龙《但愿花常在》" /> 
+  <m type="youku" streamtype="flv" src="XMjk3OTA0MzE2" label="成龙《当我们同在一起》" /> 
+  <m type="youku" streamtype="flv" src="XMzE4MDE2MTI=" label="A计划成龙(国语中字)" /> 
+  <m type="youku" streamtype="flv" src="XMjkyMjI3NDg=" label="成龙--城市猎人" /> 
+  <m type="youku" streamtype="flv" src="XMjkyMjIxNDA=" label="成龙--警察故事" /> 
+  <m type="youku" streamtype="flv" src="XMjkyMjE3NjQ=" label="成龙--奇迹1" /> 
+  <m type="youku" streamtype="flv" src="XMjkyMjI5ODA=" label="成龙--警察故事3超级警察" /> 
+  <m type="youku" streamtype="flv" src="XMzE5OTkwODA=" label="A计划续集成龙(国语中字)" /> 
+  <m type="youku" streamtype="flv" src="XMjEzOTMxOTY=" label="成龙少林门" /> 
+  <m type="youku" streamtype="flv" src="XMjkyMjMxNTI=" label="成龙--红番区" /> 
+  <m type="youku" streamtype="flv" src="XMjU5ODUwMjA=" label="成龙经典《一招半式闯江湖》【国语配音】" /> 
+  <m type="youku" streamtype="flv" src="XMzMwNzYyODA=" label="成龙龙拳" /> 
+  <m type="youku" streamtype="flv" src="XMjk2MDc2MTI=" label="成龙系列 富贵列车" /> 
+  <m type="youku" streamtype="flv" src="XMjQ5MTEyMzI=" label="成龙--飞龙猛将" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MjAzMDQ=" label="成龙电影-蛇形刁手" /> 
+  <m type="youku" streamtype="flv" src="XMzQ0ODcyODA=" label="成龙电影集-少林寺木人巷" /> 
+  <m type="youku" streamtype="flv" src="XMzQ0ODE2MDQ=" label="成龙电影集-[新精武门" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDQ5NDA=" label="成龙电影集-龙的心" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDg2MTY=" label="成龙电影集-霹雳火" /> 
+  <m type="youku" streamtype="flv" src="XMzA3MTgyNTY=" label="成龙经典动作片《重案组》" /> 
+  <m type="youku" streamtype="flv" src="XMjM3MjM0NDg=" label="成龙 - 奇迹(国语)" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDE4NDA=" label="成龙电影集-【师弟出马】" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDY3MDQ=" label="成龙电影集-重案组" /> 
+  <m type="youku" streamtype="flv" src="XMzIxNDYyOTI=" label="望夫成龙" /> 
+  <m type="youku" streamtype="flv" src="XMjkzNjc2MzI=" label="成龙 少林门 【国语配音】" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MTY1MTY=" label="成龙电影-龙拳(神拳)" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDAwMDQ=" label="成龙电影集-1984-快餐车" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDczODQ=" label="成龙电影集-醉拳1" /> 
+  <m type="youku" streamtype="flv" src="XMzQ0ODU4NDA=" label="成龙电影集-李小龙的生与死" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MDM2MjA=" label="成龙电影集-奇谋妙计五福星" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1NjY2MjQ=" label="成龙电影集-奇迹01" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1NjY3MDA=" label="成龙电影集-奇迹02" /> 
+  <m type="youku" streamtype="flv" src="XMzA1NjIxMzY=" label="【成龙专辑】双龙会" /> 
+  <m type="youku" streamtype="flv" src="XMzA0MjI4MTY=" label="【成龙专辑】飞鹰计划" /> 
+  <m type="youku" streamtype="flv" src="XMzA0NDQzNzY=" label="【成龙专辑】醉拳 I" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MTQ4MDg=" label="成龙电影-警察故事III超级警察" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MTYwNzI=" label="成龙电影-蛇鹤八步A" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MTYwMDg=" label="成龙电影-蛇鹤八步B" /> 
+  <m type="youku" streamtype="flv" src="XMzA0Mzk4NDA=" label="【成龙专辑】师弟出马" /> 
+  <m type="youku" streamtype="flv" src="XMjA5MDM5Ng==" label="《飞渡卷云山》A" /> 
+  <m type="youku" streamtype="flv" src="XMjA5MDQwOA==" label="《飞渡卷云山》B" /> 
+  </m>
+  <m label="刘德华电影列表">
+  <m type="youku" streamtype="flv" src="XMjA3MDIzMDcy" label="2007 门徒" /> 
+  <m type="youku" streamtype="flv" src="XMjE2MTExMzc2" label="兄弟之生死同盟" /> 
+  <m type="youku" streamtype="flv" src="XMTQwMTUwNDc2" label="投名状 国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM2MjMwNTM2" label="天下无贼" /> 
+  <m type="youku" streamtype="flv" src="XMjAxMjU4Mzcy" label="烈火战车" /> 
+  <m type="youku" streamtype="flv" src="XMTk3NjE5ODQ4" label="省港旗兵续集兵分两路" /> 
+  <m type="youku" streamtype="flv" src="XMjA2ODU3NDc2" label="刘德华电影全集【魔翡翠】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzU3MzM5Mjg=" label="刘德华电影-停不了的爱" /> 
+  <m type="youku" streamtype="flv" src="XNDMxMjgzNjg=" label="摩登如来神掌--刘德华电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XMTIwMDQ4ODMy" label="刘德华电影《同根生》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTUyNzc5Mjg0" label="彩云曲DVD国语中字刘德华曾志伟吕良伟" /> 
+  <m type="youku" streamtype="flv" src="XNTYxMjU5OTY=" label="刘德华电影全集【毁灭号地车】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNzQ2MTQxMTI=" label="电影【暗战Ⅱ】刘德华郑伊健犯罪片" /> 
+  <m type="youku" streamtype="flv" src="XMjgzOTg2NDA=" label="刘德华经典动作大片【醉拳Ⅲ】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XMTM4NDcyMDA4" label="天子门生[刘德华张耀扬经典黑帮大片]" /> 
+  <m type="youku" streamtype="flv" src="XODc1NDI3NjQ=" label="刘德华经典电影之真假威龙" /> 
+  <m type="youku" streamtype="flv" src="XOTEzMTk5MTY=" label="[影星系列.刘德华]【瘦身男女】 国语版" /> 
+  <m type="youku" streamtype="flv" src="XNzA5ODQ4NzI=" label="【刘德华电影】_投奔怒海" /> 
+  <m type="youku" streamtype="flv" src="XNDMxMjkyNDg=" label="极道追踪--刘德华电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XMTg5Mjc2NzQw" label="香港经典动作电影-龙之家族 刘德华 国语(月影琴桥)" /> 
+  <m type="youku" streamtype="flv" src="XMTE2NTY2OTQw" label="刘德华电影全集【法外情】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTI0NTQwNTI=" label="电影：刘德华系列之《天煞孤胆》" /> 
+  <m type="youku" streamtype="flv" src="XMTU1MTA2NDc2" label="惊天十二小时 国语 (中文字幕） - 刘德华电影 （动作喜剧）" /> 
+  <m type="youku" streamtype="flv" src="XMTYzNTk5NzY=" label="刘德华，邱淑贞，张敏经典电影【五亿探长雷洛传】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XMjAxNjI5ODQw" label="刘德华电影全集【杀手的童话】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjkzNTg2ODA=" label="天若有情1之追梦人--刘德华电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XMTgwMjgyNTAw" label="上海滩十三太保.1981.超级经典电影.有刘德华" /> 
+  <m type="youku" streamtype="flv" src="XMzk0NDA0MDA=" label="刘德华、钟楚红火爆战争经典电影《爱人同志》【粤语中字】DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTIxODg0OTE2" label="电影：【临歧】【粤语中字】 刘德华 周星驰 梁朝伟 影帝" /> 
+  <m type="youku" streamtype="flv" src="XNTc5ODQ3NDQ=" label="江湖情(粤语中字) 刘德华 周润发 万梓良 刘嘉玲 谭咏麟" /> 
+  <m type="youku" streamtype="flv" src="XMzMyODgzNTY=" label="群龙夺宝 刘德华经典夺宝大片" /> 
+  <m type="youku" streamtype="flv" src="XODY4MzU4NTI=" label="刘德华电影全集【神行太保】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTE2MDExOTY=" label="至尊无上 (刘德华.谭咏麟经典动作赌片DVD国语)" /> 
+  <m type="youku" streamtype="flv" src="XMjA1OTE3MjIw" label="香港经典喜剧动作电影-富贵兵团(国语)刘德华 谭咏麟【月影琴桥】" /> 
+  <m type="youku" streamtype="flv" src="XMTA5MDAzNTg4" label="刘德华经典之作《与龙共舞》粤语高清" /> 
+  <m type="youku" streamtype="flv" src="XMzk3NDM3NDA=" label="刘德华、关之琳经典电影《二分之一次同床》【国语】DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTUzNTU2NjQ=" label="刘德华电影 第一茧" /> 
+  <m type="youku" streamtype="flv" src="XNTk5MTM5MzI=" label="热血传奇国语2007年洪金宝 刘德华香港最新经典武侠动作片" /> 
+  <m type="youku" streamtype="flv" src="XMTAxNjcyMDQ0" label="刘德华、张学友、梁家辉、吴君如等众星爆笑喜剧《金鸡2》 DVD 粤语版" /> 
+  <m type="youku" streamtype="flv" src="XNDk3OTE4NzI=" label="《天长地久》刘德华经典感人电影" /> 
+  <m type="youku" streamtype="flv" src="XNzgzNDU4OTI=" label="《义胆雄心》刘德华，万梓良（国语）" /> 
+  <m type="youku" streamtype="flv" src="XNzc0MTgyMDQ=" label="英雄好汉(1987)国语 周润发万梓良刘德华李修贤经典香港黑帮枪战片 中文字幕" /> 
+  <m type="youku" streamtype="flv" src="XMjExMzk2MTE2" label="专钓大鳄粤语字幕-刘德华" /> 
+  <m type="youku" streamtype="flv" src="XOTM4NDc3ODA=" label="刘德华电影全集【轰天龙虎会】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjU1MzMwNjA=" label="【豪门夜宴】DVD高清晰版 主演：王祖贤 张国荣 张学友 刘德华 张曼玉 周星驰 洪金宝" /> 
+  <m type="youku" streamtype="flv" src="XMzQ4MDc4MDA=" label="刘德华电影-再战江湖" /> 
+  <m type="youku" streamtype="flv" src="XMTAxNjcwNDY0" label="刘德华、黄秋生、李嘉欣1997科幻动作电影《天地雄心》 国语版 DVD" /> 
+  <m type="youku" streamtype="flv" src="XMjA0MDg2NzUy" label="【涛涛】刘德华 梅艳芳 郭富城 钟镇涛 叶蕴仪 刘嘉玲 经典动作电影全集【九一神雕侠侣】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNzgyODA0MTI=" label="庙街十二少 (刘德华非常经典动作喜剧片DVD国语)" /> 
+  <m type="youku" streamtype="flv" src="XMjgwNTk2MTI=" label="刘德华电影全集【哗！英雄】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTk3ODI3NjYw" label="《至尊三十六计之偷天换日》粤语--刘德华 梁家辉 钟丽缇 陈百祥" /> 
+  <m type="youku" streamtype="flv" src="XNDIxOTc0Mjg=" label="刘德华电影全集【龙凤斗】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTE4NzI2ODY0" label="刘德华电影《神探父子兵》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTE5OTYxNTA0" label="刘德华电影《战神传说》国语" /> 
+  <m type="youku" streamtype="flv" src="XMjEyNDkzNDc2" label="《整蛊专家 整人专家》周星驰 刘德华经典喜剧" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDE1MTMy" label="刘德华电影《最佳男朋友》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTgzNDg0ODYw" label="刘德华电影《人海孤鸿》" /> 
+  <m type="youku" streamtype="flv" src="XMjE4NjAyODM2" label="香港经典动作喜剧电影-超级学校霸王[国语]张学友 刘德华 郭富城【月影琴桥】" /> 
+  <m type="youku" streamtype="flv" src="XMTk1MjMyMDk2" label="刘德华 林青霞经典电影【绝代双骄】国语版." /> 
+  <m type="youku" streamtype="flv" src="XMTE4MTEwOTg0" label="刘德华电影《龙在江湖》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTEzODU1NDg=" label="赌侠1999(全)(粤语)(刘德华,朱茵,张家辉,李子雄,吴志雄,张锦程,张慧仪)" /> 
+  <m type="youku" streamtype="flv" src="XMjc5MDExODA=" label="刘德华电影全集【龙神太子】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjc3ODEyMTI=" label="刘德华电影全集【猎鹰计划】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTkwMjE2NjQ=" label="全职杀手-全集（ 刘德华 反町隆史 香港杀手动作片）" /> 
+  <m type="youku" streamtype="flv" src="XMzU5NzY1NDg=" label="暗战 刘德华 经典电影 国语" /> 
+  <m type="youku" streamtype="flv" src="XMjE4NTAxOTA4" label="香港经典动作电影-龙腾四海[国语]刘德华 任达华 李丽珍【月影琴桥】" /> 
+  <m type="youku" streamtype="flv" src="XMzk3NDQzNjg=" label="刘德华、李嘉欣经典搞笑喜剧电影《黑马王子》【国语】DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTk4MzI0OTgw" label="旺角卡门 刘德华 张学友" /> 
+  <m type="youku" streamtype="flv" src="XMTg5Mzk2NjI0" label="最佳损友　刘德华" /> 
+  <m type="youku" streamtype="flv" src="XMjMxMDQzNDQ=" label="刘德华电影全集【天子门生】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzU4NTE5OTI=" label="刘德华电影全集【赌王呖咕呖咕新年财】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTgzNDI5MjY0" label="天若有情（刘德华）" /> 
+  <m type="youku" streamtype="flv" src="XMTgzNDIxODQw" label="刘德华电影《阿飞正传》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDIzNjU2" label="《至尊无上2之永霸天下》刘德华 陈法蓉主演" /> 
+  <m type="youku" streamtype="flv" src="XMjA3MDE1NDI0" label="赌圣2街头赌圣 周星驰 甄子丹 刘德华 周润发 邱淑贞 彭丹 吴孟达 林国斌 释小龙" /> 
+  <m type="youku" streamtype="flv" src="XMTgzNDMzMDMy" label="刘德华电影全集【五虎将之决裂】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjkyNTk0MTI=" label="刘德华周星驰张卫健郑少秋吴孟达经典奇幻喜剧片《群星会》DVD国语中字" />
+  </m>
+  <m label="任达华电影列表">
+  <m type="youku" streamtype="flv" src="XOTQ0OTUzMjQ=" label="任达华电影全集【福禄双星】国语版" /> 
+  <m type="youku" streamtype="flv" src="XODMwMzAyMTI=" label="任达华电影全集【龙腾四海】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTAzNjQ3MTY0" label="任达华电影全集【玻璃枪的爱】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNTE2MTgzMTI=" label="任达华电影全集【玫瑰玫瑰我爱你】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzY1ODc4MjQ=" label="任达华电影全集【濠江风云】A" /> 
+  <m type="youku" streamtype="flv" src="XMzY1ODc4NzY=" label="任达华电影全集【濠江风云】B" /> 
+  <m type="youku" streamtype="flv" src="XMzY1ODgwMzI=" label="任达华电影全集【濠江风云】C" /> 
+  <m type="youku" streamtype="flv" src="XMTM3NDY1NjI4" label="任达华电影全集【旺角的天空】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTEzNjAwMzAw" label="任达华电影全集【杀街英雄】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTEzMzgzMjAw" label="任达华电影全集【子弹出租】" /> 
+  <m type="youku" streamtype="flv" src="XMTEzMzU5OTgw" label="任达华电影全集【暴雨骄阳】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNzg2NTQ1MTY=" label="任达华电影全集【喋血街头】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzk4Njk3MzY=" label="任达华电影全集【浪漫杀手自由人】国语版" /> 
+  <m type="youku" streamtype="flv" src="XODA1ODg0Mjg=" label="任达华电影全集【黑豹天下】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDI2NjUzODA=" label="任达华电影全集【我是一个贼】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTAxNzg2NTY=" label="任达华电影全集【东方老虎】A" /> 
+  <m type="youku" streamtype="flv" src="XOTAxODM5ODQ=" label="任达华电影全集【东方老虎】B" /> 
+  <m type="youku" streamtype="flv" src="XNjg3MjAzODg=" label="任达华电影全集【枪火】国语版" /> 
+  <m type="youku" streamtype="flv" src="XODcxMjk1MzY=" label="任达华经典动作片【目中无人】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzg2NDgyODA=" label="任达华电影全集【极度重犯】A" /> 
+  <m type="youku" streamtype="flv" src="XMzg2NTk2MzI=" label="任达华电影全集【极度重犯】B" /> 
+  <m type="youku" streamtype="flv" src="XNDQ4NzcxMDg=" label="任达华电影全集【超霸女郎】A" /> 
+  <m type="youku" streamtype="flv" src="XNDQ4ODExODA=" label="任达华电影全集【超霸女郎】B" /> 
+  <m type="youku" streamtype="flv" src="XOTQ1Nzc1NjA=" label="任达华电影全集【女子监狱】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTE5NjY0MjY4" label="任达华电影全集【千王1991】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNTkzNjY0NTY=" label="任达华电影全集【九纹龙的谎言】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM4MzE4MDIw" label="任达华电影全集 【杀破狼】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM4MzE4MTI0" label="任达华电影全集【天水围的夜与雾】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM5NjMwOTU2" label="任达华电影全集【黑社会】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM5NjMxMDI0" label="任达华电影全集【黑社会2 以和为贵】国语版" />
+  </m>
+  <m label="郭富城电影列表">
+  <m type="youku" streamtype="flv" src="XNjQ3ODY5MTY=" label="香港喜剧鬼片《一咬OK》高清晰珍藏版" /> 
+  <m type="youku" streamtype="flv" src="XNTczNDI0MTY=" label="龙神太子" /> 
+  <m type="youku" streamtype="flv" src="XMTg5MzUyNzI=" label="千面天王A" /> 
+  <m type="youku" streamtype="flv" src="XMTg5MzUyOTY=" label="千面天王B" /> 
+  <m type="youku" streamtype="flv" src="XMTEzOTU2MTY4" label="《西环的故事》郭富城，张敏（国语）" /> 
+  <m type="youku" streamtype="flv" src="XOTE3MDA0NzI=" label="九一神雕侠侣 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTAyNDk4ODEy" label="豪门夜宴[国语]" /> 
+  <m type="youku" streamtype="flv" src="XMTcyMjQ5NDQ=" label="五亿探长雷洛传" /> 
+  <m type="youku" streamtype="flv" src="XMTgxNzE1OTY=" label="表姐，妳玩野（又名：赌后）（国语）" /> 
+  <m type="youku" streamtype="flv" src="XMzM2NzM3Mjg=" label="〖香港经典〗《表姐，妳玩野》(国语)DVD 郭富城等 喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XOTA5NTc1NTI=" label="逃学英雄传国语版（完整），王晶经典搞笑喜剧电影.郭富城、张敏、吴孟达主演" /> 
+  <m type="youku" streamtype="flv" src="XMTE5OTk0NDky" label="机Boy小子之真假威龙【国语】" /> 
+  <m type="youku" streamtype="flv" src="XOTEyOTk5MDg=" label="中国香港电影【机Boy小子之真假威龙】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTAxODMwNDIw" label="伴我纵横 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XMzM1OTA1ODA=" label="[07香港获奖剧情大片]【围♂城】[粤语中字][DVDR][童党少年犯罪片]" /> 
+  <m type="youku" streamtype="flv" src="XNDUyNzE2MDg=" label="危险情人" /> 
+  <m type="youku" streamtype="flv" src="XMzQwNzczMzI=" label="《赤脚小子》国语DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XMTE1ODc4ODI4" label="伦文叙老点柳先开（国语）" /> 
+  <m type="youku" streamtype="flv" src="XNzc1MzkwNTY=" label="天若有情II 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTMwMjM0Nzc2" label="仙乐飘飘" /> 
+  <m type="youku" streamtype="flv" src="XMTAzMDAyMjMy" label="电影《安娜玛德莲娜》（郭富城 金城武 陈慧琳 古巨基）片段" /> 
+  <m type="youku" streamtype="flv" src="XMTU2MTk1NjQ=" label="风云2 01" /> 
+  <m type="youku" streamtype="flv" src="XMTU2MTk1OTI=" label="风云2 02" /> 
+  <m type="youku" streamtype="flv" src="XOTYwNzI1MDQ=" label="小亲亲DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XMTA1NDUzNzcy" label="2009最新大片《杀人犯》 主演：郭富城 张钧宁 张兆辉 钱嘉乐 何超仪" /> 
+  <m type="youku" streamtype="flv" src="XMTQ4NDkyOTQ0" label="白银帝国" /> 
+  <m type="youku" streamtype="flv" src="XMTg5OTA2MTk2" label="郭富城_舞林正传_世界巡回演唱会2009台湾站" />
+  </m>
+   <m label="洪金宝电影列表">
+   <m type="youku" streamtype="flv" src="XNDA4NzQzMjA=" label="洪金宝电影全集【摩登笑探】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjM0NjkyMTI=" label="洪金宝电影全集【赞先生与找钱华】A" /> 
+  <m type="youku" streamtype="flv" src="XMjM0Njg3NzY=" label="洪金宝电影全集【赞先生与找钱华】B" /> 
+  <m type="youku" streamtype="flv" src="XODcwOTQ1OTI=" label="洪金宝电影全集【肥龙过江】" /> 
+  <m type="youku" streamtype="flv" src="XMTA3MTE1NDgw" label="杂家小子" /> 
+  <m type="youku" streamtype="flv" src="XMjkzNjkzNDQ=" label="〖香港经典〗《醒目仔蛊惑招肥龙功夫精》国语DVD中字 洪金宝作品 动作喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XMTA3MzQxMTcy" label="林世荣" /> 
+  <m type="youku" streamtype="flv" src="XMTA3ODg2ODI0" label="鬼打鬼DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XNTU2MTkyNDg=" label="香港经典喜剧片【钱作怪】" /> 
+  <m type="youku" streamtype="flv" src="XNjQ0MjEzODA=" label="咸鱼翻身" /> 
+  <m type="youku" streamtype="flv" src="XOTA2Nzg3MTI=" label="香港喜剧动作 身不由己 主演：洪金宝 梁家仁" /> 
+  <m type="youku" streamtype="flv" src="XNjU2ODAzNDQ=" label="甩牙老虎" /> 
+  <m type="youku" streamtype="flv" src="XNTI1Njg1ODA=" label="追女仔(国语版)" /> 
+  <m type="youku" streamtype="flv" src="XMTA5MDY3NjE2" label="人吓人" /> 
+  <m type="youku" streamtype="flv" src="XMTA4NDM3MDg=" label="奇谋妙计五福星" /> 
+  <m type="youku" streamtype="flv" src="XMjg3MDI2MjA=" label="奇谋妙计五福星" /> 
+  <m type="youku" streamtype="flv" src="XNjA0OTQzNDg=" label="A计划" /> 
+  <m type="youku" streamtype="flv" src="XODEwNjYzNjQ=" label="A计划" /> 
+  <m type="youku" streamtype="flv" src="XMzcxMzQ3NjQ=" label="新蜀山剑侠" /> 
+  <m type="youku" streamtype="flv" src="XODQxODI3MjA=" label="快餐车" /> 
+  <m type="youku" streamtype="flv" src="XMTA1OTQ0MzI0" label="双龙出海" /> 
+  <m type="youku" streamtype="flv" src="XOTA5Mzg1OTY=" label="神勇双响炮" /> 
+  <m type="youku" streamtype="flv" src="XMTk3OTU1NTI=" label="猫头鹰与小飞象" /> 
+  <m type="youku" streamtype="flv" src="XOTMzNjc3NTI=" label="猫头鹰与小飞象" /> 
+  <m type="youku" streamtype="flv" src="XMzQxODE1NDg=" label="皇家师姐" /> 
+  <m type="youku" streamtype="flv" src="XODE4MzEzODg=" label="龙的心" /> 
+  <m type="youku" streamtype="flv" src="XNzUyNzM0ODA=" label="皇家师姐" /> 
+  <m type="youku" streamtype="flv" src="XOTg1NTY5OTY=" label="福星高照" /> 
+  <m type="youku" streamtype="flv" src="XNzkxMTc2OTI=" label="福星高照" /> 
+  <m type="youku" streamtype="flv" src="XNTcxMjEwOTI=" label="最佳福星" /> 
+  <m type="youku" streamtype="flv" src="XMTA5MjMzMzcy" label=" 时来运转 全集（国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTAyNzY5OTY4" label="富贵列车" /> 
+  <m type="youku" streamtype="flv" src="XMTUxNjAxMTY=" label="霹雳大喇叭" /> 
+  <m type="youku" streamtype="flv" src="XNDYxMTE2ODg=" label="霹雳大喇叭DVD" /> 
+  <m type="youku" streamtype="flv" src="XNjU4ODA5NjA=" label="过埠新娘" /> 
+  <m type="youku" streamtype="flv" src="XOTg2MTc0NDA=" label="《标错参》 A面 洪金宝" /> 
+  <m type="youku" streamtype="flv" src="XOTg2MjQ1MzY=" label="《标错参》 B面 洪金宝" /> 
+  <m type="youku" streamtype="flv" src="XNDgxNTYyMjQ=" label="【視頻】港產電影『七小福（1988年）』（洪金寶、、鄭珮珮、李殿馨 主縯；粵語／廣東話；轉載）" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNDY4MjQ=" label="飞龙猛将" /> 
+  <m type="youku" streamtype="flv" src="XNDIwMTk5NzY=" label="画中仙" /> 
+  <m type="youku" streamtype="flv" src="XMjg3MjQ3MDA=" label="群龙戏凤" /> 
+  <m type="youku" streamtype="flv" src="XODM0MzY0MTI=" label="忠义群英" /> 
+  <m type="youku" streamtype="flv" src="XMjEzOTc4NDA=" label="香港洪金宝剧情《八两金》国语DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XNTM0MTYwNzI=" label="【Lei影视】洪金宝电影全集【八两金】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTA1NjE0ODA4" label="富贵兵团" /> 
+  <m type="youku" streamtype="flv" src="XNjA0OTYyODQ=" label="富贵兵团" /> 
+  <m type="youku" streamtype="flv" src="XMjE0NDI0NjA=" label="脂粉双雄（国粤语）" /> 
+  <m type="youku" streamtype="flv" src="XNTI3ODU4Mjg=" label="脂粉双雄" /> 
+  <m type="youku" streamtype="flv" src="XNzYxNjgzNDQ=" label="香港电影 瘦虎肥龙(国语)" /> 
+  <m type="youku" streamtype="flv" src="XMTA1MzA0NzI0" label="皇家女将" /> 
+  <m type="youku" streamtype="flv" src="XNDU2OTM5NjQ=" label="香港电影 一触即发" /> 
+  <m type="youku" streamtype="flv" src="XODE5MzIxNjg=" label="洪金宝 Daddy.Father.Papa.1991.老豆不怕多" /> 
+  <m type="youku" streamtype="flv" src="XMjM2OTUzODA=" label="【Lei影视】洪金宝电影全集【离线枕边人】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTIxOTEzODQ=" label="密宗威龙" /> 
+  <m type="youku" streamtype="flv" src="XOTA1MjY0MjQ=" label="豪门夜宴" /> 
+  <m type="youku" streamtype="flv" src="XMzIwOTg4NDQ=" label="摩登笑探（别名冇面俾） 元彪 洪金宝 童爱玲 金城武 周海媚 柯受良等" /> 
+  <m type="youku" streamtype="flv" src="XOTg1OTIwMDA=" label="霹雳火" /> 
+  <m type="youku" streamtype="flv" src="XNDcyMzcyNzI=" label="四大门派" /> 
+  <m type="youku" streamtype="flv" src="XOTg5NTU1OTI=" label="半斤八两" /> 
+  <m type="youku" streamtype="flv" src="XNDE1NDUyODg=" label="大太监" /> 
+  <m type="youku" streamtype="flv" src="XNjQ0ODExNjA=" label="【邵氏】南少林与北少林" /> 
+  <m type="youku" streamtype="flv" src="XMTc5MDQ0Mjg=" label="少林门" /> 
+  <m type="youku" streamtype="flv" src="XOTcxNDM3NDA=" label="香港经典喜剧片【夺宝计上计】国语版" /> 
+  <m type="youku" streamtype="flv" src="XOTA2ODMwNTY=" label="香港经典喜剧片【两公婆八条心】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTA5NDQxMzg4" label="僵尸先生" /> 
+  <m type="youku" streamtype="flv" src="XMTUxNjM1NzI=" label="生死线" /> 
+  <m type="youku" streamtype="flv" src="XNDM4MTg4NzY=" label="DVD 人吓鬼[国语版] 香港功夫巨星洪金宝档案" /> 
+  <m type="youku" streamtype="flv" src="XOTM1ODE0NTI=" label="老片洪福齐天DVD国语" />
+  </m>
+  <m label="周星驰电影列表">
+    <m type="youku" streamtype="flv" src="XMzQwMjY2NjA=" label="周星驰电影:济公" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMzEzNzI=" label="周星驰电影:无敌幸运星" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMjUxMjg=" label="周星驰电影:新精武门" /> 
+  <m type="youku" streamtype="flv" src="XMzQwOTIzNDg=" label="周星驰电影:小偷阿星" /> 
+  <m type="youku" streamtype="flv" src="XOTI1MTE5Mg==" label="周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XOTI1MTIyMA==" label="周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XMzIwNDU3MzY=" label="周星驰电影:长江七号" /> 
+  <m type="youku" streamtype="flv" src="XMzQwOTI0Mjg=" label="周星驰电影:少林足球" /> 
+  <m type="youku" streamtype="flv" src="XMzQwOTQxOTI=" label="周星驰电影:豪门夜宴" /> 
+  <m type="youku" streamtype="flv" src="XMzQwODYzODQ=" label="周星驰电影:赌霸" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMzAyMTY=" label="周星驰电影:咖喱辣椒" /> 
+  <m type="youku" streamtype="flv" src="XNjE5MzY0NDA=" label="周星驰电影新精武门" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMjQ4NjA=" label="周星驰电影:国产凌凌漆" /> 
+  <m type="youku" streamtype="flv" src="XMTU1NDQ4NDA=" label="周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMjU4MDA=" label="周星驰电影:望夫成龙" /> 
+  <m type="youku" streamtype="flv" src="XMzQwMzEwMzI=" label="周星驰电影:师兄撞鬼" /> 
+  <m type="youku" streamtype="flv" src="XNDA3OTgwOA==" label="周星驰电影串接" /> 
+  <m type="youku" streamtype="flv" src="XNzI2OTY4NTI=" label="周星驰电影国产007" /> 
+  <m type="youku" streamtype="flv" src="XNDMyODQ3MTY=" label="周星驰电影之十大配角" /> 
+  <m type="youku" streamtype="flv" src="XNjk4ODM5NjQ=" label="【周星驰电影】---《情圣》" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODIxNDA=" label="摩登武圣 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNzMwNTA3OTY=" label="周星驰—审死官" /> 
+  <m type="youku" streamtype="flv" src="XNjM5NTUzODQ=" label="情圣.周星驰" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODE3Njg=" label="赌霸 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODI5MzY=" label="最佳女婿 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODI2NjA=" label="小偷阿星 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODI1OTY=" label="无敌幸运星 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODIwMDg=" label="流氓差婆 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODIwNTY=" label="龙凤茶楼 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNDU2MjY0Njg=" label="周星驰电影《漫画威龙》" /> 
+  <m type="youku" streamtype="flv" src="XNTEzMTcyNDQ=" label="师兄撞鬼 周星驰经典电影" /> 
+  <m type="youku" streamtype="flv" src="XNTU4OTA1ODg=" label="周星驰粤语电影-----《破坏之王》" /> 
+  <m type="youku" streamtype="flv" src="XMjc1Mjg5MzI=" label="周星驰电影-龙的传人" /> 
+  <m type="youku" streamtype="flv" src="XNTU4MTkzODg=" label="周星驰粤语电影----《龙的传人》" /> 
+  <m type="youku" streamtype="flv" src="XMTE1OTEyNzY=" label="周星驰电影望夫成龙" /> 
+  <m type="youku" streamtype="flv" src="XMTAzNzgwNjQ=" label="周星驰电影∶刑警本色Ｂ" /> 
+  <m type="youku" streamtype="flv" src="XNDI3Mjk0NTY=" label="【Lei影视】周星驰电影全集【审死官】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDE4MTY1MzY=" label="【Lei影视】周星驰电影全集【龙凤茶楼】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDQ1MjUzNTI=" label="【Lei影视】周星驰电影全集【师兄撞鬼】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMzM5OTQwNjQ=" label="超级 搞笑 恶搞精品集09 周星驰电影串接" /> 
+  <m type="youku" streamtype="flv" src="XNTIwNTQ0MjA=" label="周星驰系列电影非洲和尚" /> 
+  <m type="youku" streamtype="flv" src="XNjUzODIwNzI=" label="龙在天涯 周星驰电影" /> 
+  <m type="youku" streamtype="flv" src="XNTA4OTUyMzY=" label="《摩登武圣》周星驰喜剧电影" /> 
+  <m type="youku" streamtype="flv" src="XNTk2NzI0MjQ=" label="小偷阿星--周星驰好看的电影" /> 
+  <m type="youku" streamtype="flv" src="XMjczNzI5MDg=" label="【周星驰·电影·1988】捕风汉子A" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MjIzNTY=" label="周星驰电影-冤家死对头A" /> 
+  <m type="youku" streamtype="flv" src="XMjc1MjI0MzI=" label="周星驰电影-冤家死对头B" /> 
+  <m type="youku" streamtype="flv" src="XNzE5MDUyNzI=" label="周星驰电影恶搞芙蓉姐姐" /> 
+  </m>
+  <m label="郑伊健电影列表" opened="">
+  <m type="youku" streamtype="flv" src="XOTAwMDQ5ODA=" label="追男仔" /> 
+  <m type="youku" streamtype="flv" src="XMTQxMDk3ODA=" label="神龙赌圣之旗开得胜" /> 
+  <m type="youku" streamtype="flv" src="XMjMwNjcxOTI=" label="男儿当入樽 【国语配音】" /> 
+  <m type="youku" streamtype="flv" src="XNjE0NjEwNzI=" label="人鱼传说" /> 
+  <m type="youku" streamtype="flv" src="XNzQxNDU0MDg=" label="庙街故事" /> 
+  <m type="youku" streamtype="flv" src="XNTY2MjY2ODA=" label="不道德的礼物" /> 
+  <m type="youku" streamtype="flv" src="XMjQwNTI2ODQ=" label="杀手风雷【国语】" /> 
+  <m type="youku" streamtype="flv" src="XMTI2NzQ4NzA4" label="古惑仔之人在江湖" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MDMxMTY0" label="古惑仔2猛龙过江" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MDMxMjIw" label="古惑仔3只手遮天" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MDMxMjky" label="古惑仔4战无不胜" /> 
+  <m type="youku" streamtype="flv" src="XMTI0MzM5OTky" label="古惑仔5龙争虎斗(粤语)DVD" /> 
+  <m type="youku" streamtype="flv" src="XNjgyNjc3ODQ=" label="爱上百分百英雄" /> 
+  <m type="youku" streamtype="flv" src="XNzQ2MjQyMTY=" label="暗战2(郑伊健 国语)" /> 
+  <m type="youku" streamtype="flv" src="XNjM4ODc1MTY=" label="无限复活" /> 
+  <m type="youku" streamtype="flv" src="XNjUwMzM5NTI=" label="六壮士" /> 
+  <m type="youku" streamtype="flv" src="XNzM1ODI1MzY=" label="[港产片]后备甜心(粤语)" /> 
+  <m type="youku" streamtype="flv" src="XNzM1NjUyOTI=" label="天行者" /> 
+  <m type="youku" streamtype="flv" src="XMjA0NjA2OTY=" label="郑伊健上宪哥的节目天天乐翻天【吴宗宪中文网提供】" /> 
+  <m type="youku" streamtype="flv" src="XMTcwNTA4MjA=" label="98年劲歌第三季季选EKIN片段" /> 
+  <m type="youku" streamtype="flv" src="XMTcyMjEyNzY=" label="01年十大劲歌颁奖典礼第二季EKIN片段" /> 
+  <m type="youku" streamtype="flv" src="XOTIxNzg5ODg=" label="郑伊健「初夏之恋」音乐短剧" /> 
+  <m type="youku" streamtype="flv" src="XMTIyMTM2MzQ4" label="疾风——郑伊健（陈小春2003香港红馆演唱会）" /> 
+  <m type="youku" streamtype="flv" src="XNzg0MjQ3ODA=" label="可凡倾听郑伊健" /> 
+  <m type="youku" streamtype="flv" src="XMTEwNzg0MTYw" label="韩语歌R.envy的「Delete」MV（郑伊健出演）" /> 
+  <m type="youku" streamtype="flv" src="XMTEzOTcwMTg0" label="郑伊健携古惑仔唱《友情岁月》." /> 
+  <m type="youku" streamtype="flv" src="XMTEzNzk2NjI0" label="88水灾关爱行动“古惑仔”再聚首采访" /> 
+  <m type="youku" streamtype="flv" src="XMTIyMjAzMzU2" label="新歌——郑伊健（迎国庆60周年综艺晚会" /> 
+  <m type="youku" streamtype="flv" src="XMTIzMjYzODEy" label="新歌——郑伊健（20091003沙田月满乐安居中秋晚会）" /> 
+  <m type="youku" streamtype="flv" src="XMTI0NzM0Mjg4" label="TVB劲歌金曲20091010" /> 
+  <m type="youku" streamtype="flv" src="XMTI2NzU0NzA4" label="郑伊健 2009-10-17“2009澳门小姐”表演嘉宾" /> 
+  <m type="youku" streamtype="flv" src="XMTI4MTgzNjI4" label="友情岁月——郑伊健 陈小春 谢天华 林晓峰 合唱版" /> 
+  <m type="youku" streamtype="flv" src="XMTMwNjk4NDY0" label="郑伊健《新歌》MV完整版" /> 
+  <m type="youku" streamtype="flv" src="XMTQxMTg5NDYw" label="郑秀文演唱会嘉宾（郑伊健 葛民辉）" /> 
+  <m type="youku" streamtype="flv" src="XMTQ2ODMxNzk2" label="郑伊健 - 时日(MV)" /> 
+  <m type="youku" streamtype="flv" src="XMjA3NzA5MjQw" label="199612综艺夜总会 - 郑伊健" /> 
+  <m type="youku" streamtype="flv" src="XMjY5NDQ3NTI4" label="伊面是真朋友！！做人做朋友真的没话说！！" /> 
+  <m type="youku" streamtype="flv" src="XMjgzODM4OTQ0" label="感激我遇見1994珍贵画面" />
+  </m>
+  <m label="吴孟达电影列表" opened="">
+   <m type="youku" streamtype="flv" src="XOTA5NTc1NTI=" label="逃学英雄传国语版（完整），王晶经典搞笑喜剧电影.郭富城、张敏、吴孟达主演" /> 
+  <m type="youku" streamtype="flv" src="XMzE1ODg0ODQ=" label="〖香港经典〗《忍者兵》(国语)吴孟达,郝邵文电影作品 喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XMTQxNTUwMDg=" label="【张卫健爆笑电影】武侠七公主之天剑绝刀 国语全集 吴孟达 任达华 张曼玉 杨紫琼 吴君如 张敏超大明星阵容" /> 
+  <m type="youku" streamtype="flv" src="XNzgzNDI3MDg=" label="【龙神太子】Ｂ刘德华 郭富城 关之琳 吴孟达 吴君如 经典片(国语)DVD" /> 
+  <m type="youku" streamtype="flv" src="XNzgzNDA2MTI=" label="【龙神太子】Ａ刘德华 郭富城 关之琳 吴孟达 吴君如 经典片(国语)DVD" /> 
+  <m type="youku" streamtype="flv" src="XNjkyNTk0MTI=" label="刘德华周星驰张卫健郑少秋吴孟达经典奇幻喜剧片《群星会》DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMzQ2NDA0ODg=" label="〖香港经典〗《整蛊神仙》(国语)DVD高清 吴孟达 郑少秋 经典动作喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XNzkwMTg3NTI=" label="《庙街十二少》 高清版 主演：刘德华 王祖贤 吴孟达 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTM0MDk5NTI4" label="郭富城 吴孟达 张曼玉经典《千面天王》国语DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XNzUyMDk2NzY=" label="刘德华周星驰张卫健郑少秋吴孟达经典奇幻喜剧片《群星会》DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XOTg1NjQxMjA=" label="《中国龙》 高清版 主演：释小龙 金城武 郝劭文 徐锦江 吴孟达 叶全真 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMzM0Mjk3NzY=" label="〖香港经典〗《蜡笔小小生》(国语)DVD 吴孟达 经典喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XNzk2NDE3MDQ=" label="《逃学英雄传》吴孟达，邱淑贞，郭富城（国语）" /> 
+  <m type="youku" streamtype="flv" src="XNTEzMzczOTI=" label="蜡笔小小生吴孟达郝邵文 国语rm" /> 
+  <m type="youku" streamtype="flv" src="XMTE1ODY0NTY4" label="《与龙共舞》 高清版 主演：刘德华 张敏 翁虹 吴孟达 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTE5MTE3NzA0" label="《笑八仙整蛊神仙》 高清版 主演：吴君如 郑少秋 郑丹瑞 关之琳 刘 洵 吴孟达 成奎安 (国语)" /> 
+  <m type="youku" streamtype="flv" src="XMjczMTU3NDg=" label="周润发吴孟达经典【阿郎的故事】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XMTA0MzU1MjYw" label="《何方神圣》刘家荣，午马，吴孟达（国语）" /> 
+  <m type="youku" streamtype="flv" src="XOTg1OTI0ODg=" label="《逃学外传》 高清版 主演：张敏 朱茵 张卫健 吴孟达 吴奇隆 林志颖 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMzEyMjc0MjQ=" label="〖香港经典〗《干妈难当》(国语)DVD 郑裕玲 梁家辉 吴孟达喜剧大片" /> 
+  <m type="youku" streamtype="flv" src="XMTMzNjI4MjE2" label="张卫健 曾志伟 吴孟达 经典爆笑《芝士火腿》国语DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XODA2NTY4ODg=" label="吴孟达 吕良伟 香港经典警匪动作片 一代枭雄之三支旗（DVD国语）" /> 
+  <m type="youku" streamtype="flv" src="XOTk1MjIzNDA=" label="《少林足球》 高清版 主演：周星驰 赵薇 黄一飞 吴孟达 陈国坤 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XODc4MzUzMzI=" label="《赌霸》 高清版 主演：钟镇涛 周星驰 梅艳芳 吴孟达 成奎安 郑裕玲 吴君如 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTY3MDU5MTI=" label="【济公】清晰版 国语无字 主演：周星驰 张曼玉 吴孟达 黄秋生" /> 
+  <m type="youku" streamtype="flv" src="XMTEwMTM0MDQ4" label="《真假威龙》又名 [龙虎啸] 高清版 主演：刘德华 吴孟达 关之琳 郭富城 吴君如 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XODA2OTQ4MDA=" label="《明月照尖东I.》 高清版 主演：张学友 黎明 关之琳 吴孟达 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTA2OTMwMTIw" label="《新精武门1991》 高清版 主演：周星驰 钟镇涛 张敏 吴孟达 成奎安 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XOTk0Mjg1ODQ=" label="蜡笔小小生 国语 金城武 郝劭文 吴孟达 朱茵" /> 
+  <m type="youku" streamtype="flv" src="XNzk2NTk2Mjg=" label="《少林足球》周星驰，吴孟达（国语）" /> 
+  <m type="youku" streamtype="flv" src="XODAxNzQ4MDA=" label="《义胆雄心》 高清版 主演：刘德华 成奎安 吴孟达 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XNjcyOTUyMjA=" label="刘德华，吴孟达《五亿探长雷洛传Ⅰ雷老虎》(国语)" /> 
+  <m type="youku" streamtype="flv" src="XMzQ1MzkyNDA=" label="张学友 黎明 关之琳 吴孟达 火爆经典《明月照尖东》国语DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XMTM0NzMxNTc2" label="郭富城 吴孟达 张曼玉经典《千面天王》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTE2NzA3NzY0" label="《江湖最后一个大佬》周星驰，吴孟达（国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTIzODI3MzAw" label="沙滩仔与周师奶-梁朝伟,吴孟达喜剧DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XNjI4NTI2NzY=" label="吴孟达经典《一石二鸟3》DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XMTQ1MDYyOTc2" label="《黄飞鸿笑传》 高清版 主演：任达华 谭咏麟 毛舜筠 梁家辉 吴孟达 曾志伟 （国语）" /> 
+  </m>
+  <m label="周润发电影列表" opened="">
+  <m type="youku" streamtype="flv" src="XMjE0NDEzNTU2" label="赌神秘笈" /> 
+  <m type="youku" streamtype="flv" src="XMTE4NzQzNzQ4" label="赌侠 DVD国语中字无水印周润发经典动作" /> 
+  <m type="youku" streamtype="flv" src="XNzY4NzY4MzY=" label="周润发刘德华万梓良经典《江湖情2英雄好汉》国语DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTM2OTMzNzE2" label="周润发经典电影《喷火女郎》" /> 
+  <m type="youku" streamtype="flv" src="XMTE4NTI3MDMy" label="《小生梦惊魂》周润发 梅艳芳 刘嘉玲 苗侨伟主演" /> 
+  <m type="youku" streamtype="flv" src="XOTM5NDUxMTY=" label="【香港电影】地下情 爱情 华语 演员：周润发 金燕玲 梁朝伟 温碧霞" /> 
+  <m type="youku" streamtype="flv" src="XMTM2OTMzOTQw" label="周润发经典电影《神偷妙探手多多》" /> 
+  <m type="youku" streamtype="flv" src="XMTM2NDUwNzQw" label="周润发经典电影《O女迷女》" /> 
+  <m type="youku" streamtype="flv" src="XMjY4NjExNDQ=" label="周润发经典爆笑《师爸》DVD中字" /> 
+  <m type="youku" streamtype="flv" src="XMTY2ODEyODIw" label="周润发电影《孔子》高清版" /> 
+  <m type="youku" streamtype="flv" src="XMjE0NDk1MjA0" label="周润发绝版电影《神鹰·蝴蝶·鳄鱼头》" /> 
+  <m type="youku" streamtype="flv" src="XNjYyMjY4NjA=" label="池女 周润发银幕处女作" /> 
+  <m type="youku" streamtype="flv" src="XMTA2OTI1ODc2" label="香港经典动作片【横冲直撞火凤凰】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDg1MTAxNDQ=" label="周润发电影全集【巡城马】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM3NDY1MzUy" label="周润发电影全集【执法者】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDcyNDUwODA=" label="周润发电影全集【猎头】" /> 
+  <m type="youku" streamtype="flv" src="XMTcyNDU1Mjcy" label="电影：倾城之恋" /> 
+  <m type="youku" streamtype="flv" src="XNDg5NjEyMzI=" label="周润发电影全集【灵气逼人】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTUyMTg2MjA=" label="女人心" /> 
+  <m type="youku" streamtype="flv" src="XMjE1NTI4MjM2" label="香港经典喜剧王晶电影-猪扒大联盟 李嘉欣 莫文蔚 陈小春 林熙蕾[国语]【月影琴桥】" /> 
+  <m type="youku" streamtype="flv" src="XMzE0NjM4MTI=" label="香港电影 何必有我[国语]" /> 
+  <m type="youku" streamtype="flv" src="XMjc5Njg2NzI=" label="周润发，梁朝伟早期电影【癫佬正传】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XNjg4MTExMzY=" label="你情我愿夜难眠" /> 
+  <m type="youku" streamtype="flv" src="XOTE5NzE0NDA=" label="奇缘DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTY0OTU2MTY=" label="地下情" /> 
+  <m type="youku" streamtype="flv" src="XMTI3NDU3OTY=" label="杀妻二人组" /> 
+  <m type="youku" streamtype="flv" src="XMjA0NDM4MDgw" label="周润发电影【义盖云天】国语版." /> 
+  <m type="youku" streamtype="flv" src="XNDQ3NDkzNzI=" label="周润发电影全集【秋天的童话】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTMwMDA4ODg=" label="鬼新娘DVD" /> 
+  <m type="youku" streamtype="flv" src="XMTg4NjA4NDY4" label="周润发电影全集【江湖情】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjc3MDcyMjQ=" label="周润发电影全集【小生梦惊魂】" /> 
+  <m type="youku" streamtype="flv" src="XOTQyMjQ5NjA=" label="新义本无言(犯罪动作)" /> 
+  <m type="youku" streamtype="flv" src="XMTUxNTk5NzY=" label="郁达夫传奇" /> 
+  <m type="youku" streamtype="flv" src="XMTI3NDYwNTI=" label="龙虎风云" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDI1Mzgw" label="英雄好汉" /> 
+  <m type="youku" streamtype="flv" src="XODYwMDUwNjA=" label="（goldstar999）再见英雄国语版 香港抗日电影周润发主演" /> 
+  <m type="youku" streamtype="flv" src="XMTI3NDU2NDg=" label="八星报喜" /> 
+  <m type="youku" streamtype="flv" src="XMjc3MjUyMDg=" label="周润发电影全集【长短脚之恋】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTcwMDUzMjg=" label="【大丈夫日记】【周润发，王祖贤，叶倩文】【喜剧】【粤语中字】" /> 
+  <m type="youku" streamtype="flv" src="XMTgwOTYzOTUy" label="[高清]喋血双雄" /> 
+  <m type="youku" streamtype="flv" src="XNzc3ODAzMDQ=" label="周润发电影全集【公子多情】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTU3Mzg3MTcy" label="周润发电影全集【阿郎的故事】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTQ2NjY1ODYw" label="周润发电影全集【我在黑社会的日子】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTQ1NTY0NTA0" label="周润发电影全集【纵横四海】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjgyODI2MTI=" label="周润发火暴枪战大片【义胆红唇】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XMTQ1NjQzMDcy" label="周润发电影全集【监狱风云2 逃犯】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTg5NDE1ODcy" label="精装追女仔3 狼之一族" /> 
+  <m type="youku" streamtype="flv" src="XMjAyOTU1MTQw" label="赌神2 CD1" /> 
+  <m type="youku" streamtype="flv" src="XMTg4NjExMTUy" label="精装追女仔2" /> 
+  <m type="youku" streamtype="flv" src="XMTg4NjA5MDg4" label="精装追女仔" /> 
+  <m type="youku" streamtype="flv" src="XMjEwMzg3MTg0" label="卧虎藏龙" /> 
+  <m type="youku" streamtype="flv" src="XNzgzMDM1NzI=" label="周润发电影全集【老虎出更】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTI3NDU2MTI=" label="伴我闯天涯" /> 
+  <m type="youku" streamtype="flv" src="XMjI4OTU1NTY=" label="【周润发】英雄本色3" /> 
+  <m type="youku" streamtype="flv" src="XNzEzNDIyNzI=" label="监狱风云1 (电影皇帝周润发经典动作大片DVD国语)" /> 
+  <m type="youku" streamtype="flv" src="XNzEzMzExNjg=" label="英雄本色2 (电影皇帝周润发经典动作大片DVD国语)" /> 
+  <m type="youku" streamtype="flv" src="XMjA4OTcxOTAw" label="英雄本色1[周润发经典]" /> 
+  <m type="youku" streamtype="flv" src="XMTIxMDY5MjY0" label="国语版周润发经典喜剧爱情片【我爱扭纹柴】" /> 
+  <m type="youku" streamtype="flv" src="XMTkyODY5ODM2" label="赌神3之少年赌神" /> 
+  <m type="youku" streamtype="flv" src="XMjAyOTU1Mjg4" label="赌神2 CD2" /> 
+  <m type="youku" streamtype="flv" src="XNTEwNDEwODA=" label="《赌神1》 周润发经典电影" /> 
+  <m type="youku" streamtype="flv" src="XODE3MTk5NTY=" label="【玫瑰的故事】周润发,张曼玉,张坚庭,张耀扬,香港经典" />  
+  </m>
+  <m label="梁朝伟电影列表" opened=""> 
+   <m type="youku" streamtype="flv" src="XMTI0NTcyMDc2" label="新流星蝴蝶剑DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMjc5Njg2NzI=" label="周润发，梁朝伟早期电影【癫佬正传】国语ＤＶＤ版" /> 
+  <m type="youku" streamtype="flv" src="XNTQwMjE1MjQ=" label="梁朝伟经典片《沙滩仔与周师奶》DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XNDAyNTgzMDg=" label="东成西就DVD高清国语" /> 
+  <m type="youku" streamtype="flv" src="XODExNjU1MDQ=" label="倩女幽魂III之道道道 超清国语DVD" /> 
+  <m type="youku" streamtype="flv" src="XOTQwODIxNjQ=" label="新仙鹤神针国语" /> 
+  <m type="youku" streamtype="flv" src="XNzU2MDA4ODg=" label="同居密友 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTAxODM3Mzg4" label="亚飞与亚基 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XNzQ1NDAxMTY=" label="风尘三侠 超清国语DVD" /> 
+  <m type="youku" streamtype="flv" src="XMzQ3NzI5NjQ=" label="〖香港经典〗《天下无双》(国语)DVD高清 梁朝伟 赵薇 经典动作喜剧片" /> 
+  <m type="youku" streamtype="flv" src="XMTA3MTI1NjA=" label="二零四六(2046)" /> 
+  <m type="youku" streamtype="flv" src="XMTE0NTY4MTI0" label=" 香港经典喜剧片【情人知已】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjcwNjk2MDg=" label="踢到宝 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTIxMTczMjY0" label="《千王1991.》 高清版 主演：叶子楣 梁朝伟 黄百鸣 任达华 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTIwNTYzODg0" label="杀手蝴蝶梦DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XMTAwMjc3NzIw" label="救世神棍DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTA5ODc4OTg0" label="五虎将之决裂DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XOTQ4NDg1NzI=" label="新难兄难弟(国语)A" /> 
+  <m type="youku" streamtype="flv" src="XOTQ4NDgzNjg=" label="新难兄难弟(国语)B" /> 
+  <m type="youku" streamtype="flv" src="XMTIwMzg5NDQ0" label="重庆森林 DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XNjUzMzkyMzY=" label="醉枪DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XNzE2MjM3MjQ=" label="花样年华" /> 
+  <m type="youku" streamtype="flv" src="XMTAyNDk4ODEy" label="豪门夜宴[国语]" /> 
+  <m type="youku" streamtype="flv" src="XOTE5MzA5ODQ=" label="[影星系列.梁朝伟]【韩城攻略】国语版" /> 
+  <m type="youku" streamtype="flv" src="XODM0NTExMzI=" label="古惑仔之江湖大风暴国语" /> 
+  <m type="youku" streamtype="flv" src="XMTAzNDA0NjMy" label="地下铁-国语中字（梁朝伟 杨千嬅 张震 香港经典爱情）" /> 
+  <m type="youku" streamtype="flv" src="XMTAzNDAxMDA0" label="有情饮水饱-国语高清全集（梁朝伟 舒淇 林家栋 香港经典爱情喜剧）" /> 
+  <m type="youku" streamtype="flv" src="XNDIwNjU1MjQ=" label="每天爱你8小时" /> 
+  <m type="youku" streamtype="flv" src="XMTAzNTk5MzA4" label="超时空要爱DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XOTAwODIxMjQ=" label="【神龙赌圣之旗开得胜】梁朝伟 曾志伟 梁家辉 陈加玲 吴君如 欧瑾 经典 动作片 国语版" /> 
+  <m type="youku" streamtype="flv" src="XMjc0NjM3ODQ=" label="真爱难求A" /> 
+  <m type="youku" streamtype="flv" src="XNjU3ODA5MTI=" label="真爱难求 B" /> 
+  <m type="youku" streamtype="flv" src="XMTMxMDY3MTEy" label="喋血街头DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTI1NjUyMDA=" label="正牌韦小宝之奉旨沟女CD1" /> 
+  <m type="youku" streamtype="flv" src="XMTI1NjQ3NDQ=" label="正牌韦小宝之奉旨沟女CD2" /> 
+  <m type="youku" streamtype="flv" src="XNDcxOTU5Mg==" label="倩女幽魂Ⅱ人间道1" /> 
+  <m type="youku" streamtype="flv" src="XNDcxOTY1Ng==" label="倩女幽魂Ⅱ人间道2" /> 
+  <m type="youku" streamtype="flv" src="XMjcxNzMwMTA0" label="[倩女幽魂3][梁朝伟 张学友 王祖贤][港台][经典][奇幻][高清][国语中字]" /> 
+  <m type="youku" streamtype="flv" src="XMTYxOTMxNDE2" label="喜剧片《韩城攻略》[全集]" /> 
+  <m type="youku" streamtype="flv" src="XMjExMzM5NDg=" label="经典电影《流氓医生》主演 梁朝伟 钟丽缇 杜德伟" /> 
+  <m type="youku" streamtype="flv" src="XODI4OTkwODA=" label="梁朝伟电影-地下铁" /> 
+  <m type="youku" streamtype="flv" src="XOTY2MTU0NjA=" label="玻璃樽 (成龙经典动作喜剧片DVD国语)" /> 
+  <m type="youku" streamtype="flv" src="XMTU1MjI1MDU2" label="经典喜剧电影《魔画情》王祖贤 梁朝伟 叶德娴 秦沛 威利" /> 
+  <m type="youku" streamtype="flv" src="XOTg5NjA3Njg=" label="《咖喱辣椒II.亚飞与亚基》 高清版 主演：梁朝伟 张学友 汤镇业 曾志伟 袁咏仪 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTY4MDEzOTQ0" label="梁朝伟刘青云《暗花之杀人条件》国语" /> 
+  <m type="youku" streamtype="flv" src="XMTU3NTY4NjQ0" label="梁朝伟 林志颖 甄子丹 王祖贤主演《新流星蝴蝶剑》" /> 
+  <m type="youku" streamtype="flv" src="XODcyNzA5MzY=" label="香港经典喜剧全星演出梁朝伟 主演《偷偷爱你》 DVD国语" /> 
+  </m>
+  <m label="梁家辉电影列表" opened=""> 
+   <m type="youku" streamtype="flv" src="XMzE1NjM2NDg=" label="龙城岁月" /> 
+  <m type="youku" streamtype="flv" src="XMjYxODg1MDA=" label="20 30 40" /> 
+  <m type="youku" streamtype="flv" src="XNDMyODQwMzI=" label="追踪眼前人" /> 
+  <m type="youku" streamtype="flv" src="XMzI4NzEwOTI=" label="大丈夫" /> 
+  <m type="youku" streamtype="flv" src="XMTIxMDg2MzY=" label="神勇铁金刚" /> 
+  <m type="youku" streamtype="flv" src="XNDUwNzQxMDA=" label="周渔的火车" /> 
+  <m type="youku" streamtype="flv" src="XNTE4NTQ4MTI=" label="神龙赌圣之旗开得胜" /> 
+  <m type="youku" streamtype="flv" src="XNTM4MzY4MTI=" label="东成西就" /> 
+  <m type="youku" streamtype="flv" src="XNTE3MjcxNDA=" label="追男仔" /> 
+  <m type="youku" streamtype="flv" src="XNTM3NTU3OTY=" label="新难兄难弟（下）" /> 
+  <m type="youku" streamtype="flv" src="XMjM5NjMyMDA=" label="香港梁家辉李修贤经典[蓝色霹雳火]" /> 
+  <m type="youku" streamtype="flv" src="XNDAyMzUzNjA=" label="香港经典喜剧回顾[神探马如龙]" /> 
+  <m type="youku" streamtype="flv" src="XMzkxNzU5ODg=" label="何日君再来" /> 
+  <m type="youku" streamtype="flv" src="XMTkzOTI5MDQ=" label="鬼干部" /> 
+  <m type="youku" streamtype="flv" src="XMTk1NTc1NzY=" label="鬼干部" /> 
+  <m type="youku" streamtype="flv" src="XMjY1MzA2MDA=" label="豪门夜宴" /> 
+  <m type="youku" streamtype="flv" src="XNTM3NTU3MTI=" label="新难兄难弟（上）" /> 
+  <m type="youku" streamtype="flv" src="XMTAxMDAwMjg=" label="玫瑰玫瑰我爱你" /> 
+  <m type="youku" streamtype="flv" src="XNDg1MTc3MjA=" label="阮玲玉" /> 
+  <m type="youku" streamtype="flv" src="XNDkzMzcwNDg=" label="黄飞鸿笑传" /> 
+  <m type="youku" streamtype="flv" src="XMzgzNjY0MjQ=" label="表姐你好嘢3" /> 
+  <m type="youku" streamtype="flv" src="XMzgzNjY4MDg=" label="表姐你好嘢2" /> 
+  <m type="youku" streamtype="flv" src="XMzgzNjYyMzI=" label="表姐你好嘢1" /> 
+  <m type="youku" streamtype="flv" src="XNDU3MTA2Mjg=" label="古惑大律师" /> 
+  <m type="youku" streamtype="flv" src="XMjkwNTE3Njg=" label="皇家女将" /> 
+  <m type="youku" streamtype="flv" src="XNTM3NTA3NDA=" label="英雄本色3" /> 
+  <m type="youku" streamtype="flv" src="XMjIzMjI2MjQ=" label="合家欢" /> 
+  <m type="youku" streamtype="flv" src="XMzU2ODY1MDg=" label="夺命佳人" /> 
+  <m type="youku" streamtype="flv" src="XNTA1OTUyMjQ=" label="监狱风云" /> 
+  <m type="youku" streamtype="flv" src="XNDcxNTQ3MDA=" label="火龙" /> 
+  </m>
+  <m label="黎明 电影列表" opened=""> 
+   <m type="youku" streamtype="flv" src="XNjk4MjE4ODQ=" label="痴情快婿01" /> 
+  <m type="youku" streamtype="flv" src="XMTIyNjUwNDA=" label="重庆森林[粤语]" /> 
+  <m type="youku" streamtype="flv" src="XMjUwMDMyNDQ=" label="神算A 粤语" /> 
+  <m type="youku" streamtype="flv" src="XOTcwNTUyNA==" label="新恋爱世纪01" /> 
+  <m type="youku" streamtype="flv" src="XMTU3MTg0NzY=" label="香港电影黎明张曼玉主演爱情片《一见钟情》DVD版" /> 
+  <m type="youku" streamtype="flv" src="XNTM5MDc0NjA=" label="妖兽都市" /> 
+  <m type="youku" streamtype="flv" src="XMjY5NzEyNjQ=" label="飞狐外传 粤语 黎明 张敏 李嘉欣 徐锦江" /> 
+  <m type="youku" streamtype="flv" src="XMTUzODgxMjQ=" label="香港经典回顾[甜蜜蜜]" /> 
+  <m type="youku" streamtype="flv" src="XNzY4MTEyMzI=" label="爱你爱到杀死你[粤语]" /> 
+  <m type="youku" streamtype="flv" src="XMTIxMDE3NTI0" label="Yes一族(粵語)" /> 
+  <m type="youku" streamtype="flv" src="XMzQyNTQ5NDQ=" label="甜蜜蜜(粤语中字) CD1 张曼玉 曾志伟 黎明" /> 
+  <m type="youku" streamtype="flv" src="XMzQyNTUyMjA=" label="甜蜜蜜(粤语中字) CD2 张曼玉 曾志伟 黎明" /> 
+  <m type="youku" streamtype="flv" src="XMTg2NjIwMjUy" label="情义我心知" /> 
+  <m type="youku" streamtype="flv" src="XNTY2MTEyNTI=" label="三更之回家 粤语 鬼片 恐怖" /> 
+  <m type="youku" streamtype="flv" src="XOTcwNTkwNA==" label="新恋爱世纪02" /> 
+  <m type="youku" streamtype="flv" src="XMTE0Nzk1Njcy" label="吴倩莲电影《半生缘》上集 黎明 葛优主演." /> 
+  <m type="youku" streamtype="flv" src="XMTE0Nzk3Mzcy" label="黎明电影 《半生缘》下集 葛优 吴倩莲主演." /> 
+  <m type="youku" streamtype="flv" src="XMTQyNjA0MDc2" label="十月围城[09中国陈可辛甄子丹黎明谢霆锋梁家辉最新电影大片][TS抢先版].rmvb" /> 
+  <m type="youku" streamtype="flv" src="XMTE1OTA3Njc2" label="缘邀知音" /> 
+  <m type="youku" streamtype="flv" src="XMTg3OTIyMTk2" label="情义我心知DVD国语中字-黎明经典" /> 
+  <m type="youku" streamtype="flv" src="XMTUwOTk3MTI=" label="神偷次世代" /> 
+  <m type="youku" streamtype="flv" src="XODQ1MzY3NDA=" label="黎明、舒淇主演动作片《神偷次世代》粤语" /> 
+  <m type="youku" streamtype="flv" src="XMTM2MTI5MTY=" label="赌神3之少年赌神" /> 
+  <m type="youku" streamtype="flv" src="XMTgwMjIwOTI=" label="赌神3之少年赌神(全一粤语中字)" /> 
+  <m type="youku" streamtype="flv" src="XMTI0NDU4MDgw" label="黎明主演枪战电影--不死情迷 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTU1MjQzODQw" label="城市猎人 成龙电影 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTIyNjcyNDY4" label="【妖兽都市】黎明电影（粤语版）" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MTgxNjA4" label="《段落》" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MTYyOTg4" label="《母与子》" /> 
+  <m type="youku" streamtype="flv" src="XMTkzNzU2MDMy" label="黎明 李克勤 周慧敏 草蜢 主演喜剧 YES!一族国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTc0MzU1NTEy" label="火龙对决国语高清版" /> 
+  <m type="youku" streamtype="flv" src="XMTc0MTA0MjQ4" label="《火龙对决》DVD粤语中字" />
+  </m>
+  <m label="吴京 电影列表" opened=""> 
+  <m type="youku" streamtype="flv" src="XNjU2NDgyMzI=" label="吴京电影《生死拳》" /> 
+  <m type="youku" streamtype="flv" src="XMjEyMjg1Njg=" label="吴京〖动作喜剧〗双子神偷" /> 
+  <m type="youku" streamtype="flv" src="XMTM5MDcwNjU2" label="余文乐、江若琳09最新大片【同门】" /> 
+  <m type="youku" streamtype="flv" src="XMjY3OTc5MTEy" label="甄子丹 洪金宝 任达华 吴京《杀破狼》" /> 
+  <m type="youku" streamtype="flv" src="XMjMzNzg3NTQ0" label="2010年国产警匪动作片 西风烈 cd1" /> 
+  <m type="youku" streamtype="flv" src="XMjMzNzkxMjk2" label="2010年国产警匪动作片 西风烈 cd2" /> 
+  <m type="youku" streamtype="flv" src="XNjg4ODY4MTI=" label="黑拳 吴京 郑中基" /> 
+  <m type="youku" streamtype="flv" src="XMjExMDU1MDg0" label="蜀山传 【电影】高清HD" /> 
+  <m type="youku" streamtype="flv" src="XMjQ1MTIzNzgw" label="全城戒备" /> 
+  <m type="youku" streamtype="flv" src="XMTI3MTg4Mzg0" label="醉猴" /> 
+  <m type="youku" streamtype="flv" src="XMTIxODIyNTM2" label="夺帅" /> 
+  <m type="youku" streamtype="flv" src="XMjUyMDA4Mjky" label="新少林寺 2011最新刘德华谢霆锋成龙范冰冰吴京于海电影DVD高清晰完整版带片尾曲《悟》" />
+  </m>
+  <m label="张学友电影列表" opened=""> 
+    <m type="youku" streamtype="flv" src="XNzQxMzUwMTY=" label="中国香港电影【新仙鹤神针】国语版" /> 
+  <m type="youku" streamtype="flv" src="XODE1Mjc1OTI=" label="香港电影【龙虎风云】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTM1NzgzMTIw" label="中国香港电影【乌鼠机密档案】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTMzNTM5NjI0" label="中国香港电影【芝士火腿】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjM1OTUzNjg=" label="中国香港电影【笑傲江湖】A 国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjM2MDY3MDQ=" label="中国香港电影【笑傲江湖】B 国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjMzNTEyMTI=" label="中国香港电影【东成西就】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNjM4NDU2OTY=" label="老娘够骚01" /> 
+  <m type="youku" streamtype="flv" src="XNjM4NDU5Njg=" label="老娘够骚02" /> 
+  <m type="youku" streamtype="flv" src="XODY0MTM0MzY=" label="霹雳大喇叭DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XMTAxNDg0MDk2" label=" 张学友经典绝版电影【天赐良缘】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTI1ODQ4MTk2" label="猛鬼差馆（国语）" /> 
+  <m type="youku" streamtype="flv" src="XOTk0NTI4MzY=" label="旺角卡门 国语" /> 
+  <m type="youku" streamtype="flv" src="XODg4NDgyMzY=" label="特警屠龙(国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTA2ODQ5OTE2" label="猛鬼学堂 ≮国语≯" /> 
+  <m type="youku" streamtype="flv" src="XNTE1OTY0MzY=" label="梦过界b" /> 
+  <m type="youku" streamtype="flv" src="XMTA0ODc1MTQ0" label="咖喱辣椒(国语)" /> 
+  <m type="youku" streamtype="flv" src="XMTIwMTg5ODIw" label="刘德华电影《阿飞正传》国语" /> 
+  <m type="youku" streamtype="flv" src="XOTU0MTExMzI=" label="香港电影 马路英雄 国语中字 1990" /> 
+  <m type="youku" streamtype="flv" src="XMTAxODMwOTA4" label="都市煞星 超清DVD 国语" /> 
+  <m type="youku" streamtype="flv" src="XNTMzOTQyNDQ=" label="张学友张曼玉《富贵吉祥》DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XNDM1Njk4MjA=" label="张曼玉 张学友 王敏德经典电影《黑雪》" /> 
+  <m type="youku" streamtype="flv" src="XMTIxMTg1MzI4" label="追日（国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTE4NzQ0MjUy" label="洪金宝电影 黐线枕边人 国语" /> 
+  <m type="youku" streamtype="flv" src="XMTEzMzgzMjAw" label="任达华电影全集【子弹出租】" /> 
+  <m type="youku" streamtype="flv" src="XNTI5MDE4MjQ=" label="《豪门夜宴》国语" /> 
+  <m type="youku" streamtype="flv" src="XNzI1NjEyNDQ=" label="香港电影 明月照尖东 国语" /> 
+  <m type="youku" streamtype="flv" src="XOTg5NjA3Njg=" label="《咖喱辣椒II.亚飞与亚基》 高清版 主演：梁朝伟 张学友 汤镇业 曾志伟 袁咏仪 （国语）" /> 
+  <m type="youku" streamtype="flv" src="XMTUzNzQ2NDQ=" label="妖兽都市(国语版)\[国语]" /> 
+  <m type="youku" streamtype="flv" src="XMTE0MDExMTUy" label="电影 神枪手与咖喱鸡 国语" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNzA4NDA=" label="香港经典动作片【女黑侠黄莺】国语版" /> 
+  <m type="youku" streamtype="flv" src="XMTUwNzIzNjg=" label="射雕英雄传之东成西就(1993年)国语版" /> 
+  <m type="youku" streamtype="flv" src="XODIwMzEyMjg=" label="爱情动作片《太子传说》DVD国语" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNjg1Ng==" label="飞越谜情A" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNzQwOA==" label="飞越谜情B" /> 
+  <m type="youku" streamtype="flv" src="XOTgwNzY3Ng==" label="飞越谜情C" /> 
+  <m type="youku" streamtype="flv" src="XOTg3NDk4MA==" label="飞越谜情D剧终" /> 
+  <m type="youku" streamtype="flv" src="XMTAzMDAyMjMy" label="电影《安娜玛德莲娜》（郭富城 金城武 陈慧琳 古巨基）片段" /> 
+  <m type="youku" streamtype="flv" src="XMjIxNDEyODg=" label="龙火a" /> 
+  <m type="youku" streamtype="flv" src="XMjIxMzc3MjQ=" label="龙火b" /> 
+  <m type="youku" streamtype="flv" src="XMTIzNTUzMzg4" label="龙咁威2003 国语" /> 
+  <m type="youku" streamtype="flv" src="XNzA0NzUwODg=" label="汤唯 张学友将合作《月满轩尼诗》" /> 
+  <m type="youku" streamtype="flv" src="XMTE5MTk5NDI0" label="金鸡2-吴君如喜剧DVD国语中字" /> 
+  <m type="youku" streamtype="flv" src="XMTI3NTUwMTUy" label="张学友刘若英热力兄弟全城热恋电影" /> 
+  </m>
+  <m label="李连杰电影列表" opened="">
+    <m type="youku" streamtype="flv" src="XNDk5NDQwOTI=" label="少林寺 李连杰" /> 
+  <m type="youku" streamtype="flv" src="XNDE1Mzk2NzI=" label="黄飞鸿之五龙城歼霸" /> 
+  <m type="youku" streamtype="flv" src="XNjY3NjYwOTI=" label="李连杰 中南海保镖" /> 
+  <m type="youku" streamtype="flv" src="XMjY3NjE4NTY=" label="李连杰之新少林五祖(洪熙官)" /> 
+  <m type="youku" streamtype="flv" src="XNjg0Nzc2NjA=" label="投名状" /> 
+  <m type="youku" streamtype="flv" src="XNzA4Nzk1MTI=" label="龙行天下" /> 
+  <m type="youku" streamtype="flv" src="XNjUzNjMxNzI=" label="【高清 国语】 黄飞鸿之狮王争霸" /> 
+  <m type="youku" streamtype="flv" src="XOTQ0MDU2ODQ=" label="李连杰助演的空难死亡女孩Aaliyah的绝版经典冠军歌曲Try Again【陈照】" /> 
+  <m type="youku" streamtype="flv" src="XMTE0MDg0ODQ=" label="李连杰 黄飞鸿系列之醉拳" /> 
+  <m type="youku" streamtype="flv" src="XNjM0NDMyMTI=" label="黄飞鸿之 壮志凌云 全集高清 国语中字 李连杰经典动作片" /> 
+  <m type="youku" streamtype="flv" src="XMjA1MzEyMDA=" label="李连杰电影全集【黄飞鸿3 狮王争霸】" /> 
+  <m type="youku" streamtype="flv" src="XNDE3MzI4NDQ=" label="李连杰电影全集【龙在天涯】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNTg1ODU2MjQ=" label="李连杰电影全集【中南海保镖】国语版" /> 
+  <m type="youku" streamtype="flv" src="XNDE3MzE3Mjg=" label="方世玉1--李连杰电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XNDE3MzMyNDA=" label="黄飞鸿5西域雄狮--李连杰电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XNDE3MzQwODQ=" label="南北少林--李连杰电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XNDE3MzQ3NzI=" label="精武英雄--李连杰电影系列全集" /> 
+  <m type="youku" streamtype="flv" src="XMzI2MzU0NjA=" label="黄飞鸿之西域雄狮" /> 
+  <m type="youku" streamtype="flv" src="XNDAxNjIyNzI=" label="黄飞鸿之狮王争霸" /> 
+  <m type="youku" streamtype="flv" src="XMzE2Mjg1NzI=" label="方世玉与洪熙官" /> 
+  <m type="youku" streamtype="flv" src="XMTQ0OTA5MjQ=" label="【李连杰】方世玉" /> 
+  <m type="youku" streamtype="flv" src="XNDMyMDY5MTY=" label="【少林小子】李连杰经典电影" /> 
+  <m type="youku" streamtype="flv" src="XMzExNDk3Ng==" label="黄飞鸿之壮志凌云1" /> 
+  <m type="youku" streamtype="flv" src="XMzExNTA4NA==" label="黄飞鸿之壮志凌云2" /> 
+  <m type="youku" streamtype="flv" src="XMzExNTg0MA==" label="黄飞鸿之壮志凌云4" /> 
+  <m type="youku" streamtype="flv" src="XMzExNjMwNA==" label="黄飞鸿之壮志凌云5" /> 
+  <m type="youku" streamtype="flv" src="XMzExNjQ3Mg==" label="黄飞鸿之壮志凌云6" /> 
+  <m type="youku" streamtype="flv" src="XMzExNjU0OA==" label="黄飞鸿之壮志凌云7" /> 
+  <m type="youku" streamtype="flv" src="XMzUyNjk1MTI=" label="李连杰对甄子丹" /> 
+  <m type="youku" streamtype="flv" src="XMzUyMzMyODA=" label="李连杰酒祭刘德华" /> 
+  <m type="youku" streamtype="flv" src="XMzUyNzA1MzI=" label="李连杰扁甄子丹" /> 
+  <m type="youku" streamtype="flv" src="XMzUzNTQ3MTI=" label="李连杰经典群殴" /> 
+  <m type="youku" streamtype="flv" src="XMzUzODIzMDg=" label="李连杰 赵文卓" /> 
+  <m type="youku" streamtype="flv" src="XMzg4MDU4NzI=" label="新少林五祖 李连杰" /> 
+  <m type="youku" streamtype="flv" src="XMTY1MTY4MDQ=" label="李连杰影视经典【洪熙官】" /> 
+  <m type="youku" streamtype="flv" src="XMzE4MTY5NzY=" label="【李连杰经典电影】精武英雄A(1994)" /> 
+  <m type="youku" streamtype="flv" src="XMzE4MTk1MjQ=" label="【李连杰经典电影】精武英雄B(1994)" /> 
+  <m type="youku" streamtype="flv" src="XMzQ3NDcyNTI=" label="李连杰电影-南北少林01" /> 
+  <m type="youku" streamtype="flv" src="XMzQ3NDc1Njg=" label="李连杰电影-南北少林02" /> 
+  <m type="youku" streamtype="flv" src="XNDA5ODYxNzI=" label="名家时间-李连杰" /> 
+  <m type="youku" streamtype="flv" src="XMjU4MDEzODQ=" label="李连杰传记—武星李连杰" /> 
+  <m type="youku" streamtype="flv" src="XMTk0NjE2" label="1978年武术比赛李连杰长拳表演" /> 
+  <m type="youku" streamtype="flv" src="XMzk3NzkzNDQ=" label="李连杰" /> 
+  <m type="youku" streamtype="flv" src="XMjYzODExNzI=" label="李连杰 功夫" /> 
+  <m type="youku" streamtype="flv" src="XNDQxNTU1NzI=" label="李连杰北大演讲" /></m>
+</list>

@@ -1,0 +1,50 @@
+﻿<skin version="1.1" name="www.230mv.com" url="http://www.230mv.com" author="Warren" email="376925325@qq.com" readme="播放器
+http://www.230mv.com" mask_color="" preview="preview.jpg" context_menu="2">
+	<option xywh="0C, -4C, 754, 352" src="black.png" mask="" lock="1" display="0" group="A">
+		<pane xywh="0, 0, 100P, 100P" align="left" font="宋体" size="12" color="#7F8FA5, #ffffff"/>
+		<scrollbar thumb_src="scrollbar_thumb.png" button_src="scrollbar_button.png" track_src="scrollbar_track.png"/>
+<bt_close xywh="0, 0, 1, 1" src="" />
+	</option>
+	<lrc xywh="-80C, 148C, 493, 18" src="" mask="" lock="1" display="1" group="A">
+		<text xywh="0, 10, 100P, 100P" align="center" font="宋体" size="12" color="#05a9f6" horizontal="1" glow="#0261ca,0.5,1,1,100,1" max_scale="3"/>
+<bt_close xywh="0, 0, 1, 1" src="" />
+	</lrc>
+	<list xywh="1R, 40r, 220, 35B" src="list.png" mask="" lock="0" display="1" group="A">
+		<tree xywh="7, 25R, 100P, 100P" align="left" font="宋体" size="12" color="#7F8FA5, #ffffff"/>
+		<search xywh="7, 0R, 250, 22" align="left" font="Arial" size="12"  color="#999999, #666666" value="请输入关键字搜索, qq376925325"/>
+		<scrollbar thumb_src="scrollbar_thumb.png" button_src="scrollbar_button.png" track_src="scrollbar_track.png"/>
+		<bt_close xywh="0, 25C, 7, 100" src="bt_close.png" tips="关闭列表"/>
+		<bt_list2 xywh="3R, -4C, 7, 100" src="bt_list2.png" tips="打开列表"/>
+
+		<event type="open" target="media" property="xywh" value="-100C, -15C, 102b, 66b"/>
+		<event type="close" target="media" property="xywh" value="0C, -15C, 6b, 66B"/>
+		<event type="open" target="option" property="display" value="0"/>
+		<event type="close" target="lrc" property="display" value="0"/>
+		<event type="open" target="lrc" property="display" value="1"/>
+	</list>
+	<media xywh="3, 31,132B, 41B" src="003.swf" mask="" lock="1" display="1" group="A">
+		<video xywh="0, 0, 100P, 100P"/>
+
+<bt_close xywh="0, 0, 0, 0" src="" />
+	</media>
+	<console xywh="0, 1r, 100P, 100P" src="console.png" mask="" lock="1" display="1" group="A">
+		<bt_play xywh="-10C, 4R, 30, 32" src="PlayPauseButton.png" tips="播放"/>
+		<bt_stop xywh="-74C, 8R, 23, 23" src="PlayStopButton.png" tips="停止"/>
+		<bt_prev xywh="-42C, 8R, 24, 24" src="PrevButton.png" tips="上一个"/>
+		<bt_next xywh="20C, 8R, 24, 24" src="NextButton.png" tips="下一个"/>
+		<bt_mute xywh="65C, 8R, 24, 24" src="SoundButton.png" tips="音量"/>
+		<volume xywh="115C, 15R, 80, 9" thumb_src="volume_thumb.png" track_src="SoundBar.png"/>
+		<progress xywh="0, 36R, 0B,7" thumb_src="progress_thumb.png" track_src="progress_track.png" thumb_autohide="0"/>
+
+		<bt_list xywh="35R, 3R, 30, 30" src="btnlist.png" tips="关闭列表,打开列表"/>
+		<bt_video xywh="0, 0, 1, 1" src="" />
+		<bt_lrc xywh="0, 0, 1, 1" src="" />
+		<bt_fullscreen xywh="5R, 3r, 30, 30" src="ScreenButton.png" tips="打开全屏,退出全屏"/>
+
+
+                <title xywh="80, 8r, 200, 18" align="left" font="宋体" size="12" color="#FEFDFD" bold="0" />
+		<status xywh="15, 8r, 210, 18" align="left" font="宋体" size="12" color="#FEFDFD" />
+		<time xywh="80r, 8r, 100, 18" align="right" font="宋体" size="12" color="#A5D1FF"/>
+	</console>
+
+</skin>
